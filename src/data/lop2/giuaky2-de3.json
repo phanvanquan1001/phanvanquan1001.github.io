@@ -1,0 +1,237 @@
+{
+  "id": 1,
+  "name": "Ôn tập giữa học kỳ 2 - Đề 47",
+  "description": "this is my quiz",
+  "questions": [
+    {
+      "id": 1,
+      "name": "Số 258 được viết thành tổng các trăm, chục, đơn vị là: ",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "questionId": 1,
+          "name": "A. 200 + 50 + 8",
+          "isAnswer": true
+        },
+        {
+          "id": 2,
+          "questionId": 1,
+          "name": "B. 500 + 20 + 8",
+          "isAnswer": false
+        },
+        {
+          "id": 3,
+          "questionId": 1,
+          "name": "C.  200 + 80 + 5 ",
+          "isAnswer": false
+        },
+        {
+          "id": 4,
+          "questionId": 1,
+          "name": "D. 800 + 50 + 2",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Chọn đáp án đúng nhất: 32 : 4 =………….",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 5,
+          "questionId": 2,
+          "name": "A. 6",
+          "isAnswer": false
+        },
+        {
+          "id": 6,
+          "questionId": 2,
+          "name": "B. 7",
+          "isAnswer": false
+        },
+        {
+          "id": 7,
+          "questionId": 2,
+          "name": "C.8 ",
+          "isAnswer": true
+        },
+        {
+          "id": 8,
+          "questionId": 2,
+          "name": "D. 9",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": " Chọn đáp án đúng nhất: 2 giờ 20 phút = …… phút :",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 9,
+          "questionId": 2,
+          "name": "A. 60 phút",
+          "isAnswer": false
+        },
+        {
+          "id": 10,
+          "questionId": 2,
+          "name": "B.90 phút",
+          "isAnswer": false
+        },
+        {
+          "id": 11,
+          "questionId": 2,
+          "name": "C.120 phút",
+          "isAnswer": false
+        },
+        {
+          "id": 12,
+          "questionId": 2,
+          "name": "D. 140 phút",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Chọn đáp án đúng nhất: 10m = .....dm",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 13,
+          "questionId": 2,
+          "name": "A. 10",
+          "isAnswer": false
+        },
+        {
+          "id": 14,
+          "questionId": 2,
+          "name": "B. 100 ",
+          "isAnswer": true
+        },
+        {
+          "id": 15,
+          "questionId": 2,
+          "name": "C.1000",
+          "isAnswer": false
+        },
+        {
+          "id": 16,
+          "questionId": 2,
+          "name": "C.200",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Có 15 cái kẹo chia đều cho 5 bạn. Hỏi mỗi bạn được bao nhiêu cái kẹo ?",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 17,
+          "questionId": 2,
+          "name": "A. 2",
+          "isAnswer": false
+        },
+        {
+          "id": 18,
+          "questionId": 2,
+          "name": "B. 3",
+          "isAnswer": true
+        },
+        {
+          "id": 19,
+          "questionId": 2,
+          "name": "C.4",
+          "isAnswer": false
+        },
+        {
+          "id": 20,
+          "questionId": 2,
+          "name": "C.5",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Tìm X:  4  x  X = 36 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "9"
+    },
+    {
+      "id": 7,
+      "name": "Tìm X: X  x  5 = 35",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "7"
+    },
+    {
+      "id": 8,
+      "name": "Tìm X: X : 4 = 3 x 4 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "48"
+    },
+    {
+      "id": 9,
+      "name": "Tìm X: 100 : X = 4 x 5 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "5"
+    },
+    {
+      "id": 10,
+      "name": "Tính : 37 + 25 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "62"
+    },
+    {
+     "id": 11,
+      "name": "Tính : 30  + 16=... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "46"
+    },
+    {
+     "id": 12,
+      "name": "Tính : 50 : 5 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "10"
+    },
+    {
+     "id": 13,
+      "name": "Tính :80 : 2 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "40"
+    },
+    {
+     "id": 14,
+      "name": "Tính : 12 : 5= ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "60"
+    },
+    {
+      "id": 15,
+      "name": "Có 30 bông hoa cắm vào các bình, mỗi bình có 5 bông hoa. Hỏi cắm được tất cả mấy bình?",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "6"
+    }
+  ]
+}

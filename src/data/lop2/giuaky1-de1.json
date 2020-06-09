@@ -1,0 +1,237 @@
+{
+  "id": 1,
+  "name": "Ôn tập giữa học kỳ 1 - Đề 20",
+  "description": "this is my quiz",
+  "questions": [
+    {
+      "id": 1,
+      "name": " Chọn đáp án đúng: 1 dm = .........",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "questionId": 1,
+          "name": "A. 1cm",
+          "isAnswer": false
+        },
+        {
+          "id": 2,
+          "questionId": 1,
+          "name": "B. 10cm",
+          "isAnswer": true
+        },
+        {
+          "id": 3,
+          "questionId": 1,
+          "name": "C. 100cm ",
+          "isAnswer": false
+        },
+        {
+          "id": 4,
+          "questionId": 1,
+          "name": "D. 50cm",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Kết quả của phép tính: 28 + 4 = .........:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 5,
+          "questionId": 2,
+          "name": "A. 22",
+          "isAnswer": false
+        },
+        {
+          "id": 6,
+          "questionId": 2,
+          "name": "B. 24",
+          "isAnswer": false
+        },
+        {
+          "id": 7,
+          "questionId": 2,
+          "name": "C.32 ",
+          "isAnswer": true
+        },
+        {
+          "id": 8,
+          "questionId": 2,
+          "name": "D. 68",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": " Số liền sau của 99 là",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 9,
+          "questionId": 2,
+          "name": "A. 97",
+          "isAnswer": false
+        },
+        {
+          "id": 10,
+          "questionId": 2,
+          "name": "B.98",
+          "isAnswer": false
+        },
+        {
+          "id": 11,
+          "questionId": 2,
+          "name": "C.99",
+          "isAnswer": false
+        },
+        {
+          "id": 12,
+          "questionId": 2,
+          "name": "D. 100",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "6kg + 13 kg = ........kg",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 13,
+          "questionId": 2,
+          "name": "A. 19kg",
+          "isAnswer": true
+        },
+        {
+          "id": 14,
+          "questionId": 2,
+          "name": "B. 20kg ",
+          "isAnswer": false
+        },
+        {
+          "id": 15,
+          "questionId": 2,
+          "name": "C.29kg",
+          "isAnswer": false
+        },
+        {
+          "id": 16,
+          "questionId": 2,
+          "name": "C.18kg",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Số lớn nhất có hai chữ số là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 17,
+          "questionId": 2,
+          "name": "A. 90",
+          "isAnswer": false
+        },
+        {
+          "id": 18,
+          "questionId": 2,
+          "name": "B. 100",
+          "isAnswer": false
+        },
+        {
+          "id": 19,
+          "questionId": 2,
+          "name": "C.98",
+          "isAnswer": false
+        },
+        {
+          "id": 20,
+          "questionId": 2,
+          "name": "C.99",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Tìm x: 54 + X = 79   ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "25"
+    },
+    {
+      "id": 7,
+      "name": "Tìm x:  X + 27 = 59",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "32"
+    },
+    {
+      "id": 8,
+      "name": "Tìm x: X + 49 = 90 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "41"
+    },
+    {
+      "id": 9,
+      "name": "Tìm x: 100 - X = 34 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "66"
+    },
+    {
+      "id": 10,
+      "name": "Tính :  36 + 36 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "72"
+    },
+    {
+     "id": 11,
+      "name": "Tính : 55 + 25 =... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "80"
+    },
+    {
+     "id": 12,
+      "name": "Tính : 17 + 28 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "45"
+    },
+    {
+     "id": 13,
+      "name": "Tính :76 + 13 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "89"
+    },
+    {
+     "id": 14,
+      "name": "Tính : 27+ 15= ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "42"
+    },
+    {
+      "id": 15,
+      "name": "Một cửa hàng buổi sáng bán được 78 kg đường, buổi chiều bán được nhiều hơn buổi sáng 13 kg đường. Hỏi buổi chiều cửa hàng đó bán được bao nhiêu kilôgam đường?",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "91kg"
+    }
+  ]
+}

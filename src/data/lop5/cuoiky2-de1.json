@@ -1,0 +1,238 @@
+{
+    "id": 20,
+    "name": "Ôn tập cuối học kỳ 2 - Đề 1",
+    "description": "Ôn tập toán lớp 5",
+    "questions": [
+      {
+        "id": 1,
+        "name": "Số bé nhất trong các số: 3,055; 3,050; 3,005; 3,505 là:",
+        "questionTypeId": 1,
+        "userAnswer": "",
+        "options": [
+          {
+            "id": 1,
+            "questionId": 1,
+            "name": "A. 3,055",
+            "isAnswer": false
+          },
+          {
+            "id": 2,
+            "questionId": 1,
+            "name": "B. 3,050",
+            "isAnswer": false
+          },
+          {
+            "id": 3,
+            "questionId": 1,
+            "name": "C. 3,505 ",
+            "isAnswer": false
+          },
+          {
+            "id": 4,
+            "questionId": 1,
+            "name": "D. 3,005",
+            "isAnswer": true
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "45% của 120 là:",
+        "questionTypeId": 1,
+        "userAnswer": "",
+        "options": [
+          {
+            "id": 5,
+            "questionId": 2,
+            "name": "A. 540",
+            "isAnswer": false
+          },
+          {
+            "id": 6,
+            "questionId": 2,
+            "name": "B. 54",
+            "isAnswer": true
+          },
+          {
+            "id": 7,
+            "questionId": 2,
+            "name": "C.45 ",
+            "isAnswer": false
+          },
+          {
+            "id": 8,
+            "questionId": 2,
+            "name": "D. 12",
+            "isAnswer": false
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Phân số thập phân 834/10 được viết dưới dạng số thập phân là: ",
+        "questionTypeId": 1,
+        "userAnswer": "",
+        "options": [
+          {
+            "id": 9,
+            "questionId": 2,
+            "name": "A. 0,0834",
+            "isAnswer": false
+          },
+          {
+            "id": 10,
+            "questionId": 2,
+            "name": "B. 0,834",
+            "isAnswer": false
+          },
+          {
+            "id": 11,
+            "questionId": 2,
+            "name": "C.8,34 ",
+            "isAnswer": false
+          },
+          {
+            "id": 12,
+            "questionId": 2,
+            "name": "D. 83,4",
+            "isAnswer": true
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Mua 2 quyển vở hết 24000 đồng. Vậy mua 10 quyển vở như thế hết số tiền là:",
+        "questionTypeId": 1,
+        "userAnswer": "",
+        "options": [
+          {
+            "id": 13,
+            "questionId": 2,
+            "name": "A. 60 000 đ",
+            "isAnswer": false
+          },
+          {
+            "id": 14,
+            "questionId": 2,
+            "name": "B. 600 000 đ ",
+            "isAnswer": false
+          },
+          {
+            "id": 15,
+            "questionId": 2,
+            "name": "C.240 000 đ",
+            "isAnswer": false
+          },
+          {
+            "id": 16,
+            "questionId": 2,
+            "name": "C.120 000 đ",
+            "isAnswer": true
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Tìm 15 % của 320 kg là:",
+        "questionTypeId": 1,
+        "userAnswer": "",
+        "options": [
+          {
+            "id": 17,
+            "questionId": 2,
+            "name": "A. 320",
+            "isAnswer": false
+          },
+          {
+            "id": 18,
+            "questionId": 2,
+            "name": "B. 15",
+            "isAnswer": false
+          },
+          {
+            "id": 19,
+            "questionId": 2,
+            "name": "C.48",
+            "isAnswer": true
+          },
+          {
+            "id": 20,
+            "questionId": 2,
+            "name": "C.32",
+            "isAnswer": false
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Tìm x: X – 13,1 = 7,53 x 6 ",
+        "questionTypeId": 2,
+        "userAnswer": "",
+        "correctAnswer": "58,28"
+      },
+      {
+        "id": 7,
+        "name": "Tìm x: 21 x X = 9,45 : 0,1 ",
+        "questionTypeId": 2,
+        "userAnswer": "",
+        "correctAnswer": "4,5"
+      },
+      {
+        "id": 8,
+        "name": "Tính: 367,21 - 128,82 = ... ",
+        "questionTypeId": 2,
+        "userAnswer": "",
+        "correctAnswer": "238,39"
+      },
+      {
+        "id": 9,
+        "name": "Tính: 56,72 + 76,17 = ... ",
+        "questionTypeId": 2,
+        "userAnswer": "",
+        "correctAnswer": " 132,89"
+      },
+      {
+        "id": 10,
+        "name": "Tính:  3,17 x 4,5 = ... ",
+        "questionTypeId": 2,
+        "userAnswer": "",
+        "correctAnswer": " 14,265"
+      },
+      {
+        "id": 11,
+        "name": "Tính:  52,08 :4,2 = ... ",
+        "questionTypeId": 2,
+        "userAnswer": "",
+        "correctAnswer": " 12,4"
+      },
+      {
+        "id": 12,
+        "name": "Điền số thích hợp vào chỗ trống: 2,018 m2= ………….. dm2 ",
+        "questionTypeId": 2,
+        "userAnswer": "...dm2",
+        "correctAnswer": "201,8"
+      },
+      {
+        "id": 13,
+        "name": "Điền số thích hợp vào chỗ trống: 2,3 giờ = ……….. phút ",
+        "questionTypeId": 2,
+        "userAnswer": "...phút",
+        "correctAnswer": "138"
+      },
+      {
+        "id": 14,
+        "name": "Lớp học có 25 học sinh, trong đó có 13 nữ. Số học sinh nữ chiếm bao nhiêu phần trăm của lớp học đó? ",
+        "questionTypeId": 2,
+        "userAnswer": "",
+        "correctAnswer": "52"
+      }
+      ,
+      {
+        "id": 15,
+        "name": "Thùng to có 46,6l dầu, thùng bé có 13,4l dầu. Số dầu đó được chứa vào các chai như nhau, mỗi chai chứa 0,75l. Hỏi có tất cả bao nhiêu chai dầu? ",
+        "questionTypeId": 2,
+        "userAnswer": "",
+        "correctAnswer": "80"
+      }
+    ]
+  }

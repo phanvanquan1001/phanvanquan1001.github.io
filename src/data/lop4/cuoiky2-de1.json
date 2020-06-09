@@ -1,0 +1,237 @@
+{
+  "id": 1,
+  "name": "Ôn tập cuối học kỳ 2 - Đề 10",
+  "description": "this is my quiz",
+  "questions": [
+    {
+      "id": 1,
+      "name": "Phân số có giá trị bằng 1 là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "questionId": 1,
+          "name": "A. 3/3",
+          "isAnswer": true
+        },
+        {
+          "id": 2,
+          "questionId": 1,
+          "name": "B. 3/2",
+          "isAnswer": false
+        },
+        {
+          "id": 3,
+          "questionId": 1,
+          "name": "C. 3/4 ",
+          "isAnswer": false
+        },
+        {
+          "id": 4,
+          "questionId": 1,
+          "name": "D. 7/2",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Phân số có giá trị bé hơn 1 là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 5,
+          "questionId": 2,
+          "name": "A. 9/8",
+          "isAnswer": false
+        },
+        {
+          "id": 6,
+          "questionId": 2,
+          "name": "B. 9/9",
+          "isAnswer": false
+        },
+        {
+          "id": 7,
+          "questionId": 2,
+          "name": "C.8/9 ",
+          "isAnswer": true
+        },
+        {
+          "id": 8,
+          "questionId": 2,
+          "name": "D. 8/8",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Phân số 25/100 rút gọn được phân số: ",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 9,
+          "questionId": 2,
+          "name": "A. 5/10",
+          "isAnswer": false
+        },
+        {
+          "id": 10,
+          "questionId": 2,
+          "name": "B. 10/20",
+          "isAnswer": false
+        },
+        {
+          "id": 11,
+          "questionId": 2,
+          "name": "C.2/8 ",
+          "isAnswer": false
+        },
+        {
+          "id": 12,
+          "questionId": 2,
+          "name": "D. 1/4",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Số thích hợp để viết vào chỗ chấm của 3 tấn 5 tạ = ..... kg là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 13,
+          "questionId": 2,
+          "name": "A. 305",
+          "isAnswer": false
+        },
+        {
+          "id": 14,
+          "questionId": 2,
+          "name": "B. 3500 ",
+          "isAnswer": true
+        },
+        {
+          "id": 15,
+          "questionId": 2,
+          "name": "C.350 ",
+          "isAnswer": false
+        },
+        {
+          "id": 16,
+          "questionId": 2,
+          "name": "C.3005 ",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Số thích hợp để viết vào chỗ chấm của 15m² = .....cm² là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 17,
+          "questionId": 2,
+          "name": "A. 1500",
+          "isAnswer": false
+        },
+        {
+          "id": 18,
+          "questionId": 2,
+          "name": "B. 15000",
+          "isAnswer": false
+        },
+        {
+          "id": 19,
+          "questionId": 2,
+          "name": "C.150000",
+          "isAnswer": true
+        },
+        {
+          "id": 20,
+          "questionId": 2,
+          "name": "C.150",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Tìm x: x : 52 = 113 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "5876"
+    },
+    {
+      "id": 7,
+      "name": "Tìm x: 3/5 : X = 3 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "1/5"
+    },
+    {
+      "id": 8,
+      "name": "Tìm x: X x 5 = 1235 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "247"
+    },
+    {
+      "id": 9,
+      "name": "Tìm x: 160 x X = 800 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "5"
+    },
+    {
+      "id": 10,
+      "name": "Tính : 1/5 + 4/11 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "31/55"
+    },
+    {
+     "id": 11,
+      "name": "Tính : 4/5 + 7/11 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "79/55"
+    },
+    {
+     "id": 12,
+      "name": "Tính : 5/6 + (5/9 - 1/4) = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "41/36"
+    },
+    {
+     "id": 13,
+      "name": "Số thích hợp để viết vào chỗ chấm của 3 tấn 5 tạ = ..... kg là:",
+      "questionTypeId": 2,
+      "userAnswer": " ...kg",
+      "correctAnswer": "3500"
+    },
+    {
+      "id": 14,
+      "name": "Một tổ có 12 bạn, trong đó có 5 bạn nữ. Tỉ số của số bạn nam và  số bạn nữ của tổ đó là: ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "7/5"
+    },
+    {
+      "id": 15,
+      "name": "Một tấm kính hình thoi có độ dài các đường chéo là 18cm và 30cm. Tính diện tích tấm kính đó. ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "270cm²"
+    }
+  ]
+}

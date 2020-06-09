@@ -1,0 +1,237 @@
+{
+  "id": 1,
+  "name": "Ôn tập giữa học kỳ 1 - Đề 16",
+  "description": "this is my quiz",
+  "questions": [
+    {
+      "id": 1,
+      "name": "Số 47032 đọc là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "questionId": 1,
+          "name": "Bốn mươi bảy nghìn hai trăm ba mươi.",
+          "isAnswer": false
+        },
+        {
+          "id": 2,
+          "questionId": 1,
+          "name": " Bốn mươi bảy nghìn ba trăm linh hai",
+          "isAnswer": false
+        },
+        {
+          "id": 3,
+          "questionId": 1,
+          "name": " Bốn mươi bảy nghìn không trăm ba mươi hai ",
+          "isAnswer": true
+        },
+        {
+          "id": 4,
+          "questionId": 1,
+          "name": " Bốn mươi bảy nghìn ba trăm không mươi hai",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Trong các số 678387 chữ số 6 ở hàng ……, lớp……",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 5,
+          "questionId": 2,
+          "name": " Hàng trăm nghìn, lớp nghìn",
+          "isAnswer": true
+        },
+        {
+          "id": 6,
+          "questionId": 2,
+          "name": " Hàng chục nghìn, lớp nghìn",
+          "isAnswer": false
+        },
+        {
+          "id": 7,
+          "questionId": 2,
+          "name": "Hàng nghìn, lớp nghìn ",
+          "isAnswer": false
+        },
+        {
+          "id": 8,
+          "questionId": 2,
+          "name": " Hàng trăm nghìn, lớp đơn vị",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Viết số thích hợp vào chỗ chấm: 5 tạ 8kg =…..kg",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 9,
+          "questionId": 2,
+          "name": " 500",
+          "isAnswer": false
+        },
+        {
+          "id": 10,
+          "questionId": 2,
+          "name": "580",
+          "isAnswer": false
+        },
+        {
+          "id": 11,
+          "questionId": 2,
+          "name": "508",
+          "isAnswer": true
+        },
+        {
+          "id": 12,
+          "questionId": 2,
+          "name": " 518",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Giá trị của chữ số 5 trong số: 571638 là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 13,
+          "questionId": 2,
+          "name": " 500",
+          "isAnswer": false
+        },
+        {
+          "id": 14,
+          "questionId": 2,
+          "name": " 50000 ",
+          "isAnswer": false
+        },
+        {
+          "id": 15,
+          "questionId": 2,
+          "name": "500000",
+          "isAnswer": true
+        },
+        {
+          "id": 16,
+          "questionId": 2,
+          "name": "5000000",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Số thích hợp viết vào chỗ chấm: 2 phút 10 giây =………giây",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 17,
+          "questionId": 2,
+          "name": " 110",
+          "isAnswer": false
+        },
+        {
+          "id": 18,
+          "questionId": 2,
+          "name": " 120",
+          "isAnswer": false
+        },
+        {
+          "id": 19,
+          "questionId": 2,
+          "name": "130",
+          "isAnswer": true
+        },
+        {
+          "id": 20,
+          "questionId": 2,
+          "name": "140",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Tìm x: X – 425 = 625  ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "1050"
+    },
+    {
+      "id": 7,
+      "name": "Tìm x: 1200 – X = 666 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "534"
+    },
+    {
+      "id": 8,
+      "name": "Tìm x: X + 320 = 1235 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "915"
+    },
+    {
+      "id": 9,
+      "name": "Tìm x: 160 + X = 800 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "640"
+    },
+    {
+      "id": 10,
+      "name": "Tính : 769564 + 40526 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "810090"
+    },
+    {
+     "id": 11,
+      "name": "Tính : 62975 – 24138",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "38837"
+    },
+    {
+     "id": 12,
+      "name": "Tính : 514626 + 8236 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "522862"
+    },
+    {
+     "id": 13,
+      "name": "Tính : 987864 - 783251 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "204613"
+    },
+    {
+     "id": 14,
+      "name": "Trong thư viện có 1800 cuốn sách, trong đó số sách giáo khoa nhiều hơn số sách đọc thêm 1000 cuốn.Hỏi trong thư viện có bao nhiêu cuốn sách giáo khoa?",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "1400"
+    },
+    {
+      "id": 15,
+      "name": "Tính chu vi của hình chữ nhật có chiều dài 25 cm, chiều rộng 15 cm. ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "80cm2"
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "id": 1,
+  "name": "Ôn tập giữa học kỳ 2 - Đề 32",
+  "description": "this is my quiz",
+  "questions": [
+    {
+      "id": 1,
+      "name": "Chọn đáp án đúng: 30 + 30 =...",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "questionId": 1,
+          "name": "A. 60",
+          "isAnswer": true
+        },
+        {
+          "id": 2,
+          "questionId": 1,
+          "name": "B. 50",
+          "isAnswer": false
+        },
+        {
+          "id": 3,
+          "questionId": 1,
+          "name": "C. 66 ",
+          "isAnswer": false
+        },
+        {
+          "id": 4,
+          "questionId": 1,
+          "name": "D. 40",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": " Chọn đáp án đúng: 18 – 6 =...",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 5,
+          "questionId": 2,
+          "name": "A. 17",
+          "isAnswer": false
+        },
+        {
+          "id": 6,
+          "questionId": 2,
+          "name": "B. 12",
+          "isAnswer": true
+        },
+        {
+          "id": 7,
+          "questionId": 2,
+          "name": "C.24 ",
+          "isAnswer": false
+        },
+        {
+          "id": 8,
+          "questionId": 2,
+          "name": "D. 16",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": " Chọn đáp án đúng: 12 + 7 = ...",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 9,
+          "questionId": 2,
+          "name": "A. 20",
+          "isAnswer": false
+        },
+        {
+          "id": 10,
+          "questionId": 2,
+          "name": "B.18",
+          "isAnswer": false
+        },
+        {
+          "id": 11,
+          "questionId": 2,
+          "name": "C.5",
+          "isAnswer": false
+        },
+        {
+          "id": 12,
+          "questionId": 2,
+          "name": "D. 19",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": " Chọn đáp án đúng: 15 – 5 =...",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 13,
+          "questionId": 2,
+          "name": "A.11",
+          "isAnswer": false
+        },
+        {
+          "id": 14,
+          "questionId": 2,
+          "name": "B. 20",
+          "isAnswer": false
+        },
+        {
+          "id": 15,
+          "questionId": 2,
+          "name": "C.10",
+          "isAnswer": true
+        },
+        {
+          "id": 16,
+          "questionId": 2,
+          "name": "C.15",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Viết số: Tám mươi lăm",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 17,
+          "questionId": 2,
+          "name": "A. 80",
+          "isAnswer": false
+        },
+        {
+          "id": 18,
+          "questionId": 2,
+          "name": "B. 58",
+          "isAnswer": false
+        },
+        {
+          "id": 19,
+          "questionId": 2,
+          "name": "C.50",
+          "isAnswer": false
+        },
+        {
+          "id": 20,
+          "questionId": 2,
+          "name": "C.85",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": " Điền dấu ( >; <; = ) vào chỗ chấm: 18-7 …… 11 - 1",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": ">"
+    },
+    {
+      "id": 7,
+      "name": "Điền dấu ( >; <; = ) vào chỗ chấm: 40 ….. 60",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "<"
+    },
+    {
+      "id": 8,
+      "name": "Điền dấu ( >; <; = ) vào chỗ chấm: 70 …… 30 + 40 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "="
+    },
+    {
+      "id": 9,
+      "name": "Điền dấu ( >; <; = ) vào chỗ chấm: 20 + 10 …… 25",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": ">"
+    },
+    {
+      "id": 10,
+      "name": "Tính :  40 + 35 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "75"
+    },
+    {
+     "id": 11,
+      "name": "Tính : 80 - 40 + 10 =... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "50"
+    },
+    {
+     "id": 12,
+      "name": "Tính : 20 + 60 - 10= ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "70"
+    },
+    {
+     "id": 13,
+      "name": "Tính :15 + 15 - 10 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "20"
+    },
+    {
+     "id": 14,
+      "name": "Tính : 29 - 5 + 6 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "30"
+    },
+    {
+      "id": 15,
+      "name": "Lớp em trồng được 15 cây hoa, sau đó trồng thêm 4 cây hoa nữa. Hỏi lớp em trồng dược tất cả bao nhiêu cây hoa?",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "19"
+    }
+  ]
+}

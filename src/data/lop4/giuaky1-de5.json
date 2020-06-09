@@ -1,0 +1,237 @@
+{
+  "id": 1,
+  "name": "Ôn tập giữa học kỳ 1 - Đề 76",
+  "description": "this is my quiz",
+  "questions": [
+    {
+      "id": 1,
+      "name": "Đọc số sau: 24 534 142 ",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "questionId": 1,
+          "name": "Hai mươi bốn nghìn năm trăm ba mươi bốn nghìn một trăm bốn mươi hai",
+          "isAnswer": false
+        },
+        {
+          "id": 2,
+          "questionId": 1,
+          "name": " Hai triệu bốn nghìn năm trăm ba mươi bốn nghìn một trăm bốn mươi hai",
+          "isAnswer": false
+        },
+        {
+          "id": 3,
+          "questionId": 1,
+          "name": " Hai mươi bốn triệu năm trăm ba mươi bốn nghìn một trăm bốn mươi hai",
+          "isAnswer": true
+        },
+        {
+          "id": 4,
+          "questionId": 1,
+          "name": "Hai mươi bốn triệu năm trăm ba mươi bốn triệu một trăm bốn mươi hai",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Giá trị chữ số 8 trong số 4 8967 là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 5,
+          "questionId": 2,
+          "name": "  8 ",
+          "isAnswer": false
+        },
+        {
+          "id": 6,
+          "questionId": 2,
+          "name": " 80",
+          "isAnswer": false
+        },
+        {
+          "id": 7,
+          "questionId": 2,
+          "name": " 800",
+          "isAnswer": false
+        },
+        {
+          "id": 8,
+          "questionId": 2,
+          "name": " 8000",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Số lớn nhất trong các số: 684257; 684275; 684750; 684725",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 9,
+          "questionId": 2,
+          "name": " 684257",
+          "isAnswer": false
+        },
+        {
+          "id": 10,
+          "questionId": 2,
+          "name": "684275",
+          "isAnswer": false
+        },
+        {
+          "id": 11,
+          "questionId": 2,
+          "name": "684750",
+          "isAnswer": true
+        },
+        {
+          "id": 12,
+          "questionId": 2,
+          "name": " 684725",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "5 tấn 83 kg = .... kg là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 13,
+          "questionId": 2,
+          "name": " 583 ",
+          "isAnswer": false
+        },
+        {
+          "id": 14,
+          "questionId": 2,
+          "name": " 5830 ",
+          "isAnswer": false
+        },
+        {
+          "id": 15,
+          "questionId": 2,
+          "name": "5083",
+          "isAnswer": true
+        },
+        {
+          "id": 16,
+          "questionId": 2,
+          "name": "5038",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Với a = 15 thì biểu thức: 256 – 3 x a có giá trị là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 17,
+          "questionId": 2,
+          "name": " 211",
+          "isAnswer": true
+        },
+        {
+          "id": 18,
+          "questionId": 2,
+          "name": " 221",
+          "isAnswer": false
+        },
+        {
+          "id": 19,
+          "questionId": 2,
+          "name": "231",
+          "isAnswer": false
+        },
+        {
+          "id": 20,
+          "questionId": 2,
+          "name": "241",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Tìm X: 2748 - X + 8593 = 10495  ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "846"
+    },
+    {
+      "id": 7,
+      "name": "Tìm X: 8349 + X - 5993 = 95902 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "93546"
+    },
+    {
+      "id": 8,
+      "name": "Tìm X: 38934 : X x 4 = 84 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "1854"
+    },
+    {
+      "id": 9,
+      "name": "Tìm X: 85 x X : 17 = 4250 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "850"
+    },
+    {
+      "id": 10,
+      "name": "Tính : 845763 + 96858 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "942621"
+    },
+    {
+     "id": 11,
+      "name": "Tính : 607549 - 536857",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "70692"
+    },
+    {
+     "id": 12,
+      "name": "Tính : 24708 x 8 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "197664"
+    },
+    {
+     "id": 13,
+      "name": "Tính : 1620 : 5 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "324"
+    },
+    {
+     "id": 14,
+      "name": "Gia đình bác Hà năm đầu thu hoạch được 60 tạ thóc. Năm thứ hai bác Hà thu hoạch bằng 1/2 năm đầu, năm thứ ba thu hoạch gấp đôi năm đầu. Hỏi năm thứ ba bác hà thu hoạch bao nhiêu tạ thóc.",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "120"
+    },
+    {
+      "id": 15,
+      "name": "Gia đình bác Hà năm đầu thu hoạch được 60 tạ thóc. Năm thứ hai bác Hà thu hoạch bằng 1/2 năm đầu, năm thứ ba thu hoạch gấp đôi năm đầu. Hỏi trung bình mỗi năm bác hà thu hoạch bao nhiêu tạ. ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "70"
+    }
+  ]
+}

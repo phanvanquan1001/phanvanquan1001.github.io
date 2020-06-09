@@ -1,0 +1,237 @@
+{
+  "id": 1,
+  "name": "Ôn tập giữa học kỳ 1 - Đề 21",
+  "description": "this is my quiz",
+  "questions": [
+    {
+      "id": 1,
+      "name": " Chọn đáp án đúng: 6 + 7",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "questionId": 1,
+          "name": "A. 11",
+          "isAnswer": false
+        },
+        {
+          "id": 2,
+          "questionId": 1,
+          "name": "B. 12",
+          "isAnswer": false
+        },
+        {
+          "id": 3,
+          "questionId": 1,
+          "name": "C. 13 ",
+          "isAnswer": true
+        },
+        {
+          "id": 4,
+          "questionId": 1,
+          "name": "D. 14",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Kết quả của phép tính: 8 + 4 = .........:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 5,
+          "questionId": 2,
+          "name": "A. 11",
+          "isAnswer": false
+        },
+        {
+          "id": 6,
+          "questionId": 2,
+          "name": "B. 12",
+          "isAnswer": true
+        },
+        {
+          "id": 7,
+          "questionId": 2,
+          "name": "C.13 ",
+          "isAnswer": false
+        },
+        {
+          "id": 8,
+          "questionId": 2,
+          "name": "D. 14",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": " Số liền sau của 10 là",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 9,
+          "questionId": 2,
+          "name": "A. 9",
+          "isAnswer": false
+        },
+        {
+          "id": 10,
+          "questionId": 2,
+          "name": "B.11",
+          "isAnswer": true
+        },
+        {
+          "id": 11,
+          "questionId": 2,
+          "name": "C.8",
+          "isAnswer": false
+        },
+        {
+          "id": 12,
+          "questionId": 2,
+          "name": "D. 12",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Số liền trước của 10 là",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 13,
+          "questionId": 2,
+          "name": "A. 8",
+          "isAnswer": false
+        },
+        {
+          "id": 14,
+          "questionId": 2,
+          "name": "B. 9 ",
+          "isAnswer": true
+        },
+        {
+          "id": 15,
+          "questionId": 2,
+          "name": "C.11",
+          "isAnswer": false
+        },
+        {
+          "id": 16,
+          "questionId": 2,
+          "name": "C.12",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Số lớn nhất có một chữ số là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 17,
+          "questionId": 2,
+          "name": "A. 10",
+          "isAnswer": false
+        },
+        {
+          "id": 18,
+          "questionId": 2,
+          "name": "B. 9",
+          "isAnswer": true
+        },
+        {
+          "id": 19,
+          "questionId": 2,
+          "name": "C.8",
+          "isAnswer": false
+        },
+        {
+          "id": 20,
+          "questionId": 2,
+          "name": "C.11",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Ghi đúng Đ hoặc sai S:  34 + 5 < 5 + 34   ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "S"
+    },
+    {
+      "id": 7,
+      "name": "Ghi đúng Đ hoặc sai S:  34 + 6 > 5 + 34",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "Đ"
+    },
+    {
+      "id": 8,
+      "name": "Tìm x: Ghi đúng Đ hoặc sai S:  34 + 5 = 5 + 34 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "Đ"
+    },
+    {
+      "id": 9,
+      "name": "Tìm x: Ghi đúng Đ hoặc sai S:  34 - 6 > 5 + 34 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "S"
+    },
+    {
+      "id": 10,
+      "name": "Tính :  2 x 7 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "14"
+    },
+    {
+     "id": 11,
+      "name": "Tính : 10 : 2 =... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "5"
+    },
+    {
+     "id": 12,
+      "name": "Tính : 5 + 6 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "11"
+    },
+    {
+     "id": 13,
+      "name": "Tính :12 - 6 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "6"
+    },
+    {
+     "id": 14,
+      "name": "Tính : 5 x 3= ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "15"
+    },
+    {
+      "id": 15,
+      "name": "Nam có 14 lá cờ, Lan có 5 lá cờ. Hỏi cả 2 bạn có tất cả bao nhiêu lá cờ?",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "19"
+    }
+  ]
+}

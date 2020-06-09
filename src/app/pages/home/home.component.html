@@ -1,0 +1,42 @@
+<div class="container">
+    <br/>
+    <h3 class="text-center"> <fa-icon [icon]="faCalculator"></fa-icon> Website hỗ trợ ôn tập toán tiểu học </h3>
+    <h3> <fa-icon [icon]="faBook"></fa-icon> Chọn bài ôn tập </h3>
+    <div>
+        <hr/>
+        <h3> <fa-icon [icon]="faGraduationCap"></fa-icon> Lớp 1 </h3>
+        <p *ngFor="let quiz of listOfQuiz1">
+            <ng-container *ngIf="quiz.classId === 1">
+                <a [routerLink]="[ '/quiz', quiz.id ]"> <fa-icon [icon]="faFileAlt"></fa-icon> {{ quiz.name }} </a>
+            </ng-container>
+        </p>
+        <hr/>
+        <h3> <fa-icon [icon]="faGraduationCap"></fa-icon> Lớp 2 </h3>
+        <p *ngFor="let quiz of listOfQuiz2">
+            <ng-container *ngIf="quiz.classId === 2">
+                <a [routerLink]="[ '/quiz', quiz.id ]"> <fa-icon [icon]="faFileAlt"></fa-icon> {{ quiz.name }} </a>
+            </ng-container>
+        </p>
+        <hr/>
+        <h3> <fa-icon [icon]="faGraduationCap"></fa-icon> Lớp 3 </h3>
+        <p *ngFor="let quiz of listOfQuiz3">
+            <ng-container *ngIf="quiz.classId === 3">
+                <a [routerLink]="[ '/quiz', quiz.id ]"> <fa-icon [icon]="faFileAlt"></fa-icon> {{ quiz.name }} </a>
+            </ng-container>
+        </p>
+        <hr/>
+        <h3> <fa-icon [icon]="faGraduationCap"></fa-icon> Lớp 4 </h3>
+        <p *ngFor="let quiz of listOfQuiz4">
+            <ng-container *ngIf="quiz.classId === 4">
+                <a [routerLink]="[ '/quiz', quiz.id ]"> <fa-icon [icon]="faFileAlt"></fa-icon> {{ quiz.name }} </a>
+            </ng-container>
+        </p>
+        <hr/>
+        <h3> <fa-icon [icon]="faGraduationCap"></fa-icon> Lớp 5 </h3>
+        <p *ngFor="let quiz of listOfQuiz5">
+            <ng-container *ngIf="quiz.classId === 5">
+                <a [routerLink]="[ '/quiz', quiz.id ]"> <fa-icon [icon]="faFileAlt"></fa-icon> {{ quiz.name }} </a>
+            </ng-container>
+        </p>
+    </div>
+</div>

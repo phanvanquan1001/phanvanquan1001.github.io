@@ -1,0 +1,237 @@
+{
+  "id": 1,
+  "name": "Ôn tập giữa học kỳ 1 - Đề 74",
+  "description": "this is my quiz",
+  "questions": [
+    {
+      "id": 1,
+      "name": "Chữ số 3 nào trong các số sau có giá trị là 300 000 ",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "questionId": 1,
+          "name": "30 204 784.",
+          "isAnswer": false
+        },
+        {
+          "id": 2,
+          "questionId": 1,
+          "name": " 12 375 127",
+          "isAnswer": true
+        },
+        {
+          "id": 3,
+          "questionId": 1,
+          "name": " 1 203 190 ",
+          "isAnswer": false
+        },
+        {
+          "id": 4,
+          "questionId": 1,
+          "name": " 4 230 102",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Số Ba triệu bảy trăm hai mươi bốn nghìn hai trăm ba mươi sáu viết là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 5,
+          "questionId": 2,
+          "name": "  3 720 326",
+          "isAnswer": false
+        },
+        {
+          "id": 6,
+          "questionId": 2,
+          "name": " 3 724 236",
+          "isAnswer": true
+        },
+        {
+          "id": 7,
+          "questionId": 2,
+          "name": "37 242 306",
+          "isAnswer": false
+        },
+        {
+          "id": 8,
+          "questionId": 2,
+          "name": " 3 724 306",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Với a = 10 thì giá trị của biểu thức 215 - 5 x a có giá trị là",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 9,
+          "questionId": 2,
+          "name": " 2100",
+          "isAnswer": false
+        },
+        {
+          "id": 10,
+          "questionId": 2,
+          "name": "165",
+          "isAnswer": true
+        },
+        {
+          "id": 11,
+          "questionId": 2,
+          "name": "225",
+          "isAnswer": false
+        },
+        {
+          "id": 12,
+          "questionId": 2,
+          "name": " 265",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Trung bình cộng của 123 ; 105 và 168 là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 13,
+          "questionId": 2,
+          "name": " 396",
+          "isAnswer": false
+        },
+        {
+          "id": 14,
+          "questionId": 2,
+          "name": " 792 ",
+          "isAnswer": false
+        },
+        {
+          "id": 15,
+          "questionId": 2,
+          "name": "198",
+          "isAnswer": false
+        },
+        {
+          "id": 16,
+          "questionId": 2,
+          "name": "132",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Số thích hợp viết vào chỗ chấm: 2 phút 10 giây =………giây",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 17,
+          "questionId": 2,
+          "name": " 110",
+          "isAnswer": false
+        },
+        {
+          "id": 18,
+          "questionId": 2,
+          "name": " 120",
+          "isAnswer": false
+        },
+        {
+          "id": 19,
+          "questionId": 2,
+          "name": "130",
+          "isAnswer": true
+        },
+        {
+          "id": 20,
+          "questionId": 2,
+          "name": "140",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Tìm x: X x 33 = 1386  ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "42"
+    },
+    {
+      "id": 7,
+      "name": "Tìm X: 36 x X = 27612 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "767"
+    },
+    {
+      "id": 8,
+      "name": "Tìm x: X : 50 = 218 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "10900"
+    },
+    {
+      "id": 9,
+      "name": "Tìm x: 4080 : X = 24 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "170"
+    },
+    {
+      "id": 10,
+      "name": "Tính : 241367 – 157285 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "84082"
+    },
+    {
+     "id": 11,
+      "name": "Tính : 347167 + 56304",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "403471"
+    },
+    {
+     "id": 12,
+      "name": "Tính : 24708 x 6 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "148248"
+    },
+    {
+     "id": 13,
+      "name": "Tính : 1602 : 6 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "267"
+    },
+    {
+     "id": 14,
+      "name": "Chu vi một hình chữ nhật là 52 cm. Chiều dài hơn chiều rộng 8 cm. Tính diện tích hình chữ nhật bằng bao nhiêu mét vuông",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "153"
+    },
+    {
+      "id": 15,
+      "name": "Một cửa hàng có 3 bao gạo nếp, mỗi bao cân nặng 36kg và 6 bao gạo tẻ, mỗi bao cân nặng 54kg. Như vậy, trung bình mỗi bao gạo cân nặng số kg là ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "48"
+    }
+  ]
+}

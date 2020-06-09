@@ -1,0 +1,240 @@
+{
+  "id": 1,
+  "name": "Ôn tập cuối học kỳ 2 - Đề 63",
+  "description": "this is my quiz",
+  "questions": [
+    {
+      "id": 1,
+      "name": "Số liền sau của 78999 là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "questionId": 1,
+          "name": "78901",
+          "isAnswer": false
+        },
+        {
+          "id": 2,
+          "questionId": 1,
+          "name": "78991",
+          "isAnswer": false
+        },
+        {
+          "id": 3,
+          "questionId": 1,
+          "name": "79000 ",
+          "isAnswer": true
+        },
+        {
+          "id": 4,
+          "questionId": 1,
+          "name": "78100",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Ngày 28 tháng 4 là thứ sáu. Ngày 4 tháng 5 là thứ mấy?",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 5,
+          "questionId": 2,
+          "name": "Thứ tư",
+          "isAnswer": false
+        },
+        {
+          "id": 6,
+          "questionId": 2,
+          "name": "Thứ sáu",
+          "isAnswer": false
+        },
+        {
+          "id": 7,
+          "questionId": 2,
+          "name": "Thứ năm",
+          "isAnswer": true
+        },
+        {
+          "id": 8,
+          "questionId": 2,
+          "name": "Chủ nhật",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "9m 6dm = … cm?",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 9,
+          "questionId": 2,
+          "name": "9600cm",
+          "isAnswer": false
+        },
+        {
+          "id": 10,
+          "questionId": 2,
+          "name": " 96cm",
+          "isAnswer": false
+        },
+        {
+          "id": 11,
+          "questionId": 2,
+          "name": "906cm ",
+          "isAnswer": false
+        },
+        {
+          "id": 12,
+          "questionId": 2,
+          "name": " 960cm",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Chu vi hình vuông là 96cm, cạnh của hình vuông là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 13,
+          "questionId": 2,
+          "name": "86cm",
+          "isAnswer": false
+        },
+        {
+          "id": 14,
+          "questionId": 2,
+          "name": " 43cm",
+          "isAnswer": false
+        },
+        {
+          "id": 15,
+          "questionId": 2,
+          "name": " 24cm ",
+          "isAnswer": true
+        },
+        {
+          "id": 16,
+          "questionId": 2,
+          "name": " 32cm",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Số liền trước của số 58372 là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 17,
+          "questionId": 2,
+          "name": "A. 58370",
+          "isAnswer": false
+        },
+        {
+          "id": 18,
+          "questionId": 2,
+          "name": "B. 58371",
+          "isAnswer": true
+        },
+        {
+          "id": 19,
+          "questionId": 2,
+          "name": "C.58369",
+          "isAnswer": false
+        },
+        {
+          "id": 20,
+          "questionId": 2,
+          "name": "C.58373",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Tìm x: X x 8 = 2864 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "358"
+    },
+    {
+      "id": 7,
+      "name": "Tìm x: 90 x X = 270 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "3"
+    },
+     {
+      "id": 8,
+      "name": "Tìm x: X : 5 = 1232 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "6160"
+    },
+    
+    {
+      "id": 9,
+      "name": "Tính: 7386 + 9548 = ...",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "16934"
+    },
+    {
+      "id": 10,
+      "name": "Tính:  6732 – 4528 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "2204"
+    },
+    {
+      "id": 11,
+      "name": "Tính: 4635 x 6 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "27810"
+    },
+    {
+      "id": 12,
+      "name": "Tính:  6336 : 9= ...",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "704"
+    },
+    {
+      "id": 13,
+      "name": "Tính: 700 : 5 x 4 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "480"
+    },
+    {
+      "id": 14,
+      "name": " Mua 9 bút chì hết 5400 đồng. Hỏi mua 6 bút chì như thế hết bao nhiêu tiền?",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "3600"
+    },
+    {
+      "id": 15,
+      "name": "Tính diện tích hình chữ nhật có chiều dài là 13 cm, chiều rộng là 9cm",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "117"
+    }
+    
+   
+  ]
+}

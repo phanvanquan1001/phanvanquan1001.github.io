@@ -1,0 +1,238 @@
+{
+    "id": 20,
+    "name": "Ôn tập giữa học kỳ 2 - Đề 1",
+    "description": "Ôn tập toán lớp 5",
+    "questions": [
+      {
+        "id": 1,
+        "name": "Số thích hợp điền vào chỗ chấm: 1,5 giờ = ... phút.",
+        "questionTypeId": 1,
+        "userAnswer": "",
+        "options": [
+          {
+            "id": 1,
+            "questionId": 1,
+            "name": "A. 60 phút",
+            "isAnswer": false
+          },
+          {
+            "id": 2,
+            "questionId": 1,
+            "name": "B. 90 phút",
+            "isAnswer": true
+          },
+          {
+            "id": 3,
+            "questionId": 1,
+            "name": "C. 120 phút ",
+            "isAnswer": false
+          },
+          {
+            "id": 4,
+            "questionId": 1,
+            "name": "D. 150 phút",
+            "isAnswer": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Số thích hợp điền vào chỗ chấm: 42 tháng = ... năm.",
+        "questionTypeId": 1,
+        "userAnswer": "",
+        "options": [
+          {
+            "id": 5,
+            "questionId": 2,
+            "name": "A. 4 năm",
+            "isAnswer": false
+          },
+          {
+            "id": 6,
+            "questionId": 2,
+            "name": "B. 4,2 năm",
+            "isAnswer": false
+          },
+          {
+            "id": 7,
+            "questionId": 2,
+            "name": "C.3,5 năm",
+            "isAnswer": true
+          },
+          {
+            "id": 8,
+            "questionId": 2,
+            "name": "D. 35 năm",
+            "isAnswer": false
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Số thích hợp điền vào chỗ chấm: 3,2 m3 = ... dm3. ",
+        "questionTypeId": 1,
+        "userAnswer": "",
+        "options": [
+          {
+            "id": 9,
+            "questionId": 2,
+            "name": "A. 32000",
+            "isAnswer": false
+          },
+          {
+            "id": 10,
+            "questionId": 2,
+            "name": "B. 3200",
+            "isAnswer": true
+          },
+          {
+            "id": 11,
+            "questionId": 2,
+            "name": "C.320",
+            "isAnswer": false
+          },
+          {
+            "id": 12,
+            "questionId": 2,
+            "name": "D. 32",
+            "isAnswer": false
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": " Năm 2018 thuộc thế kỉ thứ mấy?",
+        "questionTypeId": 1,
+        "userAnswer": "",
+        "options": [
+          {
+            "id": 13,
+            "questionId": 2,
+            "name": "A. 18",
+            "isAnswer": false
+          },
+          {
+            "id": 14,
+            "questionId": 2,
+            "name": "B. 19",
+            "isAnswer": false
+          },
+          {
+            "id": 15,
+            "questionId": 2,
+            "name": "C.20",
+            "isAnswer": false
+          },
+          {
+            "id": 16,
+            "questionId": 2,
+            "name": "C.21",
+            "isAnswer": true
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Hình tròn có bán kính 0,5m. Chu vi của hình tròn đó là:",
+        "questionTypeId": 1,
+        "userAnswer": "",
+        "options": [
+          {
+            "id": 17,
+            "questionId": 2,
+            "name": "A. 6,28m",
+            "isAnswer": false
+          },
+          {
+            "id": 18,
+            "questionId": 2,
+            "name": "B. 3,14m ",
+            "isAnswer": true
+          },
+          {
+            "id": 19,
+            "questionId": 2,
+            "name": "C.12,56m",
+            "isAnswer": false
+          },
+          {
+            "id": 20,
+            "questionId": 2,
+            "name": "C.1,57m",
+            "isAnswer": false
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Tìm x: X + 35,2 = (25,6 + 3,14) x 3 ",
+        "questionTypeId": 2,
+        "userAnswer": "",
+        "correctAnswer": "51,02"
+      },
+      {
+        "id": 7,
+        "name": "Tìm x: 21 x X = 9,45 : 0,1 ",
+        "questionTypeId": 2,
+        "userAnswer": "",
+        "correctAnswer": "4,5"
+      },
+      {
+        "id": 8,
+        "name": "Tính: 3 giờ 5 phút + 6 giờ 32 phút = ...phút ",
+        "questionTypeId": 2,
+        "userAnswer": "",
+        "correctAnswer": "577"
+      },
+      {
+        "id": 9,
+        "name": "Tính: 23 phút 25 giây – 15 phút 12 giây = ...giây ",
+        "questionTypeId": 2,
+        "userAnswer": "",
+        "correctAnswer": " 493"
+      },
+      {
+        "id": 10,
+        "name": "Tính:  24 phút 12 giây : 4 = ...giây ",
+        "questionTypeId": 2,
+        "userAnswer": "",
+        "correctAnswer": " 363"
+      },
+      {
+        "id": 11,
+        "name": "Tính:  12 phút 25 giây x 5 = ...giây ",
+        "questionTypeId": 2,
+        "userAnswer": "",
+        "correctAnswer": " 3725"
+      },
+      {
+        "id": 12,
+        "name": "Điền số thích hợp vào chỗ trống: 2,018 m2= ………….. dm2 ",
+        "questionTypeId": 2,
+        "userAnswer": "...dm2",
+        "correctAnswer": "201,8"
+      },
+      {
+        "id": 13,
+        "name": "Điền số thích hợp vào chỗ trống: 2,3 giờ = ……….. phút ",
+        "questionTypeId": 2,
+        "userAnswer": "...phút",
+        "correctAnswer": "138"
+      },
+      {
+        "id": 14,
+        "name": "Hình tròn có bán kính 1,2 m. Tính diện tích của hình tròn đó? ",
+        "questionTypeId": 2,
+        "userAnswer": "",
+        "correctAnswer": "4,5216m2"
+      }
+      ,
+      {
+        "id": 15,
+        "name": "Hình tam giác có diện tích là 90 m2, độ dài cạnh đáy là 18 m. Chiều cao của hình tam giác đó là: ",
+        "questionTypeId": 2,
+        "userAnswer": "",
+        "correctAnswer": "10m"
+      }
+    ]
+  }

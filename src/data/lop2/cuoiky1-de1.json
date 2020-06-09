@@ -1,0 +1,227 @@
+{
+  "id": 1,
+  "name": "Ôn tập cuối học kỳ 1 - Đề 5",
+  "description": "this is my quiz",
+  "questions": [
+    {
+      "id": 1,
+      "name": "Phép tính 27 + 46 có kết quả là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "questionId": 1,
+          "name": "A. 53",
+          "isAnswer": false
+        },
+        {
+          "id": 2,
+          "questionId": 1,
+          "name": "B. 63",
+          "isAnswer": false
+        },
+        {
+          "id": 3,
+          "questionId": 1,
+          "name": "C. 73 ",
+          "isAnswer": true
+        },
+        {
+          "id": 4,
+          "questionId": 1,
+          "name": "D. 83",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Phép tính 80 - 23 có kết quả là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 5,
+          "questionId": 2,
+          "name": "A. 57",
+          "isAnswer": false
+        },
+        {
+          "id": 6,
+          "questionId": 2,
+          "name": "B. 58",
+          "isAnswer": false
+        },
+        {
+          "id": 7,
+          "questionId": 2,
+          "name": "C.59 ",
+          "isAnswer": false
+        },
+        {
+          "id": 8,
+          "questionId": 2,
+          "name": "D. 67",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Phép tính 15 kg + 27 kg có kết quả là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 9,
+          "questionId": 2,
+          "name": "A. 32 kg",
+          "isAnswer": false
+        },
+        {
+          "id": 10,
+          "questionId": 2,
+          "name": "B. 42 kg",
+          "isAnswer": true
+        },
+        {
+          "id": 11,
+          "questionId": 2,
+          "name": "C.33 kg ",
+          "isAnswer": false
+        },
+        {
+          "id": 12,
+          "questionId": 2,
+          "name": "D. 43 kg",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Điền dấu >, < = vào chỗ trống: 7 + 6 + 3... 7 + 9 + 0",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 13,
+          "questionId": 2,
+          "name": "A. =",
+          "isAnswer": true
+        },
+        {
+          "id": 14,
+          "questionId": 2,
+          "name": "B. <",
+          "isAnswer": false
+        },
+        {
+          "id": 15,
+          "questionId": 2,
+          "name": "C.> ",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Điền dấu >, < = vào chỗ trống: 15 - 8 - 5... 13 - 8 - 2",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 16,
+          "questionId": 2,
+          "name": "A. =",
+          "isAnswer": false
+        },
+        {
+          "id": 17,
+          "questionId": 2,
+          "name": "B. <",
+          "isAnswer": true
+        },
+        {
+          "id": 18,
+          "questionId": 2,
+          "name": "C.> ",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Tìm x: x - 55 = 45 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "100"
+    },
+    {
+      "id": 7,
+      "name": "Tìm x: x + 49 = 90 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "41"
+    },
+     {
+      "id": 8,
+      "name": "Tìm x: 9 + x = 16 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "7"
+    },
+    {
+      "id": 9,
+      "name": "Tìm x: 70 - x = 50 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "20"
+    },
+    {
+      "id": 10,
+      "name": "Can bé đựng 45 lít dầu. Can to đựng nhiều hơn can bé 9 lít dầu. Hỏi can to đựng được bao nhiêu lít dầu? ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "54"
+    },
+    {
+      "id": 11,
+      "name": "Năm nay bà 62 tuổi, mẹ kém bà 28 tuổi. Hỏi năm nay mẹ bao nhiêu tuổi? ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "34"
+    },
+    {
+      "id": 12,
+      "name": "Một cửa hàng buổi sáng bán được 42 lít dầu và bán nhiều hơn buổi chiều 7 lít dầu. Hỏi buổi chiều cửa hàng đó bán được bao nhiêu lít dầu? ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "35"
+    },
+    {
+      "id": 13,
+      "name": "Tính: 27 + 14 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "41"
+    },
+    {
+      "id": 14,
+      "name": "Tính: 46 + 54 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "100"
+    },
+    {
+      "id": 15,
+      "name": "Tính: 100 - 28 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "72"
+    }
+    
+   
+  ]
+}

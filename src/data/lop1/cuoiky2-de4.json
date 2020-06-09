@@ -1,0 +1,214 @@
+{
+  "id": 1,
+  "name": "Ôn tập cuối học kỳ 2 - Đề 36",
+  "description": "this is my quiz",
+  "questions": [
+    {
+      "id": 1,
+      "name": "Số 74 đọc là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "questionId": 1,
+          "name": "A. Bảy mươi bốn ",
+          "isAnswer": false
+        },
+        {
+          "id": 2,
+          "questionId": 1,
+          "name": "B. Bảy tư",
+          "isAnswer": false
+        },
+        {
+          "id": 3,
+          "questionId": 1,
+          "name": "C.Bảy mươi tư",
+          "isAnswer": true
+        },
+        {
+          "id": 4,
+          "questionId": 1,
+          "name": "D. Bảy bốn",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Các số cần điền vào chỗ chấm: 74 < ..., ... < 77 là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 5,
+          "questionId": 2,
+          "name": "A. 75,76",
+          "isAnswer": true
+        },
+        {
+          "id": 6,
+          "questionId": 2,
+          "name": "B. 76, 77",
+          "isAnswer": false
+        },
+        {
+          "id": 7,
+          "questionId": 2,
+          "name": "C. 76,75",
+          "isAnswer": false
+        },
+        {
+          "id": 8,
+          "questionId": 2,
+          "name": "D. 73,75",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": " Số 70 là số liền trước của số:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 9,
+          "questionId": 3,
+          "name": "A. 69",
+          "isAnswer": false
+        },
+        {
+          "id": 10,
+          "questionId": 3,
+          "name": "B. 71",
+          "isAnswer": true
+        },
+        {
+          "id": 11,
+          "questionId": 3,
+          "name": "C. 68",
+          "isAnswer": false
+        },
+        {
+          "id": 12,
+          "questionId": 3,
+          "name": "D. 72",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": " Số 98 là số liền sau của số:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 13,
+          "questionId": 4,
+          "name": "A. 97",
+          "isAnswer": true
+        },
+        {
+          "id": 14,
+          "questionId": 4,
+          "name": "B. 99",
+          "isAnswer": false
+        },
+        {
+          "id": 15,
+          "questionId": 4,
+          "name": "C. 89",
+          "isAnswer": false
+        },
+        {
+          "id": 16,
+          "questionId": 4,
+          "name": "D. 88",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Tính: 63 + 6 - 8= ...",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "61"
+    },
+    {
+      "id": 6,
+      "name": "Tính: 5 + 33 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "38"
+    },
+    {
+      "id": 7,
+      "name": "Tính : 42 + 24 = ...",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "66"
+    },
+    {
+      "id": 8,
+      "name": "Tính: 87 - 62 = ... ",
+      "questionTypeId": 2,
+      "correctAnswer": "25",
+      "userAnswer": ""
+    },
+    {
+      "id": 9,
+      "name": "Tính: 58 – 5 = ... ",
+      "questionTypeId": 2,
+      "correctAnswer": "53",
+      "userAnswer": ""
+    },
+    {
+      "id": 10,
+      "name": "Điền số thích hợp vào chỗ chấm: ...- 32 = 46",
+      "questionTypeId": 2,
+      "correctAnswer": "78",
+      "userAnswer": ""
+    },
+    {
+      "id": 11,
+      "name": "Điền số thích hợp vào chỗ chấm: ...+ 32 = 80",
+      "questionTypeId": 2,
+      "correctAnswer": "48",
+      "userAnswer": ""
+    },
+    {
+      "id": 12,
+      "name": "Điền số thích hợp vào chỗ chấm: ...- 32 = 46 + 14",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "92"
+    },
+    {
+      "id": 13,
+      "name": "Đúng ghi Đ, sai ghi S vào ô trống: 56 – 9 = 15 + 32",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "Đ"
+    },
+    {
+      "id": 14,
+      "name": "Đúng ghi Đ, sai ghi S vào ô trống: 70 + 35 = 40",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "S"
+    },
+   
+    {
+      "id": 15,
+      "name": "Sau khi cửa hàng bán được 30 chiếc xe đạp, thì còn lại 45 chiếc xe đạp. Hỏi lúc đầu cửa hàng có bao nhiêu chiếc xe đạp?",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "75"
+    }
+    
+  ]
+}

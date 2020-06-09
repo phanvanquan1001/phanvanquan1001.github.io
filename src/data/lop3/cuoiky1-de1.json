@@ -1,0 +1,239 @@
+{
+  "id": 1,
+  "name": "Ôn tập cuối học kỳ 1 - Đề 7",
+  "description": "this is my quiz",
+  "questions": [
+    {
+      "id": 1,
+      "name": "Số liền trước của 160 là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "questionId": 1,
+          "name": "A. 161",
+          "isAnswer": false
+        },
+        {
+          "id": 2,
+          "questionId": 1,
+          "name": "B. 150",
+          "isAnswer": false
+        },
+        {
+          "id": 3,
+          "questionId": 1,
+          "name": "C. 159 ",
+          "isAnswer": true
+        },
+        {
+          "id": 4,
+          "questionId": 1,
+          "name": "D. 170",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Số liền trước của 190 là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 5,
+          "questionId": 2,
+          "name": "A. 189",
+          "isAnswer": true
+        },
+        {
+          "id": 6,
+          "questionId": 2,
+          "name": "B. 199",
+          "isAnswer": false
+        },
+        {
+          "id": 7,
+          "questionId": 2,
+          "name": "C.188 ",
+          "isAnswer": false
+        },
+        {
+          "id": 8,
+          "questionId": 2,
+          "name": "D. 191",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Một cái ao hình vuông có cạnh 6 m. Chu vi của hình vuông đó là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 9,
+          "questionId": 2,
+          "name": "A. 4m",
+          "isAnswer": false
+        },
+        {
+          "id": 10,
+          "questionId": 2,
+          "name": "B. 24m",
+          "isAnswer": true
+        },
+        {
+          "id": 11,
+          "questionId": 2,
+          "name": "C.36m ",
+          "isAnswer": false
+        },
+        {
+          "id": 12,
+          "questionId": 2,
+          "name": "D. 12m",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "9m 8cm = …. cm . Số thích hợp cần điền vào chỗ chấm là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 13,
+          "questionId": 2,
+          "name": "A. 908cm",
+          "isAnswer": true
+        },
+        {
+          "id": 14,
+          "questionId": 2,
+          "name": "B. 980cm",
+          "isAnswer": false
+        },
+        {
+          "id": 15,
+          "questionId": 2,
+          "name": "C.98cm ",
+          "isAnswer": false
+        },
+        {
+          "id": 16,
+          "questionId": 2,
+          "name": "C.9080cm ",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Gấp 7 lít lên 8 lần thì được:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 17,
+          "questionId": 2,
+          "name": "A. 15lít",
+          "isAnswer": false
+        },
+        {
+          "id": 18,
+          "questionId": 2,
+          "name": "B. 56 lít",
+          "isAnswer": true
+        },
+        {
+          "id": 19,
+          "questionId": 2,
+          "name": "C.49 lít",
+          "isAnswer": false
+        },
+        {
+          "id": 20,
+          "questionId": 2,
+          "name": "C.65 lít",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Tìm x: X : 6 = 144 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "864"
+    },
+    {
+      "id": 7,
+      "name": "Tìm x: 5 x X = 375 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "75"
+    },
+     {
+      "id": 8,
+      "name": "Tìm x: X x 12 = 48 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "4"
+    },
+    {
+      "id": 9,
+      "name": "Tìm x: 72 : X = 9 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "8"
+    },
+    {
+      "id": 10,
+      "name": "Một quyển truyện dày 128 trang. An đã đọc được 1/4 số trang đó. Hỏi còn bao nhiêu trang truyện nữa mà An chưa đọc? ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "32"
+    },
+    {
+      "id": 11,
+      "name": "Số bò nhiều hơn số trâu là 28 con. Biết rằng số trâu là 7 con. Hỏi số bò gấp mấy lần số trâu ? ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "5"
+    },
+    {
+      "id": 12,
+      "name": "Một hình chữ nhật có chiều dài 60m, chiều rộng là 20m. Tính chu vi hình chữ nhật đó? ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "160m"
+    },
+    {
+      "id": 13,
+      "name": "Tính: 630 : 7= ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "90"
+    },
+    {
+      "id": 14,
+      "name": "Tính: 40 x 50 = ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "200"
+    },
+    {
+      "id": 15,
+      "name": "Tính: 205 + 60 +3  ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "268"
+    }
+    
+   
+  ]
+}

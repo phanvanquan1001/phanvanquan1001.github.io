@@ -1,0 +1,159 @@
+ {
+    "id": 1,
+    "name": "Ôn tập cuối học kỳ 2 - Đề 6",
+    "description": "this is my quiz",
+    "questions": [{
+            "id": 1,
+            "name": "Các số : 28, 81, 37, 72, 39, 93 viết các ó sau từ bé đến lớn:",
+            "questionTypeId": 1,
+            "userAnswer": "",
+            "options": [{
+                    "id": 1,
+                    "questionId": 1,
+                    "name": "A. 28, 37, 39, 72, 81, 93",
+                    "isAnswer": true
+                },
+                {
+                    "id": 2,
+                    "questionId": 1,
+                    "name": "B. 37, 28, 39, 72, 93 , 81",
+                    "isAnswer": false
+                },
+                {
+                    "id": 3,
+                    "questionId": 1,
+                    "name": "C. 93, 81,72, 39, 37, 28 ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 4,
+                    "questionId": 1,
+                    "name": "D. 39, 93, 37, 72, 28, 81",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Số thích hợp cần điền vào chỗ chấm để 1m =.... cm:",
+            "questionTypeId": 1,
+            "userAnswer": "",
+            "options": [{
+                    "id": 1,
+                    "questionId": 2,
+                    "name": "A. 10",
+                    "isAnswer": false
+                },
+                {
+                    "id": 2,
+                    "questionId": 2,
+                    "name": "B. 20",
+                    "isAnswer": false
+                },
+                {
+                    "id": 3,
+                    "questionId": 2,
+                    "name": "C.100 ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 4,
+                    "questionId": 2,
+                    "name": "D. 1000",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Điền số thích hợp vào ô trống: 216; 217; .......; .......; 220 ; ",
+            "questionTypeId": 2,
+            "userAnswer": "..... ; .....",
+            "correctAnswer": "218 ; 219"
+        },
+        {
+            "id": 4,
+            "name": "Điền số thích hợp vào ô trống: 310; 320; 330; ........; ",
+            "questionTypeId": 2,
+            "userAnswer": "",
+            "correctAnswer": "340"
+        },
+        {
+            "id": 5,
+            "name": "Điền số thích hợp vào ô trống: 1m = .........dm ",
+            "questionTypeId": 2,
+            "userAnswer": "",
+            "correctAnswer": "10"
+        },
+        {
+            "id": 6,
+            "name": "Điền số thích hợp vào ô trống: 2m 6 dm = ……..dm ",
+            "questionTypeId": 2,
+            "userAnswer": "",
+            "correctAnswer": "26"
+        },
+        {
+            "id": 7,
+            "name": "Điền số thích hợp vào ô trống: 510cm =...dm",
+            "questionTypeId": 2,
+            "userAnswer": "",
+            "correctAnswer": "51"
+        },
+        {
+            "id": 8,
+            "name": "Tìm X: X : 4 = 8 ",
+            "questionTypeId": 2,
+            "userAnswer": "",
+            "correctAnswer": "32"
+        },
+        {
+            "id": 9,
+            "name": "Tìm X: 4 x X = 12 + 8 ",
+            "questionTypeId": 2,
+            "userAnswer": "",
+            "correctAnswer": "5"
+        },
+        {
+            "id": 10,
+            "name": "Tính: 6 x 4 = …. ",
+            "questionTypeId": 2,
+            "userAnswer": "",
+            "correctAnswer": "24"
+        },
+        {
+            "id": 11,
+            "name": "Tính: 27 : 3 = …… ",
+            "questionTypeId": 2,
+            "userAnswer": "",
+            "correctAnswer": "9"
+        },
+        {
+            "id": 12,
+            "name": "Tính: 28 : 4 = …… ",
+            "questionTypeId": 2,
+            "userAnswer": "",
+            "correctAnswer": "7"
+        },
+        {
+            "id": 13,
+            "name": "Tính: 6 x 3 = ….. ",
+            "questionTypeId": 2,
+            "userAnswer": "",
+            "correctAnswer": "18"
+        },
+        {
+            "id": 14,
+            "name": "Hình tam giác có độ dài các cạnh là: AB = 300 cm, BC = 200 cm, AC = 400cm. Chu vi của hình tam giác là",
+            "questionTypeId": 2,
+            "userAnswer": "",
+            "correctAnswer": "900cm"
+        },
+        {
+            "id": 15,
+            "name": " Đội một trồng được 350 cây, đội hai trồng được 120 cây. Hỏi đội hai trồng được bao nhiêu cây.",
+            "questionTypeId": 2,
+            "userAnswer": "",
+            "correctAnswer": "470"
+        }
+    ]
+}

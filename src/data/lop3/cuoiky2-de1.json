@@ -1,0 +1,239 @@
+{
+  "id": 1,
+  "name": "Ôn tập cuối học kỳ 2 - Đề 8",
+  "description": "this is my quiz",
+  "questions": [
+    {
+      "id": 1,
+      "name": "Số nào lớn nhất trong các số sau: 42360 , 42063 , 42603 , 42630:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "questionId": 1,
+          "name": "A. 42360",
+          "isAnswer": false
+        },
+        {
+          "id": 2,
+          "questionId": 1,
+          "name": "B. 42063",
+          "isAnswer": false
+        },
+        {
+          "id": 3,
+          "questionId": 1,
+          "name": "C. 42603 ",
+          "isAnswer": false
+        },
+        {
+          "id": 4,
+          "questionId": 1,
+          "name": "D. 42630",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Số liền sau của số 65590 là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 5,
+          "questionId": 2,
+          "name": "A. 65589",
+          "isAnswer": false
+        },
+        {
+          "id": 6,
+          "questionId": 2,
+          "name": "B. 65592",
+          "isAnswer": false
+        },
+        {
+          "id": 7,
+          "questionId": 2,
+          "name": "C.65588 ",
+          "isAnswer": false
+        },
+        {
+          "id": 8,
+          "questionId": 2,
+          "name": "D. 65591",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Một hình vuông có cạnh 5cm. Tính diện tích hình vuông đó?",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 9,
+          "questionId": 2,
+          "name": "A. 25cm",
+          "isAnswer": false
+        },
+        {
+          "id": 10,
+          "questionId": 2,
+          "name": "B. 25cm2",
+          "isAnswer": true
+        },
+        {
+          "id": 11,
+          "questionId": 2,
+          "name": "C.20cm ",
+          "isAnswer": false
+        },
+        {
+          "id": 12,
+          "questionId": 2,
+          "name": "D. 20cm2",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "9m 80cm = …. cm . Số thích hợp cần điền vào chỗ chấm là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 13,
+          "questionId": 2,
+          "name": "A. 908cm",
+          "isAnswer": false
+        },
+        {
+          "id": 14,
+          "questionId": 2,
+          "name": "B. 980cm",
+          "isAnswer": true
+        },
+        {
+          "id": 15,
+          "questionId": 2,
+          "name": "C.98cm ",
+          "isAnswer": false
+        },
+        {
+          "id": 16,
+          "questionId": 2,
+          "name": "C.9080cm ",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Số liền trước của số 58372 là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 17,
+          "questionId": 2,
+          "name": "A. 58370",
+          "isAnswer": false
+        },
+        {
+          "id": 18,
+          "questionId": 2,
+          "name": "B. 58371",
+          "isAnswer": true
+        },
+        {
+          "id": 19,
+          "questionId": 2,
+          "name": "C.58369",
+          "isAnswer": false
+        },
+        {
+          "id": 20,
+          "questionId": 2,
+          "name": "C.58373",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Tìm x: X x 8 = 2864 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "358"
+    },
+    {
+      "id": 7,
+      "name": "Tìm x: 90 x X = 270 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "3"
+    },
+     {
+      "id": 8,
+      "name": "Tìm x: X : 5 = 1232 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "6160"
+    },
+    {
+      "id": 9,
+      "name": "Tìm x: 160 : X = 8 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "20"
+    },
+    {
+      "id": 10,
+      "name": "Tính chu vi hình chữ nhật có chiều dài là 13 cm, chiều rộng là 9cm ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "44cm"
+    },
+    {
+      "id": 11,
+      "name": "Mua 9 bút chì hết 5400 đồng. Hỏi mua 6 bút chì như thế hết bao nhiêu tiền? ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "3600"
+    },
+    {
+      "id": 12,
+      "name": "An nghĩ ra một số, nếu lấy số đó chia cho 5 thì được thương là 4 và số dư là số dư lớn nhất. Hãy tìm số đó? ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "24"
+    },
+    {
+      "id": 13,
+      "name": "Tính: 706 + 900= ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "1606"
+    },
+    {
+      "id": 14,
+      "name": "Tính: 4635 x 6 = ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "27810"
+    },
+    {
+      "id": 15,
+      "name": "Tính: 6336 : 9 = ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "704"
+    }
+    
+   
+  ]
+}

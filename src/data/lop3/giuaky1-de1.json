@@ -1,0 +1,237 @@
+{
+  "id": 1,
+  "name": "Ôn tập giữa học kỳ 1 - Đề 17",
+  "description": "this is my quiz",
+  "questions": [
+    {
+      "id": 1,
+      "name": "Cho các số: 928; 982; 899; 988. Số lớn nhất là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "questionId": 1,
+          "name": "A. 928",
+          "isAnswer": false
+        },
+        {
+          "id": 2,
+          "questionId": 1,
+          "name": "B. 982",
+          "isAnswer": false
+        },
+        {
+          "id": 3,
+          "questionId": 1,
+          "name": "C. 899 ",
+          "isAnswer": false
+        },
+        {
+          "id": 4,
+          "questionId": 1,
+          "name": "D. 988",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Điền số thích hợp để điền vào ô trống: .....- 300 = 40",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 5,
+          "questionId": 2,
+          "name": "A. 260",
+          "isAnswer": false
+        },
+        {
+          "id": 6,
+          "questionId": 2,
+          "name": "B. 430",
+          "isAnswer": false
+        },
+        {
+          "id": 7,
+          "questionId": 2,
+          "name": "C.240 ",
+          "isAnswer": false
+        },
+        {
+          "id": 8,
+          "questionId": 2,
+          "name": "D. 340",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Kết quả của phép nhân 28 x 5 là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 9,
+          "questionId": 2,
+          "name": "A. 410",
+          "isAnswer": false
+        },
+        {
+          "id": 10,
+          "questionId": 2,
+          "name": "B.400",
+          "isAnswer": false
+        },
+        {
+          "id": 11,
+          "questionId": 2,
+          "name": "C.140",
+          "isAnswer": true
+        },
+        {
+          "id": 12,
+          "questionId": 2,
+          "name": "D. 310",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Kết quả của phép chia 36 : 4 là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 13,
+          "questionId": 2,
+          "name": "A. 4",
+          "isAnswer": false
+        },
+        {
+          "id": 14,
+          "questionId": 2,
+          "name": "B. 6 ",
+          "isAnswer": false
+        },
+        {
+          "id": 15,
+          "questionId": 2,
+          "name": "C.8",
+          "isAnswer": false
+        },
+        {
+          "id": 16,
+          "questionId": 2,
+          "name": "C.9",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Cho dãy số: 9; 12; 15; …; …; …; Các số thích hợp để điền vào chổ chấm là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 17,
+          "questionId": 2,
+          "name": "A. 18; 21; 24",
+          "isAnswer": true
+        },
+        {
+          "id": 18,
+          "questionId": 2,
+          "name": "B. 16; 17; 18",
+          "isAnswer": false
+        },
+        {
+          "id": 19,
+          "questionId": 2,
+          "name": "C.17; 19; 21",
+          "isAnswer": false
+        },
+        {
+          "id": 20,
+          "questionId": 2,
+          "name": "C.18; 20; 21",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Tìm x: X x 6 = 42   ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "7"
+    },
+    {
+      "id": 7,
+      "name": "Tìm x: 24 : X = 4 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "6"
+    },
+    {
+      "id": 8,
+      "name": "Tìm x: X + 55 = 100 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "45"
+    },
+    {
+      "id": 9,
+      "name": "Tìm x: 95 - X = 25 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "70"
+    },
+    {
+      "id": 10,
+      "name": "Tính : 248 + 136 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "384"
+    },
+    {
+     "id": 11,
+      "name": "Tính : 375 - 128 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "247"
+    },
+    {
+     "id": 12,
+      "name": "Tính : 48 x 6 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "288"
+    },
+    {
+     "id": 13,
+      "name": "Tính : 49 : 7 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "7"
+    },
+    {
+     "id": 14,
+      "name": "Tính : 23 x 9 + 15 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "222"
+    },
+    {
+      "id": 15,
+      "name": "Đoạn dây thứ nhất dài 18dm, đoạn dây thứ hai dài gấp 6 lần đoạn dây thứ nhất. Hỏi đoạn dây thứ hai dài bao nhiêu đề-xi-mét? ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "108dm"
+    }
+  ]
+}

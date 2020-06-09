@@ -1,0 +1,237 @@
+{
+  "id": 1,
+  "name": "Ôn tập giữa học kỳ 2 - Đề 19",
+  "description": "this is my quiz",
+  "questions": [
+    {
+      "id": 1,
+      "name": "Số chẵn liền sau 96 là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "questionId": 1,
+          "name": "A. 98",
+          "isAnswer": true
+        },
+        {
+          "id": 2,
+          "questionId": 1,
+          "name": "B. 96",
+          "isAnswer": false
+        },
+        {
+          "id": 3,
+          "questionId": 1,
+          "name": "C. 94 ",
+          "isAnswer": false
+        },
+        {
+          "id": 4,
+          "questionId": 1,
+          "name": "D. 100",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Kết quả của phép tính: 86 – 38 + 19 là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 5,
+          "questionId": 2,
+          "name": "A. 57",
+          "isAnswer": false
+        },
+        {
+          "id": 6,
+          "questionId": 2,
+          "name": "B. 79",
+          "isAnswer": false
+        },
+        {
+          "id": 7,
+          "questionId": 2,
+          "name": "C.87 ",
+          "isAnswer": false
+        },
+        {
+          "id": 8,
+          "questionId": 2,
+          "name": "D. 67",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": " 3 được lấy 5 lần: ta được phép tính nào đúng nhất :",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 9,
+          "questionId": 2,
+          "name": "A. 5 x 3",
+          "isAnswer": true
+        },
+        {
+          "id": 10,
+          "questionId": 2,
+          "name": "B.3+ 5",
+          "isAnswer": false
+        },
+        {
+          "id": 11,
+          "questionId": 2,
+          "name": "C.3 x 5",
+          "isAnswer": false
+        },
+        {
+          "id": 12,
+          "questionId": 2,
+          "name": "D. 5+ 5 + 5",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Ngày 14 tháng 1 năm 2018 là chủ nhật tuần này. Hỏi thứ bảy tuần sau là ngày nào?",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 13,
+          "questionId": 2,
+          "name": "A. 19",
+          "isAnswer": false
+        },
+        {
+          "id": 14,
+          "questionId": 2,
+          "name": "B. 20 ",
+          "isAnswer": true
+        },
+        {
+          "id": 15,
+          "questionId": 2,
+          "name": "C.21",
+          "isAnswer": false
+        },
+        {
+          "id": 16,
+          "questionId": 2,
+          "name": "C.18",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Một con chó có 4 cái chân, một con gà có 2 cái chân. Vậy 2 con chó và 3 con gà có tất cả bao nhiêu cái chân ?",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 17,
+          "questionId": 2,
+          "name": "A. 14",
+          "isAnswer": true
+        },
+        {
+          "id": 18,
+          "questionId": 2,
+          "name": "B. 16",
+          "isAnswer": false
+        },
+        {
+          "id": 19,
+          "questionId": 2,
+          "name": "C.18",
+          "isAnswer": false
+        },
+        {
+          "id": 20,
+          "questionId": 2,
+          "name": "C.20",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Tìm x: X + 37 = 73 - 5  ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "31"
+    },
+    {
+      "id": 7,
+      "name": "Tìm x: 5 x 7 = X + 19",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "16"
+    },
+    {
+      "id": 8,
+      "name": "Tìm x: X + 79 = 90 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "11"
+    },
+    {
+      "id": 9,
+      "name": "Tìm x: 100 - X = 34 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "66"
+    },
+    {
+      "id": 10,
+      "name": "Tính : 36 + 45 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "81"
+    },
+    {
+     "id": 11,
+      "name": "Tính : 73 - 39 =... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "34"
+    },
+    {
+     "id": 12,
+      "name": "Tính : 45 + 44 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "89"
+    },
+    {
+     "id": 13,
+      "name": "Tính :88 - 79 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "9"
+    },
+    {
+     "id": 14,
+      "name": "Tính : 15 – 5 x 2= ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "5"
+    },
+    {
+      "id": 15,
+      "name": "Nhà Lan có 8 cái ghế tựa, mỗi cái ghế có 4 chân . Hỏi 8 cái ghế có tất cả bao nhiêu cái chân ?",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "32"
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "id": 1,
+  "name": "Ôn tập giữa học kỳ 2 - Đề 69",
+  "description": "this is my quiz",
+  "questions": [
+    {
+      "id": 1,
+      "name": "Số gồm 6 nghìn và 5 đơn vị viết là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "questionId": 1,
+          "name": " 605",
+          "isAnswer": false
+        },
+        {
+          "id": 2,
+          "questionId": 1,
+          "name": "6050",
+          "isAnswer": false
+        },
+        {
+          "id": 3,
+          "questionId": 1,
+          "name": "6005 ",
+          "isAnswer": true
+        },
+        {
+          "id": 4,
+          "questionId": 1,
+          "name": "6500",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Số liền sau của số 7890 là: ",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 5,
+          "questionId": 2,
+          "name": "7889",
+          "isAnswer": false
+        },
+        {
+          "id": 6,
+          "questionId": 2,
+          "name": "8890",
+          "isAnswer": false
+        },
+        {
+          "id": 7,
+          "questionId": 2,
+          "name": "7900 ",
+          "isAnswer": false
+        },
+        {
+          "id": 8,
+          "questionId": 2,
+          "name": "7891",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "17m 3cm = …. Cm",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 9,
+          "questionId": 2,
+          "name": " 137",
+          "isAnswer": false
+        },
+        {
+          "id": 10,
+          "questionId": 2,
+          "name": "173",
+          "isAnswer": false
+        },
+        {
+          "id": 11,
+          "questionId": 2,
+          "name": "1730",
+          "isAnswer": false
+        },
+        {
+          "id": 12,
+          "questionId": 2,
+          "name": "D. 1703",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Số La Mã XV đọc là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 13,
+          "questionId": 2,
+          "name": " Mười một",
+          "isAnswer": false
+        },
+        {
+          "id": 14,
+          "questionId": 2,
+          "name": " Mười ba ",
+          "isAnswer": false
+        },
+        {
+          "id": 15,
+          "questionId": 2,
+          "name": " Mười bốn",
+          "isAnswer": false
+        },
+        {
+          "id": 16,
+          "questionId": 2,
+          "name": " Mười lăm",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Ngày 29 tháng 3 năm 2018 là ngày thứ năm. Ngày 03 tháng 4 cùng năm là thứ mấy?",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 17,
+          "questionId": 2,
+          "name": "thứ ba",
+          "isAnswer": true
+        },
+        {
+          "id": 18,
+          "questionId": 2,
+          "name": "thứ tư",
+          "isAnswer": false
+        },
+        {
+          "id": 19,
+          "questionId": 2,
+          "name": "thứ năm",
+          "isAnswer": false
+        },
+        {
+          "id": 20,
+          "questionId": 2,
+          "name": "thứ sáu",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Tìm X: X x 5 = 3015  ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "603"
+    },
+    {
+      "id": 7,
+      "name": "Tìm X: X + 2536 = 4675",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "2139 "
+    },
+    {
+      "id": 8,
+      "name": "Tìm x: X - 350 = 4583 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "4933"
+    },
+    {
+      "id": 9,
+      "name": "Tìm x: X : 9 = 750 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "6750"
+    },
+    {
+      "id": 10,
+      "name": "Tính : 2476 x 6 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "14856"
+    },
+    {
+      "id": 11,
+      "name": "Tính : 5607: 7 =... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "801"
+    },
+    {
+      "id": 12,
+      "name": "Tính : 1405 x 6 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "8430"
+    },
+    {
+      "id": 13,
+      "name": "Tính : 4456 : 8 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "557"
+    },
+    {
+      "id": 14,
+      "name": "Một phân xưởng phải may 2430 bộ quần áo. Phân xưởng đã may được 2/3 số bộ quần áo đó. Hỏi phân xưởng còn phải may bao nhiêu bộ quần áo nữa?",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "810"
+    },
+    {
+      "id": 15,
+      "name": " Có 3 xe chở dầu, mỗi xe chở được 2790l dầu. Số dầu đó chia đều cho 9 cửa hàng. Hỏi mỗi cửa hàng nhận được bao nhiêu lít dầu? ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "930"
+    }
+  ]
+}

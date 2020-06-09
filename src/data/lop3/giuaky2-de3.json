@@ -1,0 +1,237 @@
+{
+  "id": 1,
+  "name": "Ôn tập giữa học kỳ 2 - Đề 67",
+  "description": "this is my quiz",
+  "questions": [
+    {
+      "id": 1,
+      "name": "Số gồm: chín nghìn, chín chục được viết là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "questionId": 1,
+          "name": " 9990",
+          "isAnswer": false
+        },
+        {
+          "id": 2,
+          "questionId": 1,
+          "name": "9900",
+          "isAnswer": false
+        },
+        {
+          "id": 3,
+          "questionId": 1,
+          "name": "9090 ",
+          "isAnswer": true
+        },
+        {
+          "id": 4,
+          "questionId": 1,
+          "name": "9009",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Dãy số nào được viết theo thứ tự từ lớn đến bé? ",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 5,
+          "questionId": 2,
+          "name": "5872; 5728; 5278; 5287",
+          "isAnswer": false
+        },
+        {
+          "id": 6,
+          "questionId": 2,
+          "name": "5782; 5827; 5287; 5278",
+          "isAnswer": false
+        },
+        {
+          "id": 7,
+          "questionId": 2,
+          "name": "7852; 7582; 7285; 7258 ",
+          "isAnswer": true
+        },
+        {
+          "id": 8,
+          "questionId": 2,
+          "name": "7258; 7285; 7582; 7852",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Số liền trước số 2000 là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 9,
+          "questionId": 2,
+          "name": " 2001",
+          "isAnswer": false
+        },
+        {
+          "id": 10,
+          "questionId": 2,
+          "name": "2099",
+          "isAnswer": false
+        },
+        {
+          "id": 11,
+          "questionId": 2,
+          "name": "1999",
+          "isAnswer": true
+        },
+        {
+          "id": 12,
+          "questionId": 2,
+          "name": "D. 1899",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Số La Mã IX đọc là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 13,
+          "questionId": 2,
+          "name": " Chín",
+          "isAnswer": true
+        },
+        {
+          "id": 14,
+          "questionId": 2,
+          "name": " Tám ",
+          "isAnswer": false
+        },
+        {
+          "id": 15,
+          "questionId": 2,
+          "name": " Mười một",
+          "isAnswer": false
+        },
+        {
+          "id": 16,
+          "questionId": 2,
+          "name": " Mười",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Ngày 29 tháng 3 năm 2018 là ngày thứ năm. Ngày 03 tháng 4 cùng năm là thứ mấy?",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 17,
+          "questionId": 2,
+          "name": "thứ ba",
+          "isAnswer": true
+        },
+        {
+          "id": 18,
+          "questionId": 2,
+          "name": "thứ tư",
+          "isAnswer": false
+        },
+        {
+          "id": 19,
+          "questionId": 2,
+          "name": "thứ năm",
+          "isAnswer": false
+        },
+        {
+          "id": 20,
+          "questionId": 2,
+          "name": "thứ sáu",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Tìm X: 2009 : X = 7  ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "287"
+    },
+    {
+      "id": 7,
+      "name": "Tìm X: X x 9 = 2772 : 2",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "154 "
+    },
+    {
+      "id": 8,
+      "name": "Tìm x: X + 350 = 850 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "500"
+    },
+    {
+      "id": 9,
+      "name": "Tìm x: 1355 - X = 455 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "900"
+    },
+    {
+      "id": 10,
+      "name": "Tính : 7368 – 5359 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "2009"
+    },
+    {
+      "id": 11,
+      "name": "Tính : 6822 + 2918 =... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "9740"
+    },
+    {
+      "id": 12,
+      "name": "Tính : 1405 x 6 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "8430"
+    },
+    {
+      "id": 13,
+      "name": "Tính : 4456 : 8 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "557"
+    },
+    {
+      "id": 14,
+      "name": "Một mảnh đất hình chữ nhật có chiều dài là 224m, chiều rộng bằng 1/4 chiều dài.  Chu vi mảnh đất đó bằng bao nhiêu mét.",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "560"
+    },
+    {
+      "id": 15,
+      "name": " Có 3 xe chở dầu, mỗi xe chở được 2790l dầu. Số dầu đó chia đều cho 9 cửa hàng. Hỏi mỗi cửa hàng nhận được bao nhiêu lít dầu? ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "930"
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+ {
+    "id": 1,
+    "name": "Ôn tập cuối học kỳ 2 - Đề 51",
+    "description": "this is my quiz",
+    "questions": [{
+            "id": 1,
+            "name": " Số lớn nhất trong các số: 989; 199; 879; 950 là:",
+            "questionTypeId": 1,
+            "userAnswer": "",
+            "options": [{
+                    "id": 1,
+                    "questionId": 1,
+                    "name": "A. 989",
+                    "isAnswer": true
+                },
+                {
+                    "id": 2,
+                    "questionId": 1,
+                    "name": "B. 199",
+                    "isAnswer": false
+                },
+                {
+                    "id": 3,
+                    "questionId": 1,
+                    "name": "C. 879 ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 4,
+                    "questionId": 1,
+                    "name": "D.  950",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": " Kết quả của phép tính: 243 + 716 =...",
+            "questionTypeId": 1,
+            "userAnswer": "",
+            "options": [{
+                    "id": 5,
+                    "questionId": 2,
+                    "name": "A. 969",
+                    "isAnswer": false
+                },
+                {
+                    "id": 6,
+                    "questionId": 2,
+                    "name": "B. 959",
+                    "isAnswer": true
+                },
+                {
+                    "id": 7,
+                    "questionId": 2,
+                    "name": "C.559 ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 8,
+                    "questionId": 2,
+                    "name": "D. 569",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": " Số bị chia và số chia lần lượt là 36 và 4. Vậy thương là:",
+            "questionTypeId": 1,
+            "userAnswer": "",
+            "options": [{
+                    "id": 9,
+                    "questionId": 2,
+                    "name": "A. 40",
+                    "isAnswer": false
+                },
+                {
+                    "id": 10,
+                    "questionId": 2,
+                    "name": "B. 32",
+                    "isAnswer": false
+                },
+                {
+                    "id": 11,
+                    "questionId": 2,
+                    "name": "C.9 ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 12,
+                    "questionId": 2,
+                    "name": "D. 8",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": " Số liền sau của số lớn nhất có ba chữ số là:",
+            "questionTypeId": 1,
+            "userAnswer": "",
+            "options": [{
+                    "id": 13,
+                    "questionId": 2,
+                    "name": "A. 100",
+                    "isAnswer": false
+                },
+                {
+                    "id": 14,
+                    "questionId": 2,
+                    "name": "B. 111",
+                    "isAnswer": false
+                },
+                {
+                    "id": 15,
+                    "questionId": 2,
+                    "name": "C.998 ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 16,
+                    "questionId": 2,
+                    "name": "D. 1000",
+                    "isAnswer": true
+                }
+            ]
+        },
+         {
+            "id": 5,
+            "name": " Chọn đáp án đúng nhất: 1km = …m?",
+            "questionTypeId": 1,
+            "userAnswer": "",
+            "options": [{
+                    "id": 17,
+                    "questionId": 2,
+                    "name": "A. 10m",
+                    "isAnswer": false
+                },
+                {
+                    "id": 18,
+                    "questionId": 2,
+                    "name": "B. 20m",
+                    "isAnswer": false
+                },
+                {
+                    "id": 19,
+                    "questionId": 2,
+                    "name": "C.100m ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 20,
+                    "questionId": 2,
+                    "name": "D. 1000m",
+                    "isAnswer": true
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Tìm X: 345 + X = 700 ",
+            "questionTypeId": 2,
+            "userAnswer": "",
+            "correctAnswer": "355"
+        },
+        {
+            "id": 7,
+            "name": "Tìm X: X - 132 = 233 ",
+            "questionTypeId": 2,
+            "userAnswer": "",
+            "correctAnswer": "365"
+        },
+        {
+            "id": 8,
+            "name": "Tính: 532 + 245 = …. ",
+            "questionTypeId": 2,
+            "userAnswer": "",
+            "correctAnswer": "777"
+        },
+        {
+            "id": 9,
+            "name": "Tính: 351+ 46 = …… ",
+            "questionTypeId": 2,
+            "userAnswer": "",
+            "correctAnswer": "397"
+        },
+        {
+            "id": 10,
+            "name": "Tính: 972 – 430 = …. ",
+            "questionTypeId": 2,
+            "userAnswer": "",
+            "correctAnswer": "542"
+        },
+        {
+            "id": 11,
+            "name": "Tính: 589 – 35 = …… ",
+            "questionTypeId": 2,
+            "userAnswer": "",
+            "correctAnswer": "554"
+        },
+        {
+            "id": 12,
+            "name": "Tính: 683 + 204 = …… ",
+            "questionTypeId": 2,
+            "userAnswer": "",
+            "correctAnswer": "887"
+        },
+        {
+            "id": 13,
+            "name": "Tính: 548 - 312 = ….. ",
+            "questionTypeId": 2,
+            "userAnswer": "",
+            "correctAnswer": "236"
+        },
+        {
+            "id": 14,
+            "name": "Lớp em có 32 bạn, cô giáo chia đều thành 4 tổ. Hỏi mỗi tổ có bao nhiêu bạn?",
+            "questionTypeId": 2,
+            "userAnswer": "",
+            "correctAnswer": "8"
+        },
+        {
+            "id": 15,
+            "name": "Đàn gà nhà Lan có 86 con, đã bán đi 29 con. Hỏi nhà Lan còn lại bao nhiêu con gà?",
+            "questionTypeId": 2,
+            "userAnswer": "",
+            "correctAnswer": "57"
+        }
+    ]
+}

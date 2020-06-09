@@ -1,0 +1,187 @@
+{
+  "id": 1,
+  "name": "Ôn tập cuối học kỳ 1 - Đề 70",
+  "description": "this is my quiz",
+  "questions": [
+    {
+      "id": 1,
+      "name": "Kết quả của phép nhân 307 x 40 là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "questionId": 1,
+          "name": " 1228",
+          "isAnswer": false
+        },
+        {
+          "id": 2,
+          "questionId": 1,
+          "name": " 12280",
+          "isAnswer": true
+        },
+        {
+          "id": 3,
+          "questionId": 1,
+          "name": " 2280 ",
+          "isAnswer": false
+        },
+        {
+          "id": 4,
+          "questionId": 1,
+          "name": " 12290",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Kết quả của phép nhân 78 x 11 = …",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 5,
+          "questionId": 2,
+          "name": " 858",
+          "isAnswer": true
+        },
+        {
+          "id": 6,
+          "questionId": 2,
+          "name": " 718",
+          "isAnswer": false
+        },
+        {
+          "id": 7,
+          "questionId": 2,
+          "name": "758 ",
+          "isAnswer": false
+        },
+        {
+          "id": 8,
+          "questionId": 2,
+          "name": " 588",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Số dư trong phép chia 4325 : 123 là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 9,
+          "questionId": 2,
+          "name": " 2",
+          "isAnswer": false
+        },
+        {
+          "id": 10,
+          "questionId": 2,
+          "name": " 143",
+          "isAnswer": false
+        },
+        {
+          "id": 11,
+          "questionId": 2,
+          "name": "20 ",
+          "isAnswer": true
+        },
+        {
+          "id": 12,
+          "questionId": 2,
+          "name": " 35",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Đúng ghi Đ, sai ghi S : (32 x 8) : 4 = 32 : 4 x 8 : 4 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "S"
+    },
+    {
+      "id": 5,
+      "name": "Đúng ghi Đ, sai ghi S (32 x 8) : 4 = 32 : 4 x 8 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "Đ"
+    },
+    {
+      "id": 6,
+      "name": "Tìm x:  1855 : x = 35 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "53"
+    },
+    {
+      "id": 7,
+      "name": "Tìm x: X x 12 = 9360 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "780"
+    },
+    {
+      "id": 8,
+      "name": "Tìm x: X + 1235 = 6655 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "5420"
+    },
+    {
+      "id": 9,
+      "name": "Tìm x: 6758 - X = 800 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "5958"
+    },
+    {
+      "id": 10,
+      "name": "Tính: 115248 + 92816 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "208064"
+    },
+    {
+      "id": 11,
+      "name": "Tính: 58872 – 42958 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "16114"
+    },
+    {
+      "id": 12,
+      "name": "Tính: 2148 x 206 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "442488"
+    },
+    {
+      "id": 13,
+        "name": "Tính: 21400 : 25 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "856"
+    },
+    {
+      "id": 14,
+      "name": "Cả hai ngày, cửa hàng lương thực nhập về tất cả 3 tấn 5 tạ thóc. Biết rằng ngày thứ nhất nhập về ít hơn ngày thứ hai là 5 tạ thóc. Hỏi:Ngày thứ nhất cửa hàng nhập về bao nhiêu tạ thóc? ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "15"
+    },
+    {
+      "id": 15,
+      "name": "Cả hai ngày, cửa hàng lương thực nhập về tất cả 3 tấn 5 tạ thóc. Biết rằng ngày thứ nhất nhập về ít hơn ngày thứ hai là 5 tạ thóc. Hỏi:Ngày thứ hai cửa hàng nhập về bao nhiêu tạ thóc? ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "20"
+    }
+  ]
+}

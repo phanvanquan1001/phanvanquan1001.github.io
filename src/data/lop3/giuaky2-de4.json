@@ -1,0 +1,237 @@
+{
+  "id": 1,
+  "name": "Ôn tập giữa học kỳ 2 - Đề 68",
+  "description": "this is my quiz",
+  "questions": [
+    {
+      "id": 1,
+      "name": " Số liền sau của 6359 là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "questionId": 1,
+          "name": " 6358",
+          "isAnswer": false
+        },
+        {
+          "id": 2,
+          "questionId": 1,
+          "name": "6349",
+          "isAnswer": false
+        },
+        {
+          "id": 3,
+          "questionId": 1,
+          "name": "6360 ",
+          "isAnswer": true
+        },
+        {
+          "id": 4,
+          "questionId": 1,
+          "name": "6369",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Trong các số: 8572, 7852 5872 8752 số lớn nhất là: ",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 5,
+          "questionId": 2,
+          "name": "8572",
+          "isAnswer": false
+        },
+        {
+          "id": 6,
+          "questionId": 2,
+          "name": "7852",
+          "isAnswer": false
+        },
+        {
+          "id": 7,
+          "questionId": 2,
+          "name": "5872 ",
+          "isAnswer": false
+        },
+        {
+          "id": 8,
+          "questionId": 2,
+          "name": "8752",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Trong năm 2020, ngày 27 tháng 3 là thứ 5, ngày 30 tháng 3 là thứ mấy?",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 9,
+          "questionId": 2,
+          "name": " Thứ năm",
+          "isAnswer": false
+        },
+        {
+          "id": 10,
+          "questionId": 2,
+          "name": "Thứ sáu",
+          "isAnswer": false
+        },
+        {
+          "id": 11,
+          "questionId": 2,
+          "name": "Thứ bảy",
+          "isAnswer": false
+        },
+        {
+          "id": 12,
+          "questionId": 2,
+          "name": "D. Chủ nhật",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Số gồm có bốn ngàn, năm trăm, linh tám là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 13,
+          "questionId": 2,
+          "name": " 4580",
+          "isAnswer": false
+        },
+        {
+          "id": 14,
+          "questionId": 2,
+          "name": " 4508 ",
+          "isAnswer": true
+        },
+        {
+          "id": 15,
+          "questionId": 2,
+          "name": " 45008",
+          "isAnswer": false
+        },
+        {
+          "id": 16,
+          "questionId": 2,
+          "name": "4805",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Chu vi hình vuông là 20 m cạnh của chúng là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 17,
+          "questionId": 2,
+          "name": "80m",
+          "isAnswer": false
+        },
+        {
+          "id": 18,
+          "questionId": 2,
+          "name": "5m",
+          "isAnswer": true
+        },
+        {
+          "id": 19,
+          "questionId": 2,
+          "name": "4m",
+          "isAnswer": false
+        },
+        {
+          "id": 20,
+          "questionId": 2,
+          "name": "16m",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Tìm X: 4536 : X = 9  ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "504"
+    },
+    {
+      "id": 7,
+      "name": "Tìm x: X x 8 = 6480",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "810"
+    },
+    {
+      "id": 8,
+      "name": "Tìm x: X + 350 = 850 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "500"
+    },
+    {
+      "id": 9,
+      "name": "Tìm x: 1355 - X = 455 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "900"
+    },
+    {
+      "id": 10,
+      "name": "Tính : 1729 + 3815 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "5544"
+    },
+    {
+      "id": 11,
+      "name": "Tính : 1927 x 4 =... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "7708"
+    },
+    {
+      "id": 12,
+      "name": "Tính : 7280 – 1738 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "5542"
+    },
+    {
+      "id": 13,
+      "name": "Tính : 8289 : 9 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "921"
+    },
+    {
+      "id": 14,
+      "name": "Một trại gà trong 3 ngày thu được 3150 quả trứng. Hỏi trong 8 ngày như thế trại gà sẽ thu được bao nhiêu quả trứng?",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "8400"
+    },
+    {
+      "id": 15,
+      "name": "Có 40 lít dầu đựng đều trong 5 can. Hỏi 4 can dầu có bao nhiêu lít dầu? ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "32"
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "id": 1,
+  "name": "Ôn tập cuối học kỳ 1 - Đề 44",
+  "description": "this is my quiz",
+  "questions": [
+    {
+      "id": 1,
+      "name": "Số thích hợp điền vào chỗ chấm: 1 ngày có ... giờ:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "questionId": 1,
+          "name": "A. 12",
+          "isAnswer": false
+        },
+        {
+          "id": 2,
+          "questionId": 1,
+          "name": "B. 20",
+          "isAnswer": false
+        },
+        {
+          "id": 3,
+          "questionId": 1,
+          "name": "C. 23 ",
+          "isAnswer": false
+        },
+        {
+          "id": 4,
+          "questionId": 1,
+          "name": "D. 24",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": " Cho phép tính  48 + 15 = ...  Kết quả đúng của phép tính là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 5,
+          "questionId": 2,
+          "name": "A. 53",
+          "isAnswer": false
+        },
+        {
+          "id": 6,
+          "questionId": 2,
+          "name": "B. 33",
+          "isAnswer": false
+        },
+        {
+          "id": 7,
+          "questionId": 2,
+          "name": "C.63 ",
+          "isAnswer": true
+        },
+        {
+          "id": 8,
+          "questionId": 2,
+          "name": "D. 64",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Kết qủa tính của 56 + 8 – 10 = …. là: ",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 9,
+          "questionId": 2,
+          "name": "A. 54",
+          "isAnswer": true
+        },
+        {
+          "id": 10,
+          "questionId": 2,
+          "name": "B. 64",
+          "isAnswer": false
+        },
+        {
+          "id": 11,
+          "questionId": 2,
+          "name": "C.74 ",
+          "isAnswer": false
+        },
+        {
+          "id": 12,
+          "questionId": 2,
+          "name": "D. 73",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Chữ số 6 trong số 67 có giá trị là: ",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 13,
+          "questionId": 2,
+          "name": "A. 6",
+          "isAnswer": false
+        },
+        {
+          "id": 14,
+          "questionId": 2,
+          "name": "B. 13",
+          "isAnswer": false
+        },
+        {
+          "id": 15,
+          "questionId": 2,
+          "name": "C.60 ",
+          "isAnswer": true
+        },
+        {
+          "id": 16,
+          "questionId": 2,
+          "name": "C.70 ",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": " Chữ số 7 trong số 67 có giá trị là: ",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 17,
+          "questionId": 2,
+          "name": "A. 13",
+          "isAnswer": false
+        },
+        {
+          "id": 18,
+          "questionId": 2,
+          "name": "B. 70",
+          "isAnswer": false
+        },
+        {
+          "id": 19,
+          "questionId": 2,
+          "name": "C.7",
+          "isAnswer": true
+        },
+        {
+          "id": 20,
+          "questionId": 2,
+          "name": "C.67",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Tìm X: X - 29 = 34 + 10 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "73"
+    },
+    {
+      "id": 7,
+      "name": "Tìm X: X + 25 = 83 - 38 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "20"
+    },
+     {
+      "id": 8,
+      "name": "Tìm X: 9 x X = 81 - 9 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "8"
+    },
+    {
+      "id": 9,
+      "name": "Tìm X: X : 5 = 15 + 5 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "100"
+    }
+    ,
+    {
+      "id": 10,
+      "name": "Tính:  28 + 37 =...",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "65"
+    },
+    {
+      "id": 11,
+      "name": "Tính: 84 - 35 =... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "49"
+    },
+    {
+      "id": 12,
+      "name": "Tính: 25 + 14 =...",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "39"
+    },
+    {
+      "id": 13,
+      "name": "Tính: 98 – 43 =... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "55"
+    },
+    {
+      "id": 14,
+      "name": " Tính: 35 + 15 - 10",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "40"
+    },
+    {
+      "id": 15,
+      "name": "Bao thứ nhất có 75kg gạo, bao thứ hai có ít hơn bao thứ nhất 19kg gạo. Hỏi bao thứ hai có bao nhiêu ki-lo-gam gạo? ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "56"
+    }
+  ]
+}

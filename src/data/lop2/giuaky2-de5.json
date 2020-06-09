@@ -1,0 +1,237 @@
+{
+  "id": 1,
+  "name": "Ôn tập giữa học kỳ 2 - Đề 49",
+  "description": "this is my quiz",
+  "questions": [
+    {
+      "id": 1,
+      "name": "Sắp xếp thứ tự giảm dần của giãy số sau: 40, 32, 50, 80, 10 ",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "questionId": 1,
+          "name": "A. 40, 32, 50, 80, 10",
+          "isAnswer": false
+        },
+        {
+          "id": 2,
+          "questionId": 1,
+          "name": "B. 10, 32, 40, 50, 80",
+          "isAnswer": false
+        },
+        {
+          "id": 3,
+          "questionId": 1,
+          "name": "C.  80, 50, 40, 32, 10 ",
+          "isAnswer": true
+        },
+        {
+          "id": 4,
+          "questionId": 1,
+          "name": "D. 80, 40, 50, 32, 10",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Chọn đáp án đúng nhất: 2m + 4m =………….dm",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 5,
+          "questionId": 2,
+          "name": "A. 40",
+          "isAnswer": false
+        },
+        {
+          "id": 6,
+          "questionId": 2,
+          "name": "B. 20",
+          "isAnswer": false
+        },
+        {
+          "id": 7,
+          "questionId": 2,
+          "name": "C.60 ",
+          "isAnswer": true
+        },
+        {
+          "id": 8,
+          "questionId": 2,
+          "name": "D. 80",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": " Chọn đáp án đúng nhất: 30 phút + 50 phút = …… phút :",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 9,
+          "questionId": 2,
+          "name": "A. 60 phút",
+          "isAnswer": false
+        },
+        {
+          "id": 10,
+          "questionId": 2,
+          "name": "B.80 phút",
+          "isAnswer": true
+        },
+        {
+          "id": 11,
+          "questionId": 2,
+          "name": "C.120 phút",
+          "isAnswer": false
+        },
+        {
+          "id": 12,
+          "questionId": 2,
+          "name": "D. 110 phút",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Chọn đáp án đúng nhất: 2 x 40 = .....",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 13,
+          "questionId": 2,
+          "name": "A. 60",
+          "isAnswer": false
+        },
+        {
+          "id": 14,
+          "questionId": 2,
+          "name": "B. 80 ",
+          "isAnswer": true
+        },
+        {
+          "id": 15,
+          "questionId": 2,
+          "name": "C.82",
+          "isAnswer": false
+        },
+        {
+          "id": 16,
+          "questionId": 2,
+          "name": "C.42",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Tính chu vi hình tam giác có độ dài các cạnh là: 7 cm, 10 cm và 13 cm",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 17,
+          "questionId": 1,
+          "name": "A. 10",
+          "isAnswer": false
+        },
+        {
+          "id": 18,
+          "questionId": 1,
+          "name": "B. 20",
+          "isAnswer": false
+        },
+        {
+          "id": 19,
+          "questionId": 1,
+          "name": "C.  30 ",
+          "isAnswer": true
+        },
+        {
+          "id": 20,
+          "questionId": 1,
+          "name": "D. 40",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Tìm X:  X : 5 = 5  ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "25"
+    },
+    {
+      "id": 7,
+      "name": "Tìm X: X x 4 = 32  ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "8"
+    },
+    {
+      "id": 8,
+      "name": "Tìm X: X : 2 = 5 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "10"
+    },
+    {
+      "id": 9,
+      "name": "Tìm X: X x 3 = 27  ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "9"
+    },
+    {
+      "id": 10,
+      "name": "Tính : 2 x 8 + 10  = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "26"
+    },
+    {
+     "id": 11,
+      "name": "Tính : 4 x 5 – 18 =... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "2"
+    },
+    {
+     "id": 12,
+      "name": "Điền dấu (>, <, =) vào chỗ trống: : 4 x 1 ... 12 : 3 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "="
+    },
+    {
+     "id": 13,
+      "name": "Điền dấu (>, <, =) vào chỗ trống: 10 : 2 ... 2 x 5",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "<"
+    },
+    {
+     "id": 14,
+      "name": "Điền dấu (>, <, =) vào chỗ trống: 3 x 6 ... 8 : 2",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": ">"
+    },
+    {
+      "id": 15,
+      "name": "Mỗi học sinh được mượn 3 quyển truyện. Hỏi 8 học sinh được mượn bao nhiêu quyển truyện?",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "24"
+    }
+  ]
+}

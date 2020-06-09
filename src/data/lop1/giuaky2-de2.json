@@ -1,0 +1,237 @@
+{
+  "id": 1,
+  "name": "Ôn tập giữa học kỳ 2 - Đề 31",
+  "description": "this is my quiz",
+  "questions": [
+    {
+      "id": 1,
+      "name": " Số liền trước của 20 là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "questionId": 1,
+          "name": "A. 21",
+          "isAnswer": false
+        },
+        {
+          "id": 2,
+          "questionId": 1,
+          "name": "B. 19",
+          "isAnswer": true
+        },
+        {
+          "id": 3,
+          "questionId": 1,
+          "name": "C. 18 ",
+          "isAnswer": false
+        },
+        {
+          "id": 4,
+          "questionId": 1,
+          "name": "D. 22",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": " Số liền sau của 18 là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 5,
+          "questionId": 2,
+          "name": "A. 17",
+          "isAnswer": false
+        },
+        {
+          "id": 6,
+          "questionId": 2,
+          "name": "B. 19",
+          "isAnswer": true
+        },
+        {
+          "id": 7,
+          "questionId": 2,
+          "name": "C.20 ",
+          "isAnswer": false
+        },
+        {
+          "id": 8,
+          "questionId": 2,
+          "name": "D. 16",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": " Sắp xếp các số sau từ bé đến lớn: 35; 28; 52; 43",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 9,
+          "questionId": 2,
+          "name": "A. 35, 28, 52, 43",
+          "isAnswer": false
+        },
+        {
+          "id": 10,
+          "questionId": 2,
+          "name": "B.35, 28, 43, 52",
+          "isAnswer": false
+        },
+        {
+          "id": 11,
+          "questionId": 2,
+          "name": "C.52, 43, 35, 28",
+          "isAnswer": false
+        },
+        {
+          "id": 12,
+          "questionId": 2,
+          "name": "D. 28, 35, 43, 52",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Sắp xếp các số sau từ lớn đến bé: 35; 28; 52; 43",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 13,
+          "questionId": 2,
+          "name": "A. 35, 28, 52, 43",
+          "isAnswer": false
+        },
+        {
+          "id": 14,
+          "questionId": 2,
+          "name": "B. 35, 28, 43, 52 ",
+          "isAnswer": false
+        },
+        {
+          "id": 15,
+          "questionId": 2,
+          "name": "C.52, 43, 35, 28",
+          "isAnswer": true
+        },
+        {
+          "id": 16,
+          "questionId": 2,
+          "name": "C.28, 35, 43, 52",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Số lớn nhất có một hai số là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 17,
+          "questionId": 2,
+          "name": "A. 10",
+          "isAnswer": false
+        },
+        {
+          "id": 18,
+          "questionId": 2,
+          "name": "B. 99",
+          "isAnswer": true
+        },
+        {
+          "id": 19,
+          "questionId": 2,
+          "name": "C.100",
+          "isAnswer": false
+        },
+        {
+          "id": 20,
+          "questionId": 2,
+          "name": "C.90",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": " Điền dấu ( >; <; = ) vào chỗ chấm: 50 …… 40",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": ">"
+    },
+    {
+      "id": 7,
+      "name": "Điền dấu ( >; <; = ) vào chỗ chấm: 40 ….. 60",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "<"
+    },
+    {
+      "id": 8,
+      "name": "Điền dấu ( >; <; = ) vào chỗ chấm: 30 …… 20 + 10 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "="
+    },
+    {
+      "id": 9,
+      "name": "Điền dấu ( >; <; = ) vào chỗ chấm: 90 …… 70 + 10",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": ">"
+    },
+    {
+      "id": 10,
+      "name": "Tính :  40 + 30 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "70"
+    },
+    {
+     "id": 11,
+      "name": "Tính : 80 - 40 =... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "40"
+    },
+    {
+     "id": 12,
+      "name": "Tính : 20 + 60 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "80"
+    },
+    {
+     "id": 13,
+      "name": "Tính :15 + 1 - 6 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "10"
+    },
+    {
+     "id": 14,
+      "name": "Tính : 19 - 5 + 4 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "18"
+    },
+    {
+      "id": 15,
+      "name": "Trong vườn nhà Nam trồng được 20 cây bưởi và 30 cây cam. Hỏi trong vườn nhà Nam trồng được tất cả bao nhiêu cây?",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "50"
+    }
+  ]
+}

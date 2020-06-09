@@ -1,0 +1,237 @@
+{
+  "id": 1,
+  "name": "Ôn tập cuối học kỳ 1 - Đề 9",
+  "description": "this is my quiz",
+  "questions": [
+    {
+      "id": 1,
+      "name": "Số nào trong các số dưới đây có chữ số 8 biểu thị cho 80000.",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "questionId": 1,
+          "name": " 42815",
+          "isAnswer": false
+        },
+        {
+          "id": 2,
+          "questionId": 1,
+          "name": " 128314",
+          "isAnswer": false
+        },
+        {
+          "id": 3,
+          "questionId": 1,
+          "name": " 85323 ",
+          "isAnswer": true
+        },
+        {
+          "id": 4,
+          "questionId": 1,
+          "name": " 812049",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Trong các số sau số nào chia hết cho 2 nhưng không chia hết cho 5",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 5,
+          "questionId": 2,
+          "name": " 48405",
+          "isAnswer": false
+        },
+        {
+          "id": 6,
+          "questionId": 2,
+          "name": " 46254",
+          "isAnswer": true
+        },
+        {
+          "id": 7,
+          "questionId": 2,
+          "name": "90450 ",
+          "isAnswer": false
+        },
+        {
+          "id": 8,
+          "questionId": 2,
+          "name": " 17309",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Điền số thích hợp vào chỗ chấm. 42dm2 60cm2 = ....cm2",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 9,
+          "questionId": 2,
+          "name": " 4206",
+          "isAnswer": false
+        },
+        {
+          "id": 10,
+          "questionId": 2,
+          "name": " 42060",
+          "isAnswer": false
+        },
+        {
+          "id": 11,
+          "questionId": 2,
+          "name": "4026 ",
+          "isAnswer": false
+        },
+        {
+          "id": 12,
+          "questionId": 2,
+          "name": " 4260",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Kết quả của phép nhân 307 x 40 là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 13,
+          "questionId": 2,
+          "name": " 1228",
+          "isAnswer": false
+        },
+        {
+          "id": 14,
+          "questionId": 2,
+          "name": " 12280 ",
+          "isAnswer": true
+        },
+        {
+          "id": 15,
+          "questionId": 2,
+          "name": "2280 ",
+          "isAnswer": false
+        },
+        {
+          "id": 16,
+          "questionId": 2,
+          "name": "12290 ",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Kết quả của phép chia 450 : 15 là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 17,
+          "questionId": 2,
+          "name": " 40",
+          "isAnswer": false
+        },
+        {
+          "id": 18,
+          "questionId": 2,
+          "name": " 20",
+          "isAnswer": false
+        },
+        {
+          "id": 19,
+          "questionId": 2,
+          "name": "30",
+          "isAnswer": true
+        },
+        {
+          "id": 20,
+          "questionId": 2,
+          "name": "44",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Tìm x: 7875 : X = 45 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "175"
+    },
+    {
+      "id": 7,
+      "name": "Tìm x: X : 12 = 352 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "4224"
+    },
+    {
+      "id": 8,
+      "name": "Tìm x: X x 5 = 1235 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "247"
+    },
+    {
+      "id": 9,
+      "name": "Tìm x: 160 x X = 800 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "5"
+    },
+    {
+      "id": 10,
+      "name": "Tính: 652834 + 196247 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "849081"
+    },
+    {
+      "id": 11,
+      "name": "Tính: 456 x 203 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "92568"
+    },
+    {
+      "id": 12,
+      "name": "Tính: 89658 : 293 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "306"
+    },
+    {
+      "id": 13,
+      "name": "Tính: 652834 - 196247 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "456587"
+    },
+    {
+      "id": 14,
+      "name": "Tổng số tuổi của hai bà cháu cách đây 5 năm là 70 tuổi, cháu kém bà 66 tuổi. Tính số tuổi của cháu hiện nay? ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "7"
+    },
+    {
+      "id": 15,
+      "name": "Một lớp học có 38 học sinh. Số học sinh nam nhiều học sinh nữ là 6 em. Hỏi lớp hoc đó có bao nhiêu học sinh nam? ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "22"
+    }
+  ]
+}

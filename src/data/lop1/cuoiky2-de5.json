@@ -1,0 +1,214 @@
+{
+  "id": 1,
+  "name": "Ôn tập cuối học kỳ 2 - Đề 37",
+  "description": "this is my quiz",
+  "questions": [
+    {
+      "id": 1,
+      "name": "Số lớn nhất có hai chữ số là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "questionId": 1,
+          "name": "A. 10 ",
+          "isAnswer": false
+        },
+        {
+          "id": 2,
+          "questionId": 1,
+          "name": "B. 99",
+          "isAnswer": true
+        },
+        {
+          "id": 3,
+          "questionId": 1,
+          "name": "C.98",
+          "isAnswer": false
+        },
+        {
+          "id": 4,
+          "questionId": 1,
+          "name": "D. 90",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Các số cần điền vào chỗ chấm: 45 < ..., ..., ... < 49 là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 5,
+          "questionId": 2,
+          "name": "A. 46, 50, 47",
+          "isAnswer": false
+        },
+        {
+          "id": 6,
+          "questionId": 2,
+          "name": "B. 44, 45, 48",
+          "isAnswer": false
+        },
+        {
+          "id": 7,
+          "questionId": 2,
+          "name": "C. 48,47, 43",
+          "isAnswer": false
+        },
+        {
+          "id": 8,
+          "questionId": 2,
+          "name": "D. 46,47, 48",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": " Số 88 là số liền trước của số:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 9,
+          "questionId": 3,
+          "name": "A. 87",
+          "isAnswer": false
+        },
+        {
+          "id": 10,
+          "questionId": 3,
+          "name": "B. 89",
+          "isAnswer": true
+        },
+        {
+          "id": 11,
+          "questionId": 3,
+          "name": "C. 78",
+          "isAnswer": false
+        },
+        {
+          "id": 12,
+          "questionId": 3,
+          "name": "D. 98",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": " Số 55 là số liền sau của số:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 13,
+          "questionId": 4,
+          "name": "A. 44",
+          "isAnswer": false
+        },
+        {
+          "id": 14,
+          "questionId": 4,
+          "name": "B. 56",
+          "isAnswer": false
+        },
+        {
+          "id": 15,
+          "questionId": 4,
+          "name": "C. 45",
+          "isAnswer": false
+        },
+        {
+          "id": 16,
+          "questionId": 4,
+          "name": "D. 54",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Tính: 63 + 6 - 8= ...",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "61"
+    },
+    {
+      "id": 6,
+      "name": "Tính: 61 + 25 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "86"
+    },
+    {
+      "id": 7,
+      "name": "Tính : 96 - 36 = ...",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "60"
+    },
+    {
+      "id": 8,
+      "name": "Tính: 32 + 56 = ... ",
+      "questionTypeId": 2,
+      "correctAnswer": "88",
+      "userAnswer": ""
+    },
+    {
+      "id": 9,
+      "name": "Tính: 54 – 31 = ... ",
+      "questionTypeId": 2,
+      "correctAnswer": "23",
+      "userAnswer": ""
+    },
+    {
+      "id": 10,
+      "name": "Điền số thích hợp vào chỗ chấm: ...- 32 = 46",
+      "questionTypeId": 2,
+      "correctAnswer": "78",
+      "userAnswer": ""
+    },
+    {
+      "id": 11,
+      "name": "Điền số thích hợp vào chỗ chấm: ...+ 32 = 72",
+      "questionTypeId": 2,
+      "correctAnswer": "40",
+      "userAnswer": ""
+    },
+    {
+      "id": 12,
+      "name": "Điền số thích hợp vào chỗ chấm: ...- 25 = 59",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "84"
+    },
+    {
+      "id": 13,
+      "name": "Điền số thích hợp vào chỗ chấm: 99 = 59 + ...",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "40"
+    },
+    {
+      "id": 14,
+      "name": "Điền số thích hợp vào chỗ chấm: 40 + 32 = 90 - ...",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "18"
+    },
+   
+    {
+      "id": 15,
+      "name": "Năm nay An 6 tuổi, mẹ An hơn An 30 tuổi. Hỏi mẹ AN năm nay bao nhiêu tuổi?",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "36"
+    }
+    
+  ]
+}

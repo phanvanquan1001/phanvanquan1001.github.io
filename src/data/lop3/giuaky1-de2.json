@@ -1,0 +1,237 @@
+{
+  "id": 1,
+  "name": "Ôn tập giữa học kỳ 1 - Đề 54",
+  "description": "this is my quiz",
+  "questions": [
+    {
+      "id": 1,
+      "name": "Số chín trăm mười hai viết là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "questionId": 1,
+          "name": "92",
+          "isAnswer": false
+        },
+        {
+          "id": 2,
+          "questionId": 1,
+          "name": "992",
+          "isAnswer": false
+        },
+        {
+          "id": 3,
+          "questionId": 1,
+          "name": "912 ",
+          "isAnswer": true
+        },
+        {
+          "id": 4,
+          "questionId": 1,
+          "name": "902",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Cho số bé là 5, số lớn là 35. Hỏi số lớn gấp mấy lần số bé?",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 5,
+          "questionId": 2,
+          "name": " 6 lần",
+          "isAnswer": false
+        },
+        {
+          "id": 6,
+          "questionId": 2,
+          "name": " 7 lần",
+          "isAnswer": true
+        },
+        {
+          "id": 7,
+          "questionId": 2,
+          "name": "8 lần ",
+          "isAnswer": false
+        },
+        {
+          "id": 8,
+          "questionId": 2,
+          "name": " 9 lần",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Số bé nhất có 3 chữ số khác nhau là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 9,
+          "questionId": 2,
+          "name": "999",
+          "isAnswer": false
+        },
+        {
+          "id": 10,
+          "questionId": 2,
+          "name": "102",
+          "isAnswer": true
+        },
+        {
+          "id": 11,
+          "questionId": 2,
+          "name": "101",
+          "isAnswer": false
+        },
+        {
+          "id": 12,
+          "questionId": 2,
+          "name": " 123",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Giá trị của biểu thức 840 : (2 + 2) là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 13,
+          "questionId": 2,
+          "name": " 210",
+          "isAnswer": true
+        },
+        {
+          "id": 14,
+          "questionId": 2,
+          "name": " 220 ",
+          "isAnswer": false
+        },
+        {
+          "id": 15,
+          "questionId": 2,
+          "name": "120",
+          "isAnswer": false
+        },
+        {
+          "id": 16,
+          "questionId": 2,
+          "name": "240",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Cho dãy số: 9; 12; 15; …; …; …; Các số thích hợp để điền vào chổ chấm là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 17,
+          "questionId": 2,
+          "name": " 18; 21; 24",
+          "isAnswer": true
+        },
+        {
+          "id": 18,
+          "questionId": 2,
+          "name": " 16; 17; 18",
+          "isAnswer": false
+        },
+        {
+          "id": 19,
+          "questionId": 2,
+          "name": "17; 19; 21",
+          "isAnswer": false
+        },
+        {
+          "id": 20,
+          "questionId": 2,
+          "name": "18; 20; 21",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Tìm X: 90 : X = 6  ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "15"
+    },
+    {
+      "id": 7,
+      "name": "Tìm X: X : 5 = 83 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "415"
+    },
+    {
+      "id": 8,
+      "name": "Tìm X: X x 6 = 270 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "45"
+    },
+    {
+      "id": 9,
+      "name": "Tìm X: 95 x X = 665 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "7"
+    },
+    {
+      "id": 10,
+      "name": "Tính : 533 + 128 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "661"
+    },
+    {
+     "id": 11,
+      "name": "Tính : 728 – 245 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "483"
+    },
+    {
+     "id": 12,
+      "name": "Tính : 172 x 4 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "688"
+    },
+    {
+     "id": 13,
+      "name": "Tính : 798 : 7 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "114"
+    },
+    {
+     "id": 14,
+      "name": "Người ta xếp 100 cái bánh vào các hộp, mỗi hộp có 5 cái. Hỏi có bao nhiêu hộp bánh?",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "20"
+    },
+    {
+      "id": 15,
+      "name": "Người ta xếp 100 cái bánh vào các hộp, mỗi hộp có 5 cái. Sau đó xếp các hộp vào thùng mỗi thùng 4 hộp. Hỏi có bao nhiêu thùng bánh? ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "5"
+    }
+  ]
+}

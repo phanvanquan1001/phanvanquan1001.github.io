@@ -1,0 +1,240 @@
+{
+  "id": 1,
+  "name": "Ôn tập cuối học kỳ 2 - Đề 66",
+  "description": "this is my quiz",
+  "questions": [
+    {
+      "id": 1,
+      "name": "Số liền trước của 78999 là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "questionId": 1,
+          "name": "78901",
+          "isAnswer": false
+        },
+        {
+          "id": 2,
+          "questionId": 1,
+          "name": "78998",
+          "isAnswer": true
+        },
+        {
+          "id": 3,
+          "questionId": 1,
+          "name": "79000 ",
+          "isAnswer": false
+        },
+        {
+          "id": 4,
+          "questionId": 1,
+          "name": "78100",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Ngày 28 tháng 4 là thứ sáu. Ngày 4 tháng 5 là thứ mấy?",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 5,
+          "questionId": 2,
+          "name": "Thứ tư",
+          "isAnswer": false
+        },
+        {
+          "id": 6,
+          "questionId": 2,
+          "name": "Thứ sáu",
+          "isAnswer": false
+        },
+        {
+          "id": 7,
+          "questionId": 2,
+          "name": "Thứ năm",
+          "isAnswer": true
+        },
+        {
+          "id": 8,
+          "questionId": 2,
+          "name": "Chủ nhật",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "8m 9dm = … dm?",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 9,
+          "questionId": 2,
+          "name": "89dm",
+          "isAnswer": true
+        },
+        {
+          "id": 10,
+          "questionId": 2,
+          "name": " 890dm",
+          "isAnswer": false
+        },
+        {
+          "id": 11,
+          "questionId": 2,
+          "name": "809dm ",
+          "isAnswer": false
+        },
+        {
+          "id": 12,
+          "questionId": 2,
+          "name": " 908dm",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Chu vi hình vuông là 96cm, cạnh của hình vuông là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 13,
+          "questionId": 2,
+          "name": "86cm",
+          "isAnswer": false
+        },
+        {
+          "id": 14,
+          "questionId": 2,
+          "name": " 43cm",
+          "isAnswer": false
+        },
+        {
+          "id": 15,
+          "questionId": 2,
+          "name": " 24cm ",
+          "isAnswer": true
+        },
+        {
+          "id": 16,
+          "questionId": 2,
+          "name": " 32cm",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Diện tích một hình vuông là 9cm2. Chu vi hình vuông đó là: ",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 17,
+          "questionId": 2,
+          "name": "A. 3cm",
+          "isAnswer": true
+        },
+        {
+          "id": 18,
+          "questionId": 2,
+          "name": "B. 12cm",
+          "isAnswer": false
+        },
+        {
+          "id": 19,
+          "questionId": 2,
+          "name": "C.4cm",
+          "isAnswer": false
+        },
+        {
+          "id": 20,
+          "questionId": 2,
+          "name": "C.36cm",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Tìm X: 1092 :  X =  6 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "109"
+    },
+    {
+      "id": 7,
+      "name": "Tìm X:  X x 3 = 2367 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "789"
+    },
+     {
+      "id": 8,
+      "name": "Tìm X: X + 2361 = 4943  ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "2582"
+    },
+    
+    {
+      "id": 9,
+      "name": "Tính: 214 x 4 = ...",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "856"
+    },
+    {
+      "id": 10,
+      "name": "Tính:  261 x 3  = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "783"
+    },
+    {
+      "id": 11,
+      "name": "Tính: 936 : 4 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "234"
+    },
+    {
+      "id": 12,
+      "name": "Tính:  2634 : 3 = ...",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "878"
+    },
+    {
+      "id": 13,
+      "name": "Tính: 750 : 5 + 4 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "154"
+    },
+    {
+      "id": 14,
+      "name": " Trong kho có 3560 kg gạo tẻ và số gạo nếp bằng 1/4 số gạo tẻ. Hỏi trong kho có tất cả bao nhiêu kg gạo? ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "4450"
+    },
+    {
+      "id": 15,
+      "name": "Một ô tô đi trong 8 giờ thì được 2624km. Hỏi ô tô đó đi trong 3 giờ được bao nhiêu ki - lô - mét?",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "984"
+    }
+    
+   
+  ]
+}

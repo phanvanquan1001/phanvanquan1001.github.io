@@ -1,0 +1,181 @@
+{
+  "id": 1,
+  "name": "Ôn tập cuối học kỳ 1 - Đề 3",
+  "description": "this is my quiz",
+  "questions": [
+    {
+      "id": 1,
+      "name": "Các số: 5; 2; 8; 4; 7 xếp theo thứ tự từ bé đến lớn là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "questionId": 1,
+          "name": "2; 5; 4; 8; 7",
+          "isAnswer": false
+        },
+        {
+          "id": 2,
+          "questionId": 1,
+          "name": "8; 5; 7; 4; 2",
+          "isAnswer": false
+        },
+        {
+          "id": 3,
+          "questionId": 1,
+          "name": "8; 7; 5; 4; 2",
+          "isAnswer": false
+        },
+        {
+          "id": 4,
+          "questionId": 1,
+          "name": "2; 4; 5; 7; 8",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Điền dấu thích hợp vào chỗ trống: 8 ... 6 + 2",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 5,
+          "questionId": 2,
+          "name": ">",
+          "isAnswer": false
+        },
+        {
+          "id": 6,
+          "questionId": 2,
+          "name": "=",
+          "isAnswer": true
+        },
+        {
+          "id": 7,
+          "questionId": 2,
+          "name": "<",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": " Số lớn nhất trong dãy số sau ; 3, 7, 6, 8, 9, là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 8,
+          "questionId": 3,
+          "name": "7",
+          "isAnswer": false
+        },
+        {
+          "id": 9,
+          "questionId": 3,
+          "name": "8",
+          "isAnswer": false
+        },
+        {
+          "id": 10,
+          "questionId": 3,
+          "name": "9",
+          "isAnswer": true
+        },
+        {
+          "id": 11,
+          "questionId": 3,
+          "name": "3",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "10 + 0 - 4 = ....",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "6"
+    },
+    {
+      "id": 5,
+      "name": "9 - 3 + 3 =....",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "9"
+    },  
+    {
+      "id": 6,
+      "name": "7 - 1 =....",
+      "questionTypeId": 2,
+      "correctAnswer": "6",
+      "userAnswer": ""
+    },
+    {
+      "id": 7,
+      "name": "3 + 6 = ...",
+      "questionTypeId": 2,
+      "correctAnswer": "9",
+      "userAnswer": ""
+    },
+    {
+      "id": 8,
+      "name": "5 + ... = 8",
+      "questionTypeId": 2,
+      "correctAnswer": "3",
+      "userAnswer": ""
+    },
+    {
+      "id": 9,
+      "name": "9 - ... = 5",
+      "questionTypeId": 2,
+      "correctAnswer": "4",
+      "userAnswer": ""
+    },
+    {
+      "id": 10,
+      "name": "7 + ... = 9",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "2"
+    },
+    {
+      "id": 11,
+      "name": "Đúng ghi Đ; sai ghi S: 7 - 5 = 4",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "S"
+    },
+    {
+      "id": 12,
+      "name": "Đúng ghi Đ; sai ghi S: 9 - 5 = 4",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "Đ"
+    },
+    {
+      "id": 13,
+      "name": "Đúng ghi Đ; sai ghi S: 3 + 1 = 4",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "Đ"
+    },
+    {
+      "id": 14,
+      "name": "Đúng ghi Đ; sai ghi S: 6 + 4 = 9",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "S"
+    },
+    {
+      "id": 15,
+      "name": "Đúng ghi Đ; sai ghi S: 4 + 4 = 8",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "Đ"
+    }
+]
+}

@@ -1,0 +1,237 @@
+{
+  "id": 1,
+  "name": "Ôn tập cuối học kỳ 1 - Đề 71",
+  "description": "this is my quiz",
+  "questions": [
+    {
+      "id": 1,
+      "name": "Trong các số 5785; 6874; 6784, 5875 số lớn nhất là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "questionId": 1,
+          "name": " 5785",
+          "isAnswer": false
+        },
+        {
+          "id": 2,
+          "questionId": 1,
+          "name": " 6874",
+          "isAnswer": true
+        },
+        {
+          "id": 3,
+          "questionId": 1,
+          "name": " 6784 ",
+          "isAnswer": false
+        },
+        {
+          "id": 4,
+          "questionId": 1,
+          "name": " 5875",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Số: Hai mươi ba triệu chín trăm mười; được viết là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 5,
+          "questionId": 2,
+          "name": " 23910",
+          "isAnswer": false
+        },
+        {
+          "id": 6,
+          "questionId": 2,
+          "name": " 23000910",
+          "isAnswer": true
+        },
+        {
+          "id": 7,
+          "questionId": 2,
+          "name": "230910000 ",
+          "isAnswer": false
+        },
+        {
+          "id": 8,
+          "questionId": 2,
+          "name": " 239010",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "10dm 2cm = ......cm",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 9,
+          "questionId": 2,
+          "name": " 12cm",
+          "isAnswer": false
+        },
+        {
+          "id": 10,
+          "questionId": 2,
+          "name": " 120cm",
+          "isAnswer": false
+        },
+        {
+          "id": 11,
+          "questionId": 2,
+          "name": "102cm ",
+          "isAnswer": true
+        },
+        {
+          "id": 12,
+          "questionId": 2,
+          "name": " 1200cm",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Hai lớp có 62 học sinh, trong đó lớp 4A nhiều hơn lớp 4B là 2 học sinh. Hỏi mỗi lớp có bao nhiêu học sinh ?",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 13,
+          "questionId": 2,
+          "name": " 4A : 30 học sinh , 4B: 32 học sinh",
+          "isAnswer": false
+        },
+        {
+          "id": 14,
+          "questionId": 2,
+          "name": " 4A: 32 học sinh, 4B: 30 học sinh ",
+          "isAnswer": true
+        },
+        {
+          "id": 15,
+          "questionId": 2,
+          "name": "4A: 30 học sinh, 4B : 32 học sinh ",
+          "isAnswer": false
+        },
+        {
+          "id": 16,
+          "questionId": 2,
+          "name": "4B : 32 học sinh, 4A : 30 học sinh ",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Chu vi của hình vuông là 16m thì diện tích sẽ là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 17,
+          "questionId": 2,
+          "name": " 16m",
+          "isAnswer": false
+        },
+        {
+          "id": 18,
+          "questionId": 2,
+          "name": " 16m2",
+          "isAnswer": true
+        },
+        {
+          "id": 19,
+          "questionId": 2,
+          "name": "32m",
+          "isAnswer": false
+        },
+        {
+          "id": 20,
+          "questionId": 2,
+          "name": "62m²",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Tìm X: 5355 : X = 63 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "85"
+    },
+    {
+      "id": 7,
+      "name": "Tìm X: X : 15 = 315 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "4725"
+    },
+    {
+      "id": 8,
+      "name": "Tìm X: X x 8 = 2600 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "325"
+    },
+    {
+      "id": 9,
+      "name": "Tìm X: 140 x X = 11200 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "80"
+    },
+    {
+      "id": 10,
+      "name": "Tính: 186954 + 247436 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "424390"
+    },
+    {
+      "id": 11,
+      "name": "Tính: 839084 – 246937 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "622147"
+    },
+    {
+      "id": 12,
+      "name": "Tính: 428 × 39 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "16692"
+    },
+    {
+      "id": 13,
+      "name": "Tính: 4972 : 44 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "113"
+    },
+    {
+      "id": 14,
+      "name": "Một mảnh vườn hình chữ nhật có chiều dài 42m, chiều dài hơn chiều rộng 22m.  Diện tích mảnh vườn hình chữ nhật đó bằng bao nhiêu mét vuông? ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "840"
+    },
+    {
+      "id": 15,
+      "name": "Một mảnh vườn hình chữ nhật có chiều dài 42m, chiều dài hơn chiều rộng 22m.  Chu vi mảnh vườn hình chữ nhật đó bằng bao nhiêu mét vuông?",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "128"
+    }
+  ]
+}

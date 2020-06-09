@@ -1,0 +1,237 @@
+{
+  "id": 1,
+  "name": "Ôn tập giữa học kỳ 2 - Đề 62",
+  "description": "this is my quiz",
+  "questions": [
+    {
+      "id": 1,
+      "name": "Số liền trước của số: 9999 là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "questionId": 1,
+          "name": " 9899",
+          "isAnswer": false
+        },
+        {
+          "id": 2,
+          "questionId": 1,
+          "name": "9989",
+          "isAnswer": false
+        },
+        {
+          "id": 3,
+          "questionId": 1,
+          "name": "9998 ",
+          "isAnswer": true
+        },
+        {
+          "id": 4,
+          "questionId": 1,
+          "name": "9889",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Số bé nhất trong dãy số: 6289, 6299, 6298, 6288? ",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 5,
+          "questionId": 2,
+          "name": "6289",
+          "isAnswer": false
+        },
+        {
+          "id": 6,
+          "questionId": 2,
+          "name": "6299",
+          "isAnswer": false
+        },
+        {
+          "id": 7,
+          "questionId": 2,
+          "name": "6298 ",
+          "isAnswer": false
+        },
+        {
+          "id": 8,
+          "questionId": 2,
+          "name": "6288",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "8m 2dm = ...... dm?:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 9,
+          "questionId": 2,
+          "name": " 82dm",
+          "isAnswer": true
+        },
+        {
+          "id": 10,
+          "questionId": 2,
+          "name": "802dm",
+          "isAnswer": false
+        },
+        {
+          "id": 11,
+          "questionId": 2,
+          "name": "820dm",
+          "isAnswer": false
+        },
+        {
+          "id": 12,
+          "questionId": 2,
+          "name": "D. 10dm",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Ngày 8 tháng 3 là ngày thứ ba. Vậy ngày 15 tháng 3 là ngày thứ mấy?",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 13,
+          "questionId": 2,
+          "name": " thứ hai",
+          "isAnswer": false
+        },
+        {
+          "id": 14,
+          "questionId": 2,
+          "name": " thứ ba ",
+          "isAnswer": true
+        },
+        {
+          "id": 15,
+          "questionId": 2,
+          "name": " thứ tư",
+          "isAnswer": false
+        },
+        {
+          "id": 16,
+          "questionId": 2,
+          "name": "thứ năm",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Số liền trước của 3456 là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 17,
+          "questionId": 2,
+          "name": "A. 3457",
+          "isAnswer": false
+        },
+        {
+          "id": 18,
+          "questionId": 2,
+          "name": "B. 3458",
+          "isAnswer": false
+        },
+        {
+          "id": 19,
+          "questionId": 2,
+          "name": "C.3455",
+          "isAnswer": true
+        },
+        {
+          "id": 20,
+          "questionId": 2,
+          "name": "C.3454",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Tìm x: 4536 : X = 9  ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "504"
+    },
+    {
+      "id": 7,
+      "name": "Tìm x: X x 8 = 6480",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "810"
+    },
+    {
+      "id": 8,
+      "name": "Tìm x: X + 350 = 850 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "500"
+    },
+    {
+      "id": 9,
+      "name": "Tìm x: 1355 - X = 455 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "900"
+    },
+    {
+      "id": 10,
+      "name": "Tính : 6943 + 1347 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "8290"
+    },
+    {
+     "id": 11,
+      "name": "Tính : 9822 – 2918 =... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "6904"
+    },
+    {
+     "id": 12,
+      "name": "Tính : 1816 x 4 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "7264"
+    },
+    {
+     "id": 13,
+      "name": "Tính : 3192 : 7 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "456"
+    },
+    {
+     "id": 14,
+      "name": "Người ta uốn một đoạn dây thép vừa đủ thành một hình vuông có cạnh 5 cm. Tính độ dài đoạn dây đó là bao nhiêu cen ti mét?",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "20"
+    },
+    {
+      "id": 15,
+      "name": "Một lớp học có 25 học sinh được chia đều thành 5 tổ. Hỏi 3 tổ như thế có bao nhiêu học sinh? ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "15"
+    }
+  ]
+}

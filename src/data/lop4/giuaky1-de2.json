@@ -1,0 +1,237 @@
+{
+  "id": 1,
+  "name": "Ôn tập giữa học kỳ 1 - Đề 73",
+  "description": "this is my quiz",
+  "questions": [
+    {
+      "id": 1,
+      "name": "Giá trị của chữ số 9 trong số 924335 là bao nhiêu ?",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "questionId": 1,
+          "name": " 9",
+          "isAnswer": false
+        },
+        {
+          "id": 2,
+          "questionId": 1,
+          "name": " 900",
+          "isAnswer": false
+        },
+        {
+          "id": 3,
+          "questionId": 1,
+          "name": " 90 000 ",
+          "isAnswer": false
+        },
+        {
+          "id": 4,
+          "questionId": 1,
+          "name": " 900 000",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Số gồm “6 trăm nghìn, 2 nghìn, 5 trăm, 7 đơn vị” được viết là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 5,
+          "questionId": 2,
+          "name": " 602 507",
+          "isAnswer": true
+        },
+        {
+          "id": 6,
+          "questionId": 2,
+          "name": " 600 257  ",
+          "isAnswer": false
+        },
+        {
+          "id": 7,
+          "questionId": 2,
+          "name": " 602 057 ",
+          "isAnswer": false
+        },
+        {
+          "id": 8,
+          "questionId": 2,
+          "name": " 620 507",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Năm 2017 thuộc thế kỉ thứ mấy ?",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 9,
+          "questionId": 2,
+          "name": " thế kỉ XVIII ",
+          "isAnswer": false
+        },
+        {
+          "id": 10,
+          "questionId": 2,
+          "name": "thế kỉ XIX ",
+          "isAnswer": false
+        },
+        {
+          "id": 11,
+          "questionId": 2,
+          "name": "thế kỉ XX",
+          "isAnswer": false
+        },
+        {
+          "id": 12,
+          "questionId": 2,
+          "name": " thế kỉ XXI",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Giá trị của chữ số 7 trong số: 571638 là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 13,
+          "questionId": 2,
+          "name": " 700",
+          "isAnswer": false
+        },
+        {
+          "id": 14,
+          "questionId": 2,
+          "name": " 70000 ",
+          "isAnswer": true
+        },
+        {
+          "id": 15,
+          "questionId": 2,
+          "name": "700000",
+          "isAnswer": false
+        },
+        {
+          "id": 16,
+          "questionId": 2,
+          "name": "7000000",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Số thích hợp viết vào chỗ chấm: 5 phút 10 giây =………giây",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 17,
+          "questionId": 2,
+          "name": " 300",
+          "isAnswer": false
+        },
+        {
+          "id": 18,
+          "questionId": 2,
+          "name": " 310",
+          "isAnswer": true
+        },
+        {
+          "id": 19,
+          "questionId": 2,
+          "name": "130",
+          "isAnswer": false
+        },
+        {
+          "id": 20,
+          "questionId": 2,
+          "name": "140",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Tìm X: X + 678 = 7818  ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "7146"
+    },
+    {
+      "id": 7,
+      "name": "Tìm x: 4029 + X = 7684 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "3655"
+    },
+    {
+      "id": 8,
+      "name": "Tìm x: X - 1358 = 4768 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "6126"
+    },
+    {
+      "id": 9,
+      "name": "Tìm x: 2495 - X = 698 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "1797"
+    },
+    {
+      "id": 10,
+      "name": "Tính : 152399 + 24 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "152423"
+    },
+    {
+     "id": 11,
+      "name": "Tính : 69892508 – 22",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "69892486"
+    },
+    {
+     "id": 12,
+      "name": "Tính : 4293089 x 5 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "21465445"
+    },
+    {
+     "id": 13,
+      "name": "Tính : 43263 : 9 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "4807"
+    },
+    {
+     "id": 14,
+      "name": "Một cửa hàng có 3 bao gạo nếp, mỗi bao cân nặng 36kg và 6 bao gạo tẻ, mỗi bao cân nặng 54kg. Như vậy, trung bình mỗi bao gạo cân nặng số ki lô gam là",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "48"
+    },
+    {
+      "id": 15,
+      "name": "Một hình chữ nhật có chu vi là 28m. Nếu chiều dài bớt đi 8m thì sẽ được chiều rộng. Hỏi diện tích của hình chữ nhật đó là bao nhiêu mét vuông?",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "33"
+    }
+  ]
+}

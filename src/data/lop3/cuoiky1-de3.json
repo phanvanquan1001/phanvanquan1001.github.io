@@ -1,0 +1,239 @@
+{
+  "id": 1,
+  "name": "Ôn tập cuối học kỳ 1 - Đề 59",
+  "description": "this is my quiz",
+  "questions": [
+    {
+      "id": 1,
+      "name": "Số liền trước của 160 là",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "questionId": 1,
+          "name": "  161    ",
+          "isAnswer": false
+        },
+        {
+          "id": 2,
+          "questionId": 1,
+          "name": "  150",
+          "isAnswer": false
+        },
+        {
+          "id": 3,
+          "questionId": 1,
+          "name": " 159 ",
+          "isAnswer": true
+        },
+        {
+          "id": 4,
+          "questionId": 1,
+          "name": " 170",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": " Một cái ao hình vuông có cạnh 6 m.Chu vi của hình vuông đó là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 5,
+          "questionId": 2,
+          "name": "24m",
+          "isAnswer": true
+        },
+        {
+          "id": 6,
+          "questionId": 2,
+          "name": " 36m",
+          "isAnswer": false
+        },
+        {
+          "id": 7,
+          "questionId": 2,
+          "name": " 10m ",
+          "isAnswer": false
+        },
+        {
+          "id": 8,
+          "questionId": 2,
+          "name": " 12m",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "9m 8cm = .... cm. Số thích hợp cần điền vào chỗ chấm là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 9,
+          "questionId": 2,
+          "name": " 98",
+          "isAnswer": false
+        },
+        {
+          "id": 10,
+          "questionId": 2,
+          "name": " 908",
+          "isAnswer": true
+        },
+        {
+          "id": 11,
+          "questionId": 2,
+          "name": "980 ",
+          "isAnswer": false
+        },
+        {
+          "id": 12,
+          "questionId": 2,
+          "name": " 9080",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Gấp 7 lít lên 8 lần thì được:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 13,
+          "questionId": 2,
+          "name": "  15 lít",
+          "isAnswer": false
+        },
+        {
+          "id": 14,
+          "questionId": 2,
+          "name": " 49 lít",
+          "isAnswer": false
+        },
+        {
+          "id": 15,
+          "questionId": 2,
+          "name": "  56 lít ",
+          "isAnswer": true
+        },
+        {
+          "id": 16,
+          "questionId": 2,
+          "name": " 65 lít ",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Số liền sau 189 là: ",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 17,
+          "questionId": 2,
+          "name": " 188",
+          "isAnswer": false
+        },
+        {
+          "id": 18,
+          "questionId": 2,
+          "name": " 190",
+          "isAnswer": true
+        },
+        {
+          "id": 19,
+          "questionId": 2,
+          "name": " 198",
+          "isAnswer": false
+        },
+        {
+          "id": 20,
+          "questionId": 2,
+          "name": " 187",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Tìm X: X : 6 = 144 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "864"
+    },
+    {
+      "id": 7,
+      "name": "Tìm X: 785 : X = 157",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "5"
+    },
+     {
+      "id": 8,
+      "name": "Tìm X: 5 x X = 375 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "75"
+    },
+    {
+      "id": 9,
+      "name": "Tìm X: 67 x X = 603 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "9"
+    },
+    {
+      "id": 10,
+      "name": " Tính: 487 + 302 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "789"
+    },
+    {
+      "id": 11,
+      "name": "Tính: 660 – 251 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "409"
+    },
+    {
+      "id": 12,
+      "name": "Tính: 124 x 3 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "372"
+    },
+    {
+      "id": 13,
+      "name": "Tính: 847 : 7= ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "121"
+    },
+    {
+      "id": 14,
+      "name": "Tính: 22 x 35 = ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "770"
+    },
+    {
+      "id": 15,
+      "name": "Một quyển truyện dày 128 trang. An đã đọc được 3/4 số trang đó. Hỏi còn bao nhiêu trang truyện nữa mà An chưa đọc?  ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "32"
+    }
+    
+   
+  ]
+}

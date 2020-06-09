@@ -1,0 +1,237 @@
+{
+  "id": 1,
+  "name": "Ôn tập giữa học kỳ 1 - Đề 40",
+  "description": "this is my quiz",
+  "questions": [
+    {
+      "id": 1,
+      "name": " Tích của 4 và 9 là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "questionId": 1,
+          "name": "A. 49",
+          "isAnswer": false
+        },
+        {
+          "id": 2,
+          "questionId": 1,
+          "name": "B. 13",
+          "isAnswer": false
+        },
+        {
+          "id": 3,
+          "questionId": 1,
+          "name": "C. 36 ",
+          "isAnswer": true
+        },
+        {
+          "id": 4,
+          "questionId": 1,
+          "name": "D. 30",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": " Hiệu của 35 và 16 là",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 5,
+          "questionId": 2,
+          "name": "A. 9",
+          "isAnswer": false
+        },
+        {
+          "id": 6,
+          "questionId": 2,
+          "name": "B. 19",
+          "isAnswer": true
+        },
+        {
+          "id": 7,
+          "questionId": 2,
+          "name": "C.20 ",
+          "isAnswer": false
+        },
+        {
+          "id": 8,
+          "questionId": 2,
+          "name": "D. 51",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": " Các số 33, 54, 45 và 28 được xếp theo thứ tự từ bé đến lớn là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 9,
+          "questionId": 2,
+          "name": "A. 45, 54, 33, 28 .",
+          "isAnswer": false
+        },
+        {
+          "id": 10,
+          "questionId": 2,
+          "name": "B.28, 33, 45, 54.",
+          "isAnswer": true
+        },
+        {
+          "id": 11,
+          "questionId": 2,
+          "name": "C.45, 54, 28, 33.",
+          "isAnswer": false
+        },
+        {
+          "id": 12,
+          "questionId": 2,
+          "name": "D. 33, 28, 45, 54",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Số thích hợp điền vào dãy số : 3, 6, 9, 12,...,18, 21 là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 13,
+          "questionId": 2,
+          "name": "A. 13",
+          "isAnswer": false
+        },
+        {
+          "id": 14,
+          "questionId": 2,
+          "name": "B. 14 ",
+          "isAnswer": false
+        },
+        {
+          "id": 15,
+          "questionId": 2,
+          "name": "C.15",
+          "isAnswer": true
+        },
+        {
+          "id": 16,
+          "questionId": 2,
+          "name": "C.17",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Y x 4 = 12",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 17,
+          "questionId": 2,
+          "name": "A. 2",
+          "isAnswer": false
+        },
+        {
+          "id": 18,
+          "questionId": 2,
+          "name": "B. 3",
+          "isAnswer": true
+        },
+        {
+          "id": 19,
+          "questionId": 2,
+          "name": "C.4",
+          "isAnswer": false
+        },
+        {
+          "id": 20,
+          "questionId": 2,
+          "name": "C.5",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Điền dấu (>, <, =) vào chỗ chấm: 56 …… 7 x 8 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "="
+    },
+    {
+      "id": 7,
+      "name": "Điền dấu (>, <, =) vào chỗ chấm: 80 : 2 ... 20",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": ">"
+    },
+    {
+      "id": 8,
+      "name": "Điền dấu (>, <, =) vào chỗ chấm: 20 x 2 …… 70 – 20",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "<"
+    },
+    {
+      "id": 9,
+      "name": "Tìm X: X x 2 = 6",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "3"
+    },
+    {
+      "id": 10,
+      "name": "Tìm X : 3 + X = 15 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "12"
+    },
+    {
+     "id": 11,
+      "name": "Tính : 5 x 7 =... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "35"
+    },
+    {
+     "id": 12,
+      "name": "Tính : 28 : 4 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "7"
+    },
+    {
+     "id": 13,
+      "name": "Tính : 5 x 6 : 3 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "10"
+    },
+    {
+     "id": 14,
+      "name": "Tính : 6 : 3 x 5 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "10"
+    },
+    {
+      "id": 15,
+      "name": "Mỗi học sinh được mượn 5 quyển truyện. Hỏi 8 học sinh được mượn bao nhiêu quyển truyện.",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "40"
+    }
+  ]
+}

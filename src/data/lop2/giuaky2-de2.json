@@ -1,0 +1,237 @@
+{
+  "id": 1,
+  "name": "Ôn tập giữa học kỳ 2 - Đề 46",
+  "description": "this is my quiz",
+  "questions": [
+    {
+      "id": 1,
+      "name": "Số 863 được viết thành tổng các trăm, chục, đơn vị là: ",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "questionId": 1,
+          "name": "A. 800 + 60 + 3",
+          "isAnswer": true
+        },
+        {
+          "id": 2,
+          "questionId": 1,
+          "name": "B. 600 + 80 + 3",
+          "isAnswer": false
+        },
+        {
+          "id": 3,
+          "questionId": 1,
+          "name": "C.  600 + 30 + 8 ",
+          "isAnswer": false
+        },
+        {
+          "id": 4,
+          "questionId": 1,
+          "name": "D. 800 + 30 + 6",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Chọn đáp án đúng nhất: 1 m =…………cm.",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 5,
+          "questionId": 2,
+          "name": "A. 10",
+          "isAnswer": false
+        },
+        {
+          "id": 6,
+          "questionId": 2,
+          "name": "B. 100",
+          "isAnswer": true
+        },
+        {
+          "id": 7,
+          "questionId": 2,
+          "name": "C.1000 ",
+          "isAnswer": false
+        },
+        {
+          "id": 8,
+          "questionId": 2,
+          "name": "D. 10000",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": " Chọn đáp án đúng nhất: 2 giờ = …… phút :",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 9,
+          "questionId": 2,
+          "name": "A. 60 phút",
+          "isAnswer": false
+        },
+        {
+          "id": 10,
+          "questionId": 2,
+          "name": "B.90 phút",
+          "isAnswer": false
+        },
+        {
+          "id": 11,
+          "questionId": 2,
+          "name": "C.120 phút",
+          "isAnswer": true
+        },
+        {
+          "id": 12,
+          "questionId": 2,
+          "name": "D. 180 phút",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Ngày 14 tháng 1 năm 2018 là chủ nhật tuần này. Hỏi thứ bảy tuần sau là ngày nào?",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 13,
+          "questionId": 2,
+          "name": "A. 19",
+          "isAnswer": false
+        },
+        {
+          "id": 14,
+          "questionId": 2,
+          "name": "B. 20 ",
+          "isAnswer": true
+        },
+        {
+          "id": 15,
+          "questionId": 2,
+          "name": "C.21",
+          "isAnswer": false
+        },
+        {
+          "id": 16,
+          "questionId": 2,
+          "name": "C.18",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Có 15 cái kẹo chia đều cho 3 bạn. Hỏi mỗi bạn được bao nhiêu cái kẹo ?",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 17,
+          "questionId": 2,
+          "name": "A. 2",
+          "isAnswer": false
+        },
+        {
+          "id": 18,
+          "questionId": 2,
+          "name": "B. 3",
+          "isAnswer": false
+        },
+        {
+          "id": 19,
+          "questionId": 2,
+          "name": "C.4",
+          "isAnswer": false
+        },
+        {
+          "id": 20,
+          "questionId": 2,
+          "name": "C.5",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Tìm X:  X x 3 = 15 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "5"
+    },
+    {
+      "id": 7,
+      "name": "Tìm X: X – 15 = 37",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "52"
+    },
+    {
+      "id": 8,
+      "name": "Tìm X: X + 25 = 90 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "65"
+    },
+    {
+      "id": 9,
+      "name": "Tìm X: 100 : X = 4 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "25"
+    },
+    {
+      "id": 10,
+      "name": "Tính : 8 : 4 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "2"
+    },
+    {
+     "id": 11,
+      "name": "Tính : 50 : 5 =... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "10"
+    },
+    {
+     "id": 12,
+      "name": "Tính : 3 x 9 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "27"
+    },
+    {
+     "id": 13,
+      "name": "Tính :5 x 5 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "25"
+    },
+    {
+     "id": 14,
+      "name": "Tính : 12 : 4= ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "3"
+    },
+    {
+      "id": 15,
+      "name": "Cho tam giác ABC có độ dài các cạnh đều bằng nhau là 4 cm. Hỏi chu vi tam giác bằng bao nhiêu cm?",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "12"
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "id": 1,
+  "name": "Ôn tập giữa học kỳ 1 - Đề 55",
+  "description": "this is my quiz",
+  "questions": [
+    {
+      "id": 1,
+      "name": "Giá trị biểu thức: 789 – 45 + 55 là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "questionId": 1,
+          "name": "100",
+          "isAnswer": false
+        },
+        {
+          "id": 2,
+          "questionId": 1,
+          "name": "799",
+          "isAnswer": true
+        },
+        {
+          "id": 3,
+          "questionId": 1,
+          "name": "744 ",
+          "isAnswer": false
+        },
+        {
+          "id": 4,
+          "questionId": 1,
+          "name": "689",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Giá trị biểu thức: 930 – 18 : 3 là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 5,
+          "questionId": 2,
+          "name": " 924",
+          "isAnswer": true
+        },
+        {
+          "id": 6,
+          "questionId": 2,
+          "name": " 304",
+          "isAnswer": false
+        },
+        {
+          "id": 7,
+          "questionId": 2,
+          "name": "6 ",
+          "isAnswer": false
+        },
+        {
+          "id": 8,
+          "questionId": 2,
+          "name": " 912",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "7m 3 cm = ....... cm:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 9,
+          "questionId": 2,
+          "name": "73",
+          "isAnswer": false
+        },
+        {
+          "id": 10,
+          "questionId": 2,
+          "name": "703",
+          "isAnswer": true
+        },
+        {
+          "id": 11,
+          "questionId": 2,
+          "name": "10",
+          "isAnswer": false
+        },
+        {
+          "id": 12,
+          "questionId": 2,
+          "name": " 4",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Có 7 con vịt, số gà nhiều hơn số vịt 56 con. Hỏi số vịt bằng một phần mấy số gà?",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 13,
+          "questionId": 2,
+          "name": " 1/2",
+          "isAnswer": false
+        },
+        {
+          "id": 14,
+          "questionId": 2,
+          "name": " 1/9 ",
+          "isAnswer": true
+        },
+        {
+          "id": 15,
+          "questionId": 2,
+          "name": "2/3",
+          "isAnswer": false
+        },
+        {
+          "id": 16,
+          "questionId": 2,
+          "name": "1/6",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "8 x 7 <... x 8",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 17,
+          "questionId": 2,
+          "name": " 5",
+          "isAnswer": false
+        },
+        {
+          "id": 18,
+          "questionId": 2,
+          "name": " 6",
+          "isAnswer": false
+        },
+        {
+          "id": 19,
+          "questionId": 2,
+          "name": "7",
+          "isAnswer": false
+        },
+        {
+          "id": 20,
+          "questionId": 2,
+          "name": "8",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Tìm X: X : 7 = 100 + 8 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "756"
+    },
+    {
+      "id": 7,
+      "name": "Tìm X: X x 7 = 357 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "51"
+    },
+    {
+      "id": 8,
+      "name": "Tìm X: 12 x X = 960 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "80"
+    },
+    {
+      "id": 9,
+      "name": "Tìm X: 805 : X = 35 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "23"
+    },
+    {
+      "id": 10,
+      "name": "Tính : 267 + 125 – 278= ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "14"
+    },
+    {
+     "id": 11,
+      "name": "Tính : 728 – 245 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "483"
+    },
+    {
+     "id": 12,
+      "name": "Tính : 538 – 38 x 3 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "424"
+    },
+    {
+     "id": 13,
+      "name": "Tính : 798 : 7 - 14 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "100"
+    },
+    {
+     "id": 14,
+      "name": "Một cửa hàng có 453 kg gạo, đã bán được 1/3 số gạo đó. Hỏi cửa hàng còn lại bao nhiêu ki- lô- gam gạo?",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "302"
+    },
+    {
+      "id": 15,
+      "name": "Có 750 quyển sách sách xếp đều vào 5 tủ, mỗi tủ có 2 ngăn. Hỏi mỗi ngăn có bao nhiêu quyển sách, biết rằng mỗi ngăn có số sách như nhau? ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "75"
+    }
+  ]
+}

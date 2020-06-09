@@ -1,0 +1,183 @@
+ {
+    "id": 1,
+    "name": "Ôn tập cuối học kỳ 2 - Đề 52",
+    "description": "this is my quiz",
+    "questions": [{
+            "id": 1,
+            "name": " Các số 526; 562; 625; 652 viết theo thứ tự từ bé đến lớn là:",
+            "questionTypeId": 1,
+            "userAnswer": "",
+            "options": [{
+                    "id": 1,
+                    "questionId": 1,
+                    "name": "A. 526, 562, 625, 652",
+                    "isAnswer": true
+                },
+                {
+                    "id": 2,
+                    "questionId": 1,
+                    "name": "B. 562, 526, 625, 652",
+                    "isAnswer": false
+                },
+                {
+                    "id": 3,
+                    "questionId": 1,
+                    "name": "C. 562, 526, 652, 625 ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 4,
+                    "questionId": 1,
+                    "name": "D.  526, 562,  652, 625",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": " Kết quả của phép tính: 211 + 716 =...",
+            "questionTypeId": 1,
+            "userAnswer": "",
+            "options": [{
+                    "id": 5,
+                    "questionId": 2,
+                    "name": "A. 927",
+                    "isAnswer": true
+                },
+                {
+                    "id": 6,
+                    "questionId": 2,
+                    "name": "B. 959",
+                    "isAnswer": false
+                },
+                {
+                    "id": 7,
+                    "questionId": 2,
+                    "name": "C.729 ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 8,
+                    "questionId": 2,
+                    "name": "D. 279",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": " Thương và số chia lần lượt là 40 và 5, vậy số bị chia là bao nhiêu",
+            "questionTypeId": 1,
+            "userAnswer": "",
+            "options": [{
+                    "id": 9,
+                    "questionId": 2,
+                    "name": "A. 45",
+                    "isAnswer": false
+                },
+                {
+                    "id": 10,
+                    "questionId": 2,
+                    "name": "B. 35",
+                    "isAnswer": false
+                },
+                {
+                    "id": 11,
+                    "questionId": 2,
+                    "name": "C.100 ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 12,
+                    "questionId": 2,
+                    "name": "D. 200",
+                    "isAnswer": true
+                }
+            ]
+        },
+         {
+            "id": 4,
+            "name": " Đúng ghi Đ, sai ghi S: 38m + 27m = 65m ",
+            "questionTypeId": 2,
+            "userAnswer": "",
+            "correctAnswer": "Đ"
+        },
+        {
+            "id": 5,
+            "name": "Đúng ghi Đ, sai ghi S: 16cm : 4 = 12cm  ",
+            "questionTypeId": 2,
+            "userAnswer": "",
+            "correctAnswer": "S"
+        },
+        {
+            "id": 6,
+            "name": "Đúng ghi Đ, sai ghi S: 16cm : 1000m = 10km",
+            "questionTypeId": 2,
+            "userAnswer": "",
+            "correctAnswer": "S"
+        },
+        {
+            "id": 7,
+            "name": "Tìm X: 400 + X = 200 x 4 ",
+            "questionTypeId": 2,
+            "userAnswer": "",
+            "correctAnswer": "400"
+        },
+        {
+            "id": 8,
+            "name": "Tìm X:  295 - X = 180 = …. ",
+            "questionTypeId": 2,
+            "userAnswer": "",
+            "correctAnswer": "115"
+        },
+        {
+            "id": 9,
+            "name": "Điền dấu (>, <, =) vào chỗ trống: 400 x 2 ... 600 + 200 ",
+            "questionTypeId": 2,
+            "userAnswer": "",
+            "correctAnswer": "="
+        },
+        {
+            "id": 10,
+            "name": "Điền dấu (>, <, =) vào chỗ trống: 100 ... 1000 ",
+            "questionTypeId": 2,
+            "userAnswer": "",
+            "correctAnswer": "<"
+        },
+        {
+            "id": 11,
+            "name": "Điền dấu (>, <, =) vào chỗ trống: 30 : 5 x 3 ... 12",
+            "questionTypeId": 2,
+            "userAnswer": "",
+            "correctAnswer": ">"
+        },
+        {
+            "id": 12,
+            "name": "Tính: 400 + 90 = …… ",
+            "questionTypeId": 2,
+            "userAnswer": "",
+            "correctAnswer": "490"
+        },
+        {
+            "id": 13,
+            "name": "Tính: 764 - 353 = ….. ",
+            "questionTypeId": 2,
+            "userAnswer": "",
+            "correctAnswer": "411"
+        },
+        {
+            "id": 14,
+            "name": "Tính: 850 - 350 = ….. ",
+            "questionTypeId": 2,
+            "userAnswer": "",
+            "correctAnswer": "500"
+        },
+        {
+            "id": 15,
+            "name": "Đội Một trồng được 350 cây, đội Hai trồng được ít hơn đội Một 140 cây. Hỏi đội Hai trồng được bao nhiêu cây?",
+            "questionTypeId": 2,
+            "userAnswer": "",
+            "correctAnswer": "210"
+        }
+    ]
+}

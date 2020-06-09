@@ -1,0 +1,237 @@
+{
+  "id": 1,
+  "name": "Ôn tập giữa học kỳ 1 - Đề 41",
+  "description": "this is my quiz",
+  "questions": [
+    {
+      "id": 1,
+      "name": " Số 52 được viết thành các số tròn chục và đơn vị.",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "questionId": 1,
+          "name": "A. 50 + 2",
+          "isAnswer": true
+        },
+        {
+          "id": 2,
+          "questionId": 1,
+          "name": "B. 5 + 2",
+          "isAnswer": false
+        },
+        {
+          "id": 3,
+          "questionId": 1,
+          "name": "C. 5 + 20 ",
+          "isAnswer": false
+        },
+        {
+          "id": 4,
+          "questionId": 1,
+          "name": "D. 2 + 5",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": " Số 45 là kết quả của phép tính nào?",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 5,
+          "questionId": 2,
+          "name": "A. 23 + 32",
+          "isAnswer": false
+        },
+        {
+          "id": 6,
+          "questionId": 2,
+          "name": "B. 15 + 25",
+          "isAnswer": false
+        },
+        {
+          "id": 7,
+          "questionId": 2,
+          "name": "C.39 + 6 ",
+          "isAnswer": true
+        },
+        {
+          "id": 8,
+          "questionId": 2,
+          "name": "D. 40 + 4",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Đề - xi - mét được viết tắt là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 9,
+          "questionId": 2,
+          "name": "A. cm .",
+          "isAnswer": false
+        },
+        {
+          "id": 10,
+          "questionId": 2,
+          "name": "B.mm.",
+          "isAnswer": false
+        },
+        {
+          "id": 11,
+          "questionId": 2,
+          "name": "C.m",
+          "isAnswer": false
+        },
+        {
+          "id": 12,
+          "questionId": 2,
+          "name": "D. dm",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Chọn Số thích hợp vào chỗ chấm: 7 dm = ....... cm:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 13,
+          "questionId": 2,
+          "name": "A. 7",
+          "isAnswer": false
+        },
+        {
+          "id": 14,
+          "questionId": 2,
+          "name": "B. 70 ",
+          "isAnswer": true
+        },
+        {
+          "id": 15,
+          "questionId": 2,
+          "name": "C.17",
+          "isAnswer": false
+        },
+        {
+          "id": 16,
+          "questionId": 2,
+          "name": "C.71",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Chọn số thích hợp vào chỗ chấm: 9 x ... > 58",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 17,
+          "questionId": 2,
+          "name": "A. 4",
+          "isAnswer": false
+        },
+        {
+          "id": 18,
+          "questionId": 2,
+          "name": "B. 5",
+          "isAnswer": false
+        },
+        {
+          "id": 19,
+          "questionId": 2,
+          "name": "C.6",
+          "isAnswer": false
+        },
+        {
+          "id": 20,
+          "questionId": 2,
+          "name": "C.7",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Điền dấu (>, <, =) vào chỗ chấm:  76kg – 22kg …… 40kg + 14kg",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "="
+    },
+    {
+      "id": 7,
+      "name": "Điền dấu (>, <, =) vào chỗ chấm: 8kg + 7kg ... 13kg",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": ">"
+    },
+    {
+      "id": 8,
+      "name": "Điền dấu (>,<, =) vào chỗ chấm: 25kg + 5kg …… 40kg",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "<"
+    },
+    {
+      "id": 9,
+      "name": "Tìm X: X : 2 = 32",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "64"
+    },
+    {
+      "id": 10,
+      "name": "Tìm X : 3 x X = 90 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "30"
+    },
+    {
+     "id": 11,
+      "name": "Tính : 72 – 30 =... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "42"
+    },
+    {
+     "id": 12,
+      "name": "Tính : 59 – 25 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "34"
+    },
+    {
+     "id": 13,
+      "name": "Tính : 40 + 30 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "70"
+    },
+    {
+     "id": 14,
+      "name": "Tính : 27 + 68 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "95"
+    },
+    {
+      "id": 15,
+      "name": "Mỗi học sinh được mượn 5 quyển truyện. Hỏi 8 học sinh được mượn bao nhiêu quyển truyện.",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "40"
+    }
+  ]
+}

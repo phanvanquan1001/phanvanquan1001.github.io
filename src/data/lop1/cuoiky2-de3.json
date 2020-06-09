@@ -1,0 +1,214 @@
+{
+  "id": 1,
+  "name": "Ôn tập cuối học kỳ 2 - Đề 35",
+  "description": "this is my quiz",
+  "questions": [
+    {
+      "id": 1,
+      "name": "Số liền trước và liền sau của số 17 là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "questionId": 1,
+          "name": "A. 15 và 16 ",
+          "isAnswer": false
+        },
+        {
+          "id": 2,
+          "questionId": 1,
+          "name": "B. 15 và 18",
+          "isAnswer": false
+        },
+        {
+          "id": 3,
+          "questionId": 1,
+          "name": "C. 16 và 18",
+          "isAnswer": true
+        },
+        {
+          "id": 4,
+          "questionId": 1,
+          "name": "D. 15 và 17",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Số gồm 8 chục và 2 đơn vị là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 5,
+          "questionId": 2,
+          "name": "A. 28",
+          "isAnswer": false
+        },
+        {
+          "id": 6,
+          "questionId": 2,
+          "name": "B. 92",
+          "isAnswer": false
+        },
+        {
+          "id": 7,
+          "questionId": 2,
+          "name": "C. 82",
+          "isAnswer": true
+        },
+        {
+          "id": 8,
+          "questionId": 2,
+          "name": "D. 80",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": " Kết quả đúng của phép tính: 19 + 9 =…..?",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 9,
+          "questionId": 3,
+          "name": "A. 18",
+          "isAnswer": false
+        },
+        {
+          "id": 10,
+          "questionId": 3,
+          "name": "B. 29",
+          "isAnswer": false
+        },
+        {
+          "id": 11,
+          "questionId": 3,
+          "name": "C. 28",
+          "isAnswer": true
+        },
+        {
+          "id": 12,
+          "questionId": 3,
+          "name": "D. 39",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": " Số 'chín mươi tám' viết là",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 13,
+          "questionId": 4,
+          "name": "A. 98",
+          "isAnswer": true
+        },
+        {
+          "id": 14,
+          "questionId": 4,
+          "name": "B. 908",
+          "isAnswer": false
+        },
+        {
+          "id": 15,
+          "questionId": 4,
+          "name": "C. 89",
+          "isAnswer": false
+        },
+        {
+          "id": 16,
+          "questionId": 4,
+          "name": "D. 809",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Tính: 38 + 7 = ...",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "45"
+    },
+    {
+      "id": 6,
+      "name": "Tính: 54 - 8 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "46"
+    },
+    {
+      "id": 7,
+      "name": "Tính : 72 - 3 = ...",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "69"
+    },
+    {
+      "id": 8,
+      "name": "Tính: 28 + 6 = ... ",
+      "questionTypeId": 2,
+      "correctAnswer": "34",
+      "userAnswer": ""
+    },
+    {
+      "id": 9,
+      "name": "Tính: 17 - 9 = ... ",
+      "questionTypeId": 2,
+      "correctAnswer": "8",
+      "userAnswer": ""
+    },
+    {
+      "id": 10,
+      "name": "Đúng ghi Đ, sai ghi S vào ô trống: 39 + 23 = 52",
+      "questionTypeId": 2,
+      "correctAnswer": "S",
+      "userAnswer": ""
+    },
+    {
+      "id": 11,
+      "name": "Đúng ghi Đ, sai ghi S vào ô trống: 43 – 5 = 48",
+      "questionTypeId": 2,
+      "correctAnswer": "Đ",
+      "userAnswer": ""
+    },
+    {
+      "id": 12,
+      "name": "Đúng ghi Đ, sai ghi S vào ô trống: 12 + 23 = 45",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "S"
+    },
+    {
+      "id": 13,
+      "name": "Đúng ghi Đ, sai ghi S vào ô trống: 26 – 9 = 15",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "S"
+    },
+    {
+      "id": 14,
+      "name": "Đúng ghi Đ, sai ghi S vào ô trống: 70 + 35 = 35",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "Đ"
+    },
+   
+    {
+      "id": 15,
+      "name": "An có 19 quả táo, An cho em 7 quả. Hỏi An còn bao nhiêu quả táo?",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "12"
+    }
+    
+  ]
+}

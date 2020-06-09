@@ -1,0 +1,237 @@
+{
+  "id": 1,
+  "name": "Ôn tập giữa học kỳ 1 - Đề 38",
+  "description": "this is my quiz",
+  "questions": [
+    {
+      "id": 1,
+      "name": " Chọn đáp án đúng: 100cm = ........dm",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "questionId": 1,
+          "name": "A. 10dm",
+          "isAnswer": true
+        },
+        {
+          "id": 2,
+          "questionId": 1,
+          "name": "B. 100dm",
+          "isAnswer": false
+        },
+        {
+          "id": 3,
+          "questionId": 1,
+          "name": "C. 1dm ",
+          "isAnswer": false
+        },
+        {
+          "id": 4,
+          "questionId": 1,
+          "name": "D. 20dm",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Kết quả của phép tính: 50 + 45 = .........:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 5,
+          "questionId": 2,
+          "name": "A. 80",
+          "isAnswer": false
+        },
+        {
+          "id": 6,
+          "questionId": 2,
+          "name": "B. 85",
+          "isAnswer": false
+        },
+        {
+          "id": 7,
+          "questionId": 2,
+          "name": "C.90 ",
+          "isAnswer": false
+        },
+        {
+          "id": 8,
+          "questionId": 2,
+          "name": "D. 95",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": " Số 38 liền sau của số nào?",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 9,
+          "questionId": 2,
+          "name": "A. 39",
+          "isAnswer": false
+        },
+        {
+          "id": 10,
+          "questionId": 2,
+          "name": "B.37",
+          "isAnswer": true
+        },
+        {
+          "id": 11,
+          "questionId": 2,
+          "name": "C.40",
+          "isAnswer": false
+        },
+        {
+          "id": 12,
+          "questionId": 2,
+          "name": "D. 30",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "100cm + 50cm = ........cm",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 13,
+          "questionId": 2,
+          "name": "A. 150cm",
+          "isAnswer": true
+        },
+        {
+          "id": 14,
+          "questionId": 2,
+          "name": "B. 100cm ",
+          "isAnswer": false
+        },
+        {
+          "id": 15,
+          "questionId": 2,
+          "name": "C.105cm",
+          "isAnswer": false
+        },
+        {
+          "id": 16,
+          "questionId": 2,
+          "name": "C.180cm",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Số bé nhất có hai chữ số là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 17,
+          "questionId": 2,
+          "name": "A. 90",
+          "isAnswer": false
+        },
+        {
+          "id": 18,
+          "questionId": 2,
+          "name": "B. 100",
+          "isAnswer": false
+        },
+        {
+          "id": 19,
+          "questionId": 2,
+          "name": "C.10",
+          "isAnswer": true
+        },
+        {
+          "id": 20,
+          "questionId": 2,
+          "name": "C.99",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Tìm x: 45 + X = 80   ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "35"
+    },
+    {
+      "id": 7,
+      "name": "Tìm x:  X - 27 = 59",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "86"
+    },
+    {
+      "id": 8,
+      "name": "Tìm x: X + 48 = 98 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "50"
+    },
+    {
+      "id": 9,
+      "name": "Tìm x: 70 - X = 33 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "37"
+    },
+    {
+      "id": 10,
+      "name": "Tính :  27 + 15 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "42"
+    },
+    {
+     "id": 11,
+      "name": "Tính : 50 + 9 =... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "59"
+    },
+    {
+     "id": 12,
+      "name": "Tính : 75 + 18 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "93"
+    },
+    {
+     "id": 13,
+      "name": "Tính :55 + 13 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "68"
+    },
+    {
+     "id": 14,
+      "name": "Tính : 88 - 15= ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "73"
+    },
+    {
+      "id": 15,
+      "name": "Một cửa hàng buổi sáng bán được 45 kg gạo, buổi chiều bán được nhiều hơn buổi sáng 15 kg gạo. Hỏi buổi chiều cửa hàng đó bán được bao nhiêu kg gạo?",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "60"
+    }
+  ]
+}

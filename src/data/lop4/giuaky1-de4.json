@@ -1,0 +1,237 @@
+{
+  "id": 1,
+  "name": "Ôn tập giữa học kỳ 1 - Đề 75",
+  "description": "this is my quiz",
+  "questions": [
+    {
+      "id": 1,
+      "name": "Điền số thích hợp: 4 tấn 29 kg = ..... kg ? ",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "questionId": 1,
+          "name": " 4029 kg",
+          "isAnswer": true
+        },
+        {
+          "id": 2,
+          "questionId": 1,
+          "name": " 429 kg",
+          "isAnswer": false
+        },
+        {
+          "id": 3,
+          "questionId": 1,
+          "name": " 4290 kg ",
+          "isAnswer": false
+        },
+        {
+          "id": 4,
+          "questionId": 1,
+          "name": " 40029 kg",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Số Ba mươi lăm triệu bốn trăm sáu mươi hai nghìn hai trăm linh tám được viết là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 5,
+          "questionId": 2,
+          "name": " 35 462 208",
+          "isAnswer": true
+        },
+        {
+          "id": 6,
+          "questionId": 2,
+          "name": " 35 462 280  ",
+          "isAnswer": false
+        },
+        {
+          "id": 7,
+          "questionId": 2,
+          "name": " 35 460 208",
+          "isAnswer": false
+        },
+        {
+          "id": 8,
+          "questionId": 2,
+          "name": " 35 462 008",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": " Chữ số 2 trong số 7 642 874 có giá trị là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 9,
+          "questionId": 2,
+          "name": " 20 000",
+          "isAnswer": false
+        },
+        {
+          "id": 10,
+          "questionId": 2,
+          "name": "200 000 ",
+          "isAnswer": false
+        },
+        {
+          "id": 11,
+          "questionId": 2,
+          "name": "200",
+          "isAnswer": false
+        },
+        {
+          "id": 12,
+          "questionId": 2,
+          "name": " 2000",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Cho biểu thức m + 115 – n, với m = 75 và n = 29. Giá trị của biểu thức là bao nhiêu?",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 13,
+          "questionId": 2,
+          "name": " 116",
+          "isAnswer": false
+        },
+        {
+          "id": 14,
+          "questionId": 2,
+          "name": " 69 ",
+          "isAnswer": false
+        },
+        {
+          "id": 15,
+          "questionId": 2,
+          "name": "161",
+          "isAnswer": true
+        },
+        {
+          "id": 16,
+          "questionId": 2,
+          "name": "219",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "3 giờ = ………… phút",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 17,
+          "questionId": 2,
+          "name": " 150 phút",
+          "isAnswer": false
+        },
+        {
+          "id": 18,
+          "questionId": 2,
+          "name": " 200 phút",
+          "isAnswer": false
+        },
+        {
+          "id": 19,
+          "questionId": 2,
+          "name": "120 phút",
+          "isAnswer": false
+        },
+        {
+          "id": 20,
+          "questionId": 2,
+          "name": "180 phút",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Tìm X: X + 1234 + 3012 = 4724  ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "478"
+    },
+    {
+      "id": 7,
+      "name": "Tìm x: X - 285 + 85 = 2495 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "2865"
+    },
+    {
+      "id": 8,
+      "name": "Tìm X: X : 7 x 34 = 8704 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "1792"
+    },
+    {
+      "id": 9,
+      "name": "Tìm X: X x 8 : 9 = 8440 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "9495"
+    },
+    {
+      "id": 10,
+      "name": "Tính : 125328 + 248459 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "373787"
+    },
+    {
+     "id": 11,
+      "name": "Tính : 635783 – 290876",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "344907"
+    },
+    {
+     "id": 12,
+      "name": "Tính : 5625 – 5000 : (121 – 113) = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "5000"
+    },
+    {
+     "id": 13,
+      "name": "Tính : 43263 : 9 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "4807"
+    },
+    {
+     "id": 14,
+      "name": "Tuổi ông và tuổi cháu cộng lại là 92 tuổi. Ông hơn cháu 64 tuổi. Hỏi ông bao nhiêu tuổi.",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "78"
+    },
+    {
+      "id": 15,
+      "name": "Tuổi ông và tuổi cháu cộng lại là 92 tuổi. Ông hơn cháu 64 tuổi. Hỏi cháu bao nhiêu tuổi?",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "14"
+    }
+  ]
+}

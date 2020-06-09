@@ -1,0 +1,187 @@
+{
+  "id": 1,
+  "name": "Ôn tập cuối học kỳ 1 - Đề 29",
+  "description": "this is my quiz",
+  "questions": [
+    {
+      "id": 1,
+      "name": "Số điền vào chỗ chấm là: 2 , ... , ... , 5, .... , 7",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "questionId": 1,
+          "name": " 3,4,5",
+          "isAnswer": false
+        },
+        {
+          "id": 2,
+          "questionId": 1,
+          "name": "3,4,6",
+          "isAnswer": true
+        },
+        {
+          "id": 3,
+          "questionId": 1,
+          "name": " 5,6,7",
+          "isAnswer": false
+        },
+        {
+          "id": 4,
+          "questionId": 1,
+          "name": "3, 4, 7",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Các số: 5 , 8 , 6 , 10 , 3 được viết theo thứ tự từ bé đến lớn là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 5,
+          "questionId": 2,
+          "name": "5, 8 , 6 , 10, 3",
+          "isAnswer": false
+        },
+        {
+          "id": 6,
+          "questionId": 2,
+          "name": "5 , 10 , 6, 8 , 3",
+          "isAnswer": false
+        },
+        {
+          "id": 7,
+          "questionId": 2,
+          "name": "3 , 5 , 6 , 8, 10",
+          "isAnswer": true
+        },
+        {
+          "id": 8,
+          "questionId": 2,
+          "name": "5, 6, 3, 8, 10",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": " Chọn câu trả lời đúng nhất 7 + 3 =... ?:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 9,
+          "questionId": 3,
+          "name": "8",
+          "isAnswer": false
+        },
+        {
+          "id": 10,
+          "questionId": 3,
+          "name": "9",
+          "isAnswer": false
+        },
+        {
+          "id": 11,
+          "questionId": 3,
+          "name": "10",
+          "isAnswer": true
+        },
+        {
+          "id": 12,
+          "questionId": 3,
+          "name": "6",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name":  " Tính: 10 – 5 = ....",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "5"
+    },
+    {
+      "id": 5,
+      "name": "Tính: 3 + 5 = ...",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "8"
+    },  
+    {
+      "id": 6,
+      "name": "Tính: 9 – 4 =....",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "5"
+    },
+    {
+      "id": 7,
+      "name": "Tính: 7 + 3 = ...",
+      "questionTypeId": 2,
+      "correctAnswer": "10",
+      "userAnswer": ""
+    },
+    {
+      "id": 8,
+      "name": "Tính: 3 + 6= ...",
+      "questionTypeId": 2,
+      "correctAnswer": "9",
+      "userAnswer": ""
+    },
+    {
+      "id": 9,
+      "name": "Tính: 10 - ... = 5",
+      "questionTypeId": 2,
+      "correctAnswer": "5",
+      "userAnswer": ""
+    },
+    {
+      "id": 10,
+      "name": "Tính: 3 + ... = 7",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "4"
+    },
+    {
+      "id": 11,
+      "name": "Điền dấu (>, <, =) thích hợp vào chỗ chấm: 7 - 5 ... 2",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "="
+    },
+    {
+      "id": 12,
+      "name": "Điền dấu (>, <, =) thích hợp vào chỗ chấm:10 + 0 ... 5 + 5.",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "="
+    },
+    {
+      "id": 13,
+      "name": "Điền dấu (>, <, =) thích hợp vào chỗ chấm: 9 ... 4 + 4",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": ">"
+    },
+    {
+      "id": 14,
+      "name": "Điền dấu (>, <, =) thích hợp vào chỗ chấm: 5 + 2 ... 3 + 5",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "<"
+    },
+    {
+      "id": 15,
+      "name": "Điền dấu (>, <, =) thích hợp vào chỗ chấm: 6 + 2 ... 4 + 5",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "<"
+    }
+]
+}

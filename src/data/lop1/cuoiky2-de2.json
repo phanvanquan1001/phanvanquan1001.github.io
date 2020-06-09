@@ -1,0 +1,213 @@
+{
+  "id": 1,
+  "name": "Ôn tập cuối học kỳ 2 - Đề 34",
+  "description": "this is my quiz",
+  "questions": [
+    {
+      "id": 1,
+      "name": "Số “Sáu mươi ba“ viết là::",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "questionId": 1,
+          "name": "603",
+          "isAnswer": false
+        },
+        {
+          "id": 2,
+          "questionId": 1,
+          "name": "36",
+          "isAnswer": false
+        },
+        {
+          "id": 3,
+          "questionId": 1,
+          "name": "63",
+          "isAnswer": true
+        },
+        {
+          "id": 4,
+          "questionId": 1,
+          "name": "306",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Số 73 đứng liền sau số nào?",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 5,
+          "questionId": 2,
+          "name": "74",
+          "isAnswer": false
+        },
+        {
+          "id": 6,
+          "questionId": 2,
+          "name": "75",
+          "isAnswer": false
+        },
+        {
+          "id": 7,
+          "questionId": 2,
+          "name": "72",
+          "isAnswer": true
+        },
+        {
+          "id": 8,
+          "questionId": 2,
+          "name": "71",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": " Kết quả đúng của phép tính: 40cm + 50cm =…..?",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 9,
+          "questionId": 3,
+          "name": " 79cm",
+          "isAnswer": false
+        },
+        {
+          "id": 10,
+          "questionId": 3,
+          "name": "89cm",
+          "isAnswer": false
+        },
+        {
+          "id": 11,
+          "questionId": 3,
+          "name": "90cm",
+          "isAnswer": true
+        },
+        {
+          "id": 12,
+          "questionId": 3,
+          "name": "69cm",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": " Số 85 đọc là",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 13,
+          "questionId": 4,
+          "name": "A. Tám mươi lăm",
+          "isAnswer": true
+        },
+        {
+          "id": 14,
+          "questionId": 4,
+          "name": "B. Tám mươi năm",
+          "isAnswer": false
+        },
+        {
+          "id": 15,
+          "questionId": 4,
+          "name": "C. Tám lăm",
+          "isAnswer": false
+        },
+        {
+          "id": 16,
+          "questionId": 4,
+          "name": "D. Tám năm",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Số thích hợp điền vào ô trống: 35 + 65 = ... + 20",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "80"
+    },
+    {
+      "id": 6,
+      "name": "Số thích hợp điền vào ô trống: 30 + 55 = ... + 25",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "60"
+    },
+    {
+      "id": 7,
+      "name": "Số thích hợp điền vào ô trống: 90 - 45 = ... + 45",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "0"
+    },
+    {
+      "id": 8,
+      "name": "Số thích hợp điền vào ô trống: 50 - 25 = ... + 10",
+      "questionTypeId": 2,
+      "correctAnswer": "15",
+      "userAnswer": ""
+    },
+    {
+      "id": 9,
+      "name": "Đúng ghi Đ, sai ghi S vào ô trống: 66 – 33 = 33",
+      "questionTypeId": 2,
+      "correctAnswer": "Đ",
+      "userAnswer": ""
+    },
+    {
+      "id": 10,
+      "name": "Đúng ghi Đ, sai ghi S vào ô trống: 47 – 17 = 37",
+      "questionTypeId": 2,
+      "correctAnswer": "S",
+      "userAnswer": ""
+    },
+    {
+      "id": 11,
+      "name": "Đúng ghi Đ, sai ghi S vào ô trống: 100 – 22 = 80",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "S"
+    },
+    {
+      "id": 12,
+      "name": "Đúng ghi Đ, sai ghi S vào ô trống: 70 + 21 = 91",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "Đ"
+    },
+    {
+      "id": 13,
+      "name": "Đúng ghi Đ, sai ghi S vào ô trống: 70 + 21 = 100 - 9",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "Đ"
+    },
+    {
+      "id": 14,
+      "name": "Lan có 35 cái kẹo, Lan đã ăn 11 cái kẹo. Hỏi Lan còn lại bao nhiêu cái kẹo?",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "24"
+    },
+    {
+      "id": 15,
+      "name": "Lớp em trồng được 45 cây hoa, sau đó trong thêm được 35 cây hoa nữa. Hỏi lớp em trồng được tất cả bao nhiêu cây hoa?",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "80"
+    }
+    
+  ]
+}

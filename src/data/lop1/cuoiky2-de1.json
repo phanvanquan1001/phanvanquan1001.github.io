@@ -1,0 +1,213 @@
+{
+  "id": 1,
+  "name": "Ôn tập cuối học kỳ 2 - Đề 4",
+  "description": "this is my quiz",
+  "questions": [
+    {
+      "id": 1,
+      "name": "Số tròn chục bé nhất là:80 , 90 , 10 , 50:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "questionId": 1,
+          "name": "50",
+          "isAnswer": false
+        },
+        {
+          "id": 2,
+          "questionId": 1,
+          "name": "80",
+          "isAnswer": false
+        },
+        {
+          "id": 3,
+          "questionId": 1,
+          "name": "10",
+          "isAnswer": true
+        },
+        {
+          "id": 4,
+          "questionId": 1,
+          "name": "90",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Số 90 đứng liền sau số nào?",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 5,
+          "questionId": 2,
+          "name": "89",
+          "isAnswer": true
+        },
+        {
+          "id": 6,
+          "questionId": 2,
+          "name": "98",
+          "isAnswer": false
+        },
+        {
+          "id": 7,
+          "questionId": 2,
+          "name": "91",
+          "isAnswer": false
+        },
+        {
+          "id": 8,
+          "questionId": 2,
+          "name": "92",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": " Kết quả đúng của phép tính: 39cm + 50cm =…..?",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 9,
+          "questionId": 3,
+          "name": " 79cm",
+          "isAnswer": false
+        },
+        {
+          "id": 10,
+          "questionId": 3,
+          "name": "89cm",
+          "isAnswer": true
+        },
+        {
+          "id": 11,
+          "questionId": 3,
+          "name": "90cm",
+          "isAnswer": false
+        },
+        {
+          "id": 12,
+          "questionId": 3,
+          "name": "69cm",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": " Trong mỗi tuần lễ em đi học các ngày:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 13,
+          "questionId": 4,
+          "name": "A. Thứ bảy, chủ nhật",
+          "isAnswer": false
+        },
+        {
+          "id": 14,
+          "questionId": 4,
+          "name": "B. Thứ hai, thứ ba, thứ tư",
+          "isAnswer": false
+        },
+        {
+          "id": 15,
+          "questionId": 4,
+          "name": "C. Thứ hai, thứ ba, thứ tư, thứ năm",
+          "isAnswer": false
+        },
+        {
+          "id": 16,
+          "questionId": 4,
+          "name": "D. Thứ hai, thứ ba, thứ tư, thứ năm, thứ sáu",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Số thích hợp điền vào ô trống: 20 + 65 = ... + 20",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "65"
+    },
+    {
+      "id": 6,
+      "name": "Số thích hợp điền vào ô trống: 30 + 50 = ... + 20",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "60"
+    },
+    {
+      "id": 7,
+      "name": "Số thích hợp điền vào ô trống: 90 - 30 = ... + 20",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "40"
+    },
+    {
+      "id": 8,
+      "name": "Số thích hợp điền vào ô trống: 50 - 25 = ... + 15",
+      "questionTypeId": 2,
+      "correctAnswer": "10",
+      "userAnswer": ""
+    },
+    {
+      "id": 9,
+      "name": "Đúng ghi Đ, sai ghi S vào ô trống: 66 – 33 = 51",
+      "questionTypeId": 2,
+      "correctAnswer": "S",
+      "userAnswer": ""
+    },
+    {
+      "id": 10,
+      "name": "Đúng ghi Đ, sai ghi S vào ô trống: 47 – 2 = 45",
+      "questionTypeId": 2,
+      "correctAnswer": "Đ",
+      "userAnswer": ""
+    },
+    {
+      "id": 11,
+      "name": "Đúng ghi Đ, sai ghi S vào ô trống: 44 – 22 = 22",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "Đ"
+    },
+    {
+      "id": 12,
+      "name": "Đúng ghi Đ, sai ghi S vào ô trống: 8 + 11 = 18",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "S"
+    },
+    {
+      "id": 13,
+      "name": "Cây bưởi nhà Nam có 65 quả, bố đã hái xuống 34 quả để bán. Hỏi trên cây bưởi nhà Nam còn bao nhiêu quả?",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "31"
+    },
+    {
+      "id": 14,
+      "name": "Lớp em có 21 bạn gái và 14 bạn trai. Hỏi lớp em có tất cả bao nhiêu bạn?",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "35"
+    },
+    {
+      "id": 15,
+      "name": "Lớp em có tổng là 50 bạn, trong đó có 30 bạn nam. Hỏi lớp có bao nhiêu bạn nữ?",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "20"
+    }
+    
+  ]
+}

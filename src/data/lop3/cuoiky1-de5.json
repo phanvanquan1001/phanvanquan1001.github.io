@@ -1,0 +1,239 @@
+{
+  "id": 1,
+  "name": "Ôn tập cuối học kỳ 1 - Đề 61",
+  "description": "this is my quiz",
+  "questions": [
+    {
+      "id": 1,
+      "name": "856: 4 có kết quả là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "questionId": 1,
+          "name": "  214    ",
+          "isAnswer": true
+        },
+        {
+          "id": 2,
+          "questionId": 1,
+          "name": "  241  ",
+          "isAnswer": false
+        },
+        {
+          "id": 3,
+          "questionId": 1,
+          "name": " 225 ",
+          "isAnswer": false
+        },
+        {
+          "id": 4,
+          "questionId": 1,
+          "name": " 220",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": " 64 x 5 có kết quả là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 5,
+          "questionId": 2,
+          "name": "203",
+          "isAnswer": false
+        },
+        {
+          "id": 6,
+          "questionId": 2,
+          "name": " 320 ",
+          "isAnswer": true
+        },
+        {
+          "id": 7,
+          "questionId": 2,
+          "name": " 415 ",
+          "isAnswer": false
+        },
+        {
+          "id": 8,
+          "questionId": 2,
+          "name": " 450 ",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "75+ 15 x 2 có kết quả là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 9,
+          "questionId": 2,
+          "name": " 180",
+          "isAnswer": false
+        },
+        {
+          "id": 10,
+          "questionId": 2,
+          "name": " 187",
+          "isAnswer": false
+        },
+        {
+          "id": 11,
+          "questionId": 2,
+          "name": "105 ",
+          "isAnswer": true
+        },
+        {
+          "id": 12,
+          "questionId": 2,
+          "name": " 150",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "7 gấp lên 8 lần được :",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 13,
+          "questionId": 2,
+          "name": "  64 ",
+          "isAnswer": false
+        },
+        {
+          "id": 14,
+          "questionId": 2,
+          "name": " 56 ",
+          "isAnswer": true
+        },
+        {
+          "id": 15,
+          "questionId": 2,
+          "name": "  49 ",
+          "isAnswer": false
+        },
+        {
+          "id": 16,
+          "questionId": 2,
+          "name": "  42 ",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Một hình vuông có cạnh là 60cm. Chu vi hình vuông đó là: ",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 17,
+          "questionId": 2,
+          "name": " 200cm",
+          "isAnswer": false
+        },
+        {
+          "id": 18,
+          "questionId": 2,
+          "name": " 140cm",
+          "isAnswer": false
+        },
+        {
+          "id": 19,
+          "questionId": 2,
+          "name": " 240cm",
+          "isAnswer": true
+        },
+        {
+          "id": 20,
+          "questionId": 2,
+          "name": " 220cm",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Tìm X: X : 7 = 12 x 8   ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "672"
+    },
+    {
+      "id": 7,
+      "name": "Tìm X: 685 : X = 5",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "137"
+    },
+     {
+      "id": 8,
+      "name": "Tìm X: X x 7 = 861",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "123"
+    },
+    {
+      "id": 9,
+      "name": "Tìm X: 9 x X = 666 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "74"
+    },
+    {
+      "id": 10,
+      "name": " Tính: 526 + 147 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "673"
+    },
+    {
+      "id": 11,
+      "name": "Tính: 627- 459 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "168"
+    },
+    {
+      "id": 12,
+      "name": "Tính: 419 x 2=... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "838"
+    },
+    {
+      "id": 13,
+      "name": "Tính: 475 : 5=... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "95"
+    },
+    {
+      "id": 14,
+      "name": "Tính:  (12 + 11) x 3 =... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "69"
+    },
+    {
+      "id": 15,
+      "name": "Một cửa hàng có 96 kg đường, đã bán 1/4 số ki-lô gam đường đó. Hỏi cửa hàng còn lại bao nhiêu ki-lô-gam đường?  ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "72"
+    }
+    
+   
+  ]
+}

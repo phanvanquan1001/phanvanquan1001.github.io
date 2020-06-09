@@ -1,0 +1,237 @@
+{
+  "id": 1,
+  "name": "Ôn tập giữa học kỳ 2 - Đề 77",
+  "description": "this is my quiz",
+  "questions": [
+    {
+      "id": 1,
+      "name": "Phân số nào dưới đây lớn hơn 1?",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "questionId": 1,
+          "name": "  3/2",
+          "isAnswer": true
+        },
+        {
+          "id": 2,
+          "questionId": 1,
+          "name": "  9/21",
+          "isAnswer": false
+        },
+        {
+          "id": 3,
+          "questionId": 1,
+          "name": " 16/16 ",
+          "isAnswer": false
+        },
+        {
+          "id": 4,
+          "questionId": 1,
+          "name": " 8/14",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Phân số lớn nhất trong các phân số 3/4, 7/7, 3/2, 4/3là",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 5,
+          "questionId": 2,
+          "name": " 3/4",
+          "isAnswer": false
+        },
+        {
+          "id": 6,
+          "questionId": 2,
+          "name": " 7/7",
+          "isAnswer": false
+        },
+        {
+          "id": 7,
+          "questionId": 2,
+          "name": " 3/2 ",
+          "isAnswer": true
+        },
+        {
+          "id": 8,
+          "questionId": 2,
+          "name": " 4/3",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Các phân số được sắp xếp theo thứ tự từ lớn đến bé là: ",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 9,
+          "questionId": 2,
+          "name": " 2/3, 5/6, 4/2",
+          "isAnswer": false
+        },
+        {
+          "id": 10,
+          "questionId": 2,
+          "name": " 5/6, 2/3, 4/2",
+          "isAnswer": false
+        },
+        {
+          "id": 11,
+          "questionId": 2,
+          "name": " 4/2, 5/6, 2/3 ",
+          "isAnswer": true
+        },
+        {
+          "id": 12,
+          "questionId": 2,
+          "name": " 2/3, 4/2, 5/6",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Một lớp học có 18 học sinh nữ và 12 học sinh nam. Hỏi số học sinh nam chiếm bao nhiêu phần số học sinh cả lớp?",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 13,
+          "questionId": 2,
+          "name": " 2/3",
+          "isAnswer": false
+        },
+        {
+          "id": 14,
+          "questionId": 2,
+          "name": " 2/5 ",
+          "isAnswer": true
+        },
+        {
+          "id": 15,
+          "questionId": 2,
+          "name": " 3/5 ",
+          "isAnswer": false
+        },
+        {
+          "id": 16,
+          "questionId": 2,
+          "name": " 3/2 ",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Số thích hợp viết vào chỗ chấm để 45m² 6cm² = ........... cm² là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 17,
+          "questionId": 2,
+          "name": " 456",
+          "isAnswer": false
+        },
+        {
+          "id": 18,
+          "questionId": 2,
+          "name": "  4506",
+          "isAnswer": false
+        },
+        {
+          "id": 19,
+          "questionId": 2,
+          "name": " 456000",
+          "isAnswer": false
+        },
+        {
+          "id": 20,
+          "questionId": 2,
+          "name": " 450006",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Tìm x: X/5 + 3/4 = 23/20 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "2"
+    },
+    {
+      "id": 7,
+      "name": "Tìm x: 3/5 : X = 3 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "1/5"
+    },
+    {
+      "id": 8,
+      "name": "Tìm x: X x 5 = 1235 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "247"
+    },
+    {
+      "id": 9,
+      "name": "Tìm x: 160 x X = 800 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "5"
+    },
+    {
+      "id": 10,
+      "name": "Tính : 7/15 + 4/5 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "17/15"
+    },
+    {
+     "id": 11,
+      "name": "Tính : 4/5 + 5/8 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "1/2"
+    },
+    {
+     "id": 12,
+      "name": "Tính : 3/2 - 3/8 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "7/24"
+    },
+    {
+     "id": 13,
+      "name": "Tính : 1/2 : 2/5 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "5/4"
+    },
+    {
+     "id": 14,
+      "name": "Hiện nay anh hơn em 5 tuổi. Biết rằng 5 năm nữa thì tổng số tuổi của hai anh em là 25. Tính tuổi của em hiện nay.",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "5"
+    },
+    {
+      "id": 15,
+      "name": " Một mảnh đất hình chữ nhật có chiều dài 90 m, chiều rộng bằng 3/5 chiều dài. Tính diện tích mảnh vườn đó. ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "4860"
+    }
+  ]
+}

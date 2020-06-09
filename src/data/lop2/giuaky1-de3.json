@@ -1,0 +1,237 @@
+{
+  "id": 1,
+  "name": "Ôn tập giữa học kỳ 1 - Đề 39",
+  "description": "this is my quiz",
+  "questions": [
+    {
+      "id": 1,
+      "name": " Chọn đáp án đúng: 5dm = ........cm",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "questionId": 1,
+          "name": "A. 5cm",
+          "isAnswer": false
+        },
+        {
+          "id": 2,
+          "questionId": 1,
+          "name": "B. 500cm",
+          "isAnswer": false
+        },
+        {
+          "id": 3,
+          "questionId": 1,
+          "name": "C. 50cm ",
+          "isAnswer": true
+        },
+        {
+          "id": 4,
+          "questionId": 1,
+          "name": "D. 55cm",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Kết quả của phép tính: 70 + 12 = ......:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 5,
+          "questionId": 2,
+          "name": "A. 80",
+          "isAnswer": false
+        },
+        {
+          "id": 6,
+          "questionId": 2,
+          "name": "B. 85",
+          "isAnswer": false
+        },
+        {
+          "id": 7,
+          "questionId": 2,
+          "name": "C.90 ",
+          "isAnswer": false
+        },
+        {
+          "id": 8,
+          "questionId": 2,
+          "name": "D. 82",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": " Số liền sau số 49 là số nào?",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 9,
+          "questionId": 2,
+          "name": "A. 39",
+          "isAnswer": false
+        },
+        {
+          "id": 10,
+          "questionId": 2,
+          "name": "B.48",
+          "isAnswer": false
+        },
+        {
+          "id": 11,
+          "questionId": 2,
+          "name": "C.50",
+          "isAnswer": true
+        },
+        {
+          "id": 12,
+          "questionId": 2,
+          "name": "D. 59",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "10cm + 50cm = ........dm",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 13,
+          "questionId": 2,
+          "name": "A. 150dm",
+          "isAnswer": false
+        },
+        {
+          "id": 14,
+          "questionId": 2,
+          "name": "B. 6dm ",
+          "isAnswer": true
+        },
+        {
+          "id": 15,
+          "questionId": 2,
+          "name": "C.15dm",
+          "isAnswer": false
+        },
+        {
+          "id": 16,
+          "questionId": 2,
+          "name": "C.50dm",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Số bé nhất có hai chữ số là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 17,
+          "questionId": 2,
+          "name": "A. 90",
+          "isAnswer": false
+        },
+        {
+          "id": 18,
+          "questionId": 2,
+          "name": "B. 100",
+          "isAnswer": false
+        },
+        {
+          "id": 19,
+          "questionId": 2,
+          "name": "C.10",
+          "isAnswer": true
+        },
+        {
+          "id": 20,
+          "questionId": 2,
+          "name": "C.99",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Điền dấu (>, <, =) vào chỗ chấm: 56 …… 20 + 36 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "="
+    },
+    {
+      "id": 7,
+      "name": "Điền dấu (>, <, =) vào chỗ chấm: 43 – 32 ... 20",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "<"
+    },
+    {
+      "id": 8,
+      "name": "Điền dấu (>, <, =) vào chỗ chấm: 31 + 10 …… 50 – 20",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": ">"
+    },
+    {
+      "id": 9,
+      "name": "Điền dấu (>, <, =) vào chỗ chấm: 16 + 25 ... 25 + 16",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "="
+    },
+    {
+      "id": 10,
+      "name": "Tính :  27 + 15 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "42"
+    },
+    {
+     "id": 11,
+      "name": "Tính : 36 kg + 22 kg =...kg ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "58"
+    },
+    {
+     "id": 12,
+      "name": "Tính : 26 + 12 – 10 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "28"
+    },
+    {
+     "id": 13,
+      "name": "Tính :28 kg + 14 kg = ...kg ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "42"
+    },
+    {
+     "id": 14,
+      "name": "Tính : 30 – 20 + 14 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "24"
+    },
+    {
+      "id": 15,
+      "name": "Mai cân nặng 32 kg, Hằng cân nặng hơn Mai 4 kg. Hỏi Hằng cân nặng bao nhiêu Ki-lô-gam?",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "36"
+    }
+  ]
+}

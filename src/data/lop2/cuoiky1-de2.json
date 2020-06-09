@@ -1,0 +1,226 @@
+{
+  "id": 1,
+  "name": "Ôn tập cuối học kỳ 1 - Đề 42",
+  "description": "this is my quiz",
+  "questions": [
+    {
+      "id": 1,
+      "name": "Số liền trước của 69 là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "questionId": 1,
+          "name": "A. 60",
+          "isAnswer": false
+        },
+        {
+          "id": 2,
+          "questionId": 1,
+          "name": "B. 68",
+          "isAnswer": true
+        },
+        {
+          "id": 3,
+          "questionId": 1,
+          "name": "C. 70 ",
+          "isAnswer": false
+        },
+        {
+          "id": 4,
+          "questionId": 1,
+          "name": "D. 80",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": " Số lớn nhất có hai chữ số là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 5,
+          "questionId": 2,
+          "name": "A. 10",
+          "isAnswer": false
+        },
+        {
+          "id": 6,
+          "questionId": 2,
+          "name": "B. 90",
+          "isAnswer": false
+        },
+        {
+          "id": 7,
+          "questionId": 2,
+          "name": "C.99 ",
+          "isAnswer": true
+        },
+        {
+          "id": 8,
+          "questionId": 2,
+          "name": "D. 100",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Chọn số thích hợp vào chỗ chấm: ... - 35 = 65 ",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 9,
+          "questionId": 2,
+          "name": "A. 90",
+          "isAnswer": false
+        },
+        {
+          "id": 10,
+          "questionId": 2,
+          "name": "B. 30",
+          "isAnswer": false
+        },
+        {
+          "id": 11,
+          "questionId": 2,
+          "name": "C.100 ",
+          "isAnswer": true
+        },
+        {
+          "id": 12,
+          "questionId": 2,
+          "name": "D. 35",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Điền dấu >, < = vào chỗ trống: 23 + 45 ... 90 – 30",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 13,
+          "questionId": 2,
+          "name": "A. =",
+          "isAnswer": false
+        },
+        {
+          "id": 14,
+          "questionId": 2,
+          "name": "B. <",
+          "isAnswer": true
+        },
+        {
+          "id": 15,
+          "questionId": 2,
+          "name": "C.> ",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Điền dấu >, < = vào chỗ trống: 15 - 8 - 5... 13 - 8 - 2",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 16,
+          "questionId": 2,
+          "name": "A. =",
+          "isAnswer": false
+        },
+        {
+          "id": 17,
+          "questionId": 2,
+          "name": "B. <",
+          "isAnswer": true
+        },
+        {
+          "id": 18,
+          "questionId": 2,
+          "name": "C.> ",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Tìm X: X - 30 = 45 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "75"
+    },
+    {
+      "id": 7,
+      "name": "Tìm X: X + 43 = 90 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "47"
+    },
+     {
+      "id": 8,
+      "name": "Tìm X: 9 x X = 90 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "10"
+    },
+    {
+      "id": 9,
+      "name": "Tìm X: 80 : X = 4 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "20"
+    }
+    ,
+    {
+      "id": 10,
+      "name": "Tính:  26 + 29 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "55"
+    },
+    {
+      "id": 11,
+      "name": "Tính:45 + 38 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "83"
+    },
+    {
+      "id": 12,
+      "name": "Tính: 41 - 27 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "14"
+    },
+    {
+      "id": 13,
+      "name": "Tính: 60 – 16 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "44"
+    },
+    {
+      "id": 14,
+      "name": "Năm nay bà 62 tuổi, mẹ kém bà 28 tuổi. Hỏi tổng số tuổi của bà và mẹ năm nay là bao nhiêu? ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "96"
+    },
+    {
+      "id": 15,
+      "name": "Nhà Lan nuôi một con bò sữa. Ngày thứ nhất con bò này cho 43l sữa. ngày thứ hai nó cho ít hơn ngày thứ nhất 18l sữa. Hỏi ngày thứ hai con bò cho bao nhiêu lít sữa? ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "25"
+    }
+  ]
+}

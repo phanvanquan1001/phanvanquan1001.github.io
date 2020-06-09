@@ -1,0 +1,239 @@
+{
+  "id": 1,
+  "name": "Ôn tập cuối học kỳ 1 - Đề 60",
+  "description": "this is my quiz",
+  "questions": [
+    {
+      "id": 1,
+      "name": "Một chiếc bìa hình chữ nhật có chiều dài 25 cm, chiều rộng 1dm. Chu vi miếng bìa đó là bao nhiêu đề – xi – mét?",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "questionId": 1,
+          "name": "  52dm    ",
+          "isAnswer": false
+        },
+        {
+          "id": 2,
+          "questionId": 1,
+          "name": "  70cm",
+          "isAnswer": false
+        },
+        {
+          "id": 3,
+          "questionId": 1,
+          "name": " 7dm ",
+          "isAnswer": true
+        },
+        {
+          "id": 4,
+          "questionId": 1,
+          "name": " 70dm",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": " Có 750 quyển sách sách xếp đều vào 5 tủ, mỗi tủ có 2 ngăn. Hỏi mỗi ngăn có bao nhiêu quyển sách, biết rằng mỗi ngăn có số sách như nhau?",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 5,
+          "questionId": 2,
+          "name": "125 quyển",
+          "isAnswer": false
+        },
+        {
+          "id": 6,
+          "questionId": 2,
+          "name": " 60 quyển",
+          "isAnswer": false
+        },
+        {
+          "id": 7,
+          "questionId": 2,
+          "name": " 75 quyển ",
+          "isAnswer": true
+        },
+        {
+          "id": 8,
+          "questionId": 2,
+          "name": " 30 quyển",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "7m 3 cm = ... cm:. Số thích hợp cần điền vào chỗ chấm là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 9,
+          "questionId": 2,
+          "name": " 73",
+          "isAnswer": false
+        },
+        {
+          "id": 10,
+          "questionId": 2,
+          "name": " 703",
+          "isAnswer": true
+        },
+        {
+          "id": 11,
+          "questionId": 2,
+          "name": "10 ",
+          "isAnswer": false
+        },
+        {
+          "id": 12,
+          "questionId": 2,
+          "name": " 4",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Giá trị biểu thức: 930 – 18 : 3 là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 13,
+          "questionId": 2,
+          "name": "  924 ",
+          "isAnswer": true
+        },
+        {
+          "id": 14,
+          "questionId": 2,
+          "name": " 304",
+          "isAnswer": false
+        },
+        {
+          "id": 15,
+          "questionId": 2,
+          "name": "  6 ",
+          "isAnswer": false
+        },
+        {
+          "id": 16,
+          "questionId": 2,
+          "name": "  912 ",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Giá trị biểu thức: 789 – 45 + 55 là: ",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 17,
+          "questionId": 2,
+          "name": " 100",
+          "isAnswer": false
+        },
+        {
+          "id": 18,
+          "questionId": 2,
+          "name": " 799",
+          "isAnswer": false
+        },
+        {
+          "id": 19,
+          "questionId": 2,
+          "name": " 744",
+          "isAnswer": false
+        },
+        {
+          "id": 20,
+          "questionId": 2,
+          "name": " 689",
+          "isAnswer": true
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Tìm X: X : 7 = 100 + 8   ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "756"
+    },
+    {
+      "id": 7,
+      "name": "Tìm X: 785 : X = 157",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "5"
+    },
+     {
+      "id": 8,
+      "name": "Tìm X: X x 7 = 357",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "51"
+    },
+    {
+      "id": 9,
+      "name": "Tìm X: 67 x X = 603 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "9"
+    },
+    {
+      "id": 10,
+      "name": " Tính: 487 + 45 x 7 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "802"
+    },
+    {
+      "id": 11,
+      "name": "Tính: 630 : 7 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "90"
+    },
+    {
+      "id": 12,
+      "name": "Tính: 235 x 2=... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "470"
+    },
+    {
+      "id": 13,
+      "name": "Tính: 462 + 7 – 40=... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "429"
+    },
+    {
+      "id": 14,
+      "name": "Tính: 205 + 60 +35 =... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "300"
+    },
+    {
+      "id": 15,
+      "name": "Một hình chữ nhật có chiều dài 60m, chiều rộng là 20m. Hỏi chu vi hình chữ nhật đó là bao nhiêu m?  ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "160"
+    }
+    
+   
+  ]
+}

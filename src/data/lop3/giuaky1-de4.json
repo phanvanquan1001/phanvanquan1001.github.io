@@ -1,0 +1,237 @@
+{
+  "id": 1,
+  "name": "Ôn tập giữa học kỳ 1 - Đề 56",
+  "description": "this is my quiz",
+  "questions": [
+    {
+      "id": 1,
+      "name": "Số liền trước của 130 là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 1,
+          "questionId": 1,
+          "name": "131",
+          "isAnswer": false
+        },
+        {
+          "id": 2,
+          "questionId": 1,
+          "name": "140",
+          "isAnswer": false
+        },
+        {
+          "id": 3,
+          "questionId": 1,
+          "name": "129 ",
+          "isAnswer": true
+        },
+        {
+          "id": 4,
+          "questionId": 1,
+          "name": "120",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Một cái ao hình vuông có cạnh 6 m. Chu vi của hình vuông đó là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 5,
+          "questionId": 2,
+          "name": " 24m",
+          "isAnswer": true
+        },
+        {
+          "id": 6,
+          "questionId": 2,
+          "name": " 36m",
+          "isAnswer": false
+        },
+        {
+          "id": 7,
+          "questionId": 2,
+          "name": "10m ",
+          "isAnswer": false
+        },
+        {
+          "id": 8,
+          "questionId": 2,
+          "name": " 12cm",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "9m 8cm = ... cm . Số thích hợp cần điền vào chỗ chấm là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 9,
+          "questionId": 2,
+          "name": "98",
+          "isAnswer": false
+        },
+        {
+          "id": 10,
+          "questionId": 2,
+          "name": "908",
+          "isAnswer": true
+        },
+        {
+          "id": 11,
+          "questionId": 2,
+          "name": "980",
+          "isAnswer": false
+        },
+        {
+          "id": 12,
+          "questionId": 2,
+          "name": " 9080",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Gấp 7 lít lên 10 lần thì được:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 13,
+          "questionId": 2,
+          "name": " 15 lít",
+          "isAnswer": false
+        },
+        {
+          "id": 14,
+          "questionId": 2,
+          "name": " 49 lít ",
+          "isAnswer": false
+        },
+        {
+          "id": 15,
+          "questionId": 2,
+          "name": "70 lít",
+          "isAnswer": true
+        },
+        {
+          "id": 16,
+          "questionId": 2,
+          "name": "65 lít",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Số nhỏ nhất có 4 chữ số là:",
+      "questionTypeId": 1,
+      "userAnswer": "",
+      "options": [
+        {
+          "id": 17,
+          "questionId": 2,
+          "name": " 1011",
+          "isAnswer": false
+        },
+        {
+          "id": 18,
+          "questionId": 2,
+          "name": " 1001",
+          "isAnswer": false
+        },
+        {
+          "id": 19,
+          "questionId": 2,
+          "name": "1000",
+          "isAnswer": true
+        },
+        {
+          "id": 20,
+          "questionId": 2,
+          "name": "1111",
+          "isAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Tìm X: 549 + X = 1326 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "777"
+    },
+    {
+      "id": 7,
+      "name": "Tìm X: X - 636 = 5618",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "6254"
+    },
+    {
+      "id": 8,
+      "name": "Tìm X: X + 756 = 960 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "204"
+    },
+    {
+      "id": 9,
+      "name": "Tìm X: 1897 - X = 678 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "1219"
+    },
+    {
+      "id": 10,
+      "name": "Tính : 235 + 312= ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "547"
+    },
+    {
+     "id": 11,
+      "name": "Tính : 692 – 579 ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "113"
+    },
+    {
+     "id": 12,
+      "name": "Tính : 128 x 4 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "512"
+    },
+    {
+     "id": 13,
+      "name": "Tính : 168 : 6 = ... ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "28"
+    },
+    {
+     "id": 14,
+      "name": "Lan có 6 hộp kẹo, Lan cho bạn 24 viên kẹo thì Lan còn lại 4 hộp kẹo nguyên. Hỏi Lan có tất cả bao nhiêu viên kẹo?",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "72"
+    },
+    {
+      "id": 15,
+      "name": "Một cửa hàng nhập về 168 bao đường và chia đều vào 3 kho, sau đó lại nhập thêm vào mỗi kho 16 bao đường và bán hết số bao đường trong 2 kho. Hỏi cửa hàng đã bán bao nhiêu bao đường? ",
+      "questionTypeId": 2,
+      "userAnswer": "",
+      "correctAnswer": "216"
+    }
+  ]
+}
